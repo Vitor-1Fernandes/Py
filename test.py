@@ -23,17 +23,14 @@ def scipyTests(dataset: str, columns:list[int] = None, alpha: float=0.05, criter
             dfGroup1 = df[df[col1] == criteria[0]]
             dfGroup2 = df[df[col1] == criteria[1]]
 
-    print(col1)
-    print(col2)
-
     print(f'\nSimple Means (Not valid for comparison)\n \n dfGroup1 = {dfGroup1[col2].mean()} \n dfGroup2 = {dfGroup2[col2].mean()} \n')
 # ______________________________________________________________________________________________________________________________________
 
 # Set distribuition using shapiro
 
     if alternative == 'num':
-        test, pShapiro1 = shapiro(dfGroup1[col1])
-        test, pShapiro2 = shapiro(dfGroup1[col2])
+        test, pShapiro1 = shapiro(dfGroup1[col2])
+        test, pShapiro2 = shapiro(dfGroup2[col2])
 
     if alternative == 'str':
          test, pShapiro1 = shapiro(dfGroup1[col2])
@@ -44,7 +41,7 @@ def scipyTests(dataset: str, columns:list[int] = None, alpha: float=0.05, criter
 # Set variety using levene 
 
     if alternative == 'num':
-        test, pLevene = levene(dfGroup1[col1], dfGroup2[col1])
+        test, pLevene = levene(dfGroup1[col2], dfGroup2[col2])
 
     if alternative == 'str':
         test, pLevene = levene(dfGroup1[col2], dfGroup2[col2])
@@ -58,14 +55,14 @@ def scipyTests(dataset: str, columns:list[int] = None, alpha: float=0.05, criter
     if dist == 'normal':
 
         if variety == 'Homocedástica':
-            return print(f'Distribuition {dist} and Variety {variety} (Use ttest_ind) \n\nIs H0 refusable? {"Yes" if ttest_ind(dfGroup1[col1], dfGroup2[col1], alternative=greaterOrLess)[1] < alpha else "No"}')
+            return print(f'Distribuition {dist} and Variety {variety} (Use ttest_ind) \n\nIs H0 refusable? {"Yes" if ttest_ind(dfGroup1[col2], dfGroup2[col2], alternative=greaterOrLess)[1] < alpha else "No"}')
 
         if variety == 'Heterocedástica': 
-            return print(f'Distribuition {dist} and Variety {variety} (Use ttest_ind(equal_var=False)) \n\nIs H0 refusable? {"Yes" if ttest_ind(dfGroup1[col1], dfGroup2[col1], alternative=greaterOrLess, equal_var=False)[1] < alpha else "No"}')
+            return print(f'Distribuition {dist} and Variety {variety} (Use ttest_ind(equal_var=False)) \n\nIs H0 refusable? {"Yes" if ttest_ind(dfGroup1[col2], dfGroup2[col2], alternative=greaterOrLess, equal_var=False)[1] < alpha else "No"}')
 
 
     if dist == 'not normal':
-            return print(f'Distribuition {dist} and Variety {variety} (Use mannwhitneyu) \n\nIs H0 refusable? {"Yes" if mannwhitneyu(dfGroup1[col1], dfGroup2[col1], alternative=greaterOrLess)[1] < alpha else "No"}  \n')
+            return print(f'Distribuition {dist} and Variety {variety} (Use mannwhitneyu) \n\nIs H0 refusable? {"Yes" if mannwhitneyu(dfGroup1[col2], dfGroup2[col2], alternative=greaterOrLess)[1] < alpha else "No"}  \n')
      
 
 #_______________________________________________________________________________________________________________________________________
