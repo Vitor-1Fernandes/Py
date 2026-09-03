@@ -2,7 +2,7 @@ from scipy.stats import *
 import pandas as pd
 
 
-def scipyTests(dataset: str, columns:list[int] = None, alpha: float=0.05, criteria:list = 0, alternative:str = None, greaterOrLess:str = None) -> print:
+def scipyTests(dataset: str, columns:list[int] = None, alpha: float=0.05, criteria:list = 0, alternative:str = None, greaterOrLess:str = None) ->None:
 
     """ Verify normality, analyse variety and try hypotesiss test"""
 
@@ -28,23 +28,14 @@ def scipyTests(dataset: str, columns:list[int] = None, alpha: float=0.05, criter
 
 # Set distribuition using shapiro
 
-    if alternative == 'num':
-        test, pShapiro1 = shapiro(dfGroup1[col2])
-        test, pShapiro2 = shapiro(dfGroup2[col2])
-
-    if alternative == 'str':
-         test, pShapiro1 = shapiro(dfGroup1[col2])
-         test, pShapiro2 = shapiro(dfGroup2[col2])
+    test, pShapiro1 = shapiro(dfGroup1[col2])
+    test, pShapiro2 = shapiro(dfGroup2[col2])
     
     dist = 'normal' if pShapiro1 > alpha and pShapiro2 > alpha else 'not normal'
 
 # Set variety using levene 
 
-    if alternative == 'num':
-        test, pLevene = levene(dfGroup1[col2], dfGroup2[col2])
-
-    if alternative == 'str':
-        test, pLevene = levene(dfGroup1[col2], dfGroup2[col2])
+    test, pLevene = levene(dfGroup1[col2], dfGroup2[col2])
 
     variety = 'Homocedástica' if pLevene > alpha else 'Heterocedástica'
 # ______________________________________________________________________________________________________________________________________
@@ -89,7 +80,7 @@ def scipyTests(dataset: str, columns:list[int] = None, alpha: float=0.05, criter
 
 # H0 = Pink cable doesn't have more lights blinking than Blue Cable
 # H1 = Pink cable have more lights blinking than Blue Cable
-scipyTests('dataset_wifi_alien.csv', columns=[7, 3], criteria=['rosa','azul'], alternative='str', greaterOrLess='greater')
+# scipyTests('dataset_wifi_alien.csv', columns=[7, 3], criteria=['rosa','azul'], alternative='str', greaterOrLess='greater')
 
 # H0 = Pink cable doesn't have less lights blinking than Blue Cable
 # H1 = Pink cable have less lights blinking than Blue Cable
