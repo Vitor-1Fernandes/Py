@@ -1,0 +1,1441 @@
+,execucao_id,prova_id,mago,categoria,tarefa,dificuldade,pressao,resistencia_alvo,alvo_movel,contexto,tempo_execucao_s,precisao_pct,potencia_pct,controle_pct,sucesso,dano_colateral,soma_skills
+0,E00001,P001,Albus Dumbledore,Ataque,Expelliarmus,1,10,1,0,duelo_real,11.08,83.18,83.76,83.17,1,0,242.03
+1,E00002,P002,Albus Dumbledore,Ataque,Estupefaca,3,7,9,0,missao,14.97,77.64,76.94,81.93,1,0,234.54
+2,E00003,P003,Albus Dumbledore,Ataque,Bombarda,4,3,4,0,treino,13.89,79.25,88.36,85.62,1,0,248.34000000000003
+3,E00004,P004,Albus Dumbledore,Ataque,Confringo,4,9,8,0,duelo_real,13.79,85.3,87.36,81.13,0,0,251.99999999999997
+4,E00005,P005,Albus Dumbledore,Ataque,Expelliarmus,2,4,9,1,exame,14.48,81.97,81.01,78.82,1,0,239.32000000000002
+5,E00006,P006,Albus Dumbledore,Ataque,Estupefaca,3,10,4,1,duelo_real,13.87,85.55,82.57,86.45,1,0,248.7
+6,E00007,P007,Albus Dumbledore,Ataque,Bombarda,4,6,9,1,exame,15.13,77.57,88.04,84.76,1,0,249.24
+7,E00008,P008,Albus Dumbledore,Ataque,Confringo,5,10,7,0,duelo_real,14.63,81.12,79.49,77.72,0,0,235.70000000000002
+8,E00009,P009,Albus Dumbledore,Ataque,Expelliarmus,2,4,7,0,exame,11.81,90.14,86.25,83.09,1,0,257.67
+9,E00010,P010,Albus Dumbledore,Ataque,Estupefaca,3,4,3,0,exame,12.97,83.23,88.78,79.75,1,0,245.79
+10,E00011,P011,Albus Dumbledore,Ataque,Bombarda,4,7,10,0,missao,14.65,77.18,75.95,77.42,1,0,230.9
+11,E00012,P012,Albus Dumbledore,Ataque,Confringo,4,4,4,1,exame,14.46,78.29,83.14,79.25,1,0,235.22
+12,E00013,P013,Albus Dumbledore,Ataque,Expelliarmus,2,5,2,0,exame,12.14,81.74,85.95,85.95,0,0,245.5
+13,E00014,P014,Albus Dumbledore,Ataque,Estupefaca,3,2,2,0,treino,12.49,79.57,83.13,83.99,1,0,240.2
+14,E00015,P015,Albus Dumbledore,Ataque,Bombarda,3,9,10,0,duelo_real,15.18,80.55,87.31,84.34,1,0,251.02000000000004
+15,E00016,P016,Albus Dumbledore,Ataque,Confringo,5,2,4,0,treino,15.11,80.7,79.94,77.37,1,0,232.89999999999998
+16,E00017,P017,Albus Dumbledore,Ataque,Expelliarmus,2,7,9,1,missao,13.22,83.53,84.13,89.88,1,0,256.31999999999994
+17,E00018,P018,Albus Dumbledore,Ataque,Estupefaca,3,7,1,1,missao,11.62,80.16,83.51,85.31,1,0,242.36
+18,E00019,P019,Albus Dumbledore,Ataque,Bombarda,4,9,6,0,duelo_real,14.38,81.14,85.3,83.63,1,0,246.69
+19,E00020,P020,Albus Dumbledore,Ataque,Confringo,5,10,7,1,duelo_real,15.73,80.57,81.08,84.25,1,0,243.17
+20,E00021,P021,Albus Dumbledore,Defesa,Protego,2,4,3,0,exame,13.1,85.7,95.22,88.48,1,0,262.3
+21,E00022,P022,Albus Dumbledore,Defesa,Finite Incantatem,4,6,5,1,exame,13.68,77.47,85.15,74.45,0,0,232.39
+22,E00023,P023,Albus Dumbledore,Defesa,Protego Maxima,4,6,9,1,exame,16.37,87.87,91.57,86.91,1,0,263.98
+23,E00024,P024,Albus Dumbledore,Defesa,Expecto Patronum,5,6,7,0,exame,16.25,82.12,78.34,79.21,1,0,236.42000000000002
+24,E00025,P025,Albus Dumbledore,Defesa,Protego,2,9,9,1,duelo_real,13.15,77.94,88.62,89.82,1,0,255.23
+25,E00026,P026,Albus Dumbledore,Defesa,Finite Incantatem,2,7,4,0,missao,11.03,80.29,90.24,79.33,1,0,245.83
+26,E00027,P027,Albus Dumbledore,Defesa,Protego Maxima,4,9,10,0,duelo_real,15.66,85.5,80.61,79.27,0,0,243.72
+27,E00028,P028,Albus Dumbledore,Defesa,Expecto Patronum,5,4,6,1,exame,15.75,79.4,78.27,79.77,1,0,233.69
+28,E00029,P029,Albus Dumbledore,Defesa,Protego,2,2,1,0,treino,11.47,88.76,90.75,68.14,1,0,240.17999999999998
+29,E00030,P030,Albus Dumbledore,Defesa,Finite Incantatem,3,8,8,1,missao,14.9,75.42,87.25,86.45,1,0,246.22
+30,E00031,P031,Albus Dumbledore,Defesa,Protego Maxima,3,7,4,1,missao,12.51,89.59,82.47,81.1,1,0,248.64999999999998
+31,E00032,P032,Albus Dumbledore,Defesa,Expecto Patronum,5,8,9,0,missao,14.62,83.3,81.72,85.82,1,0,251.21999999999997
+32,E00033,P033,Albus Dumbledore,Defesa,Protego,2,9,2,0,duelo_real,9.55,88.01,91.45,84.32,1,0,259.22999999999996
+33,E00034,P034,Albus Dumbledore,Defesa,Finite Incantatem,3,4,9,1,exame,13.58,76.65,89.15,91.53,1,0,256.75000000000006
+34,E00035,P035,Albus Dumbledore,Defesa,Protego Maxima,4,5,1,0,exame,12.62,78.77,85.43,83.57,1,0,241.14999999999998
+35,E00036,P036,Albus Dumbledore,Defesa,Expecto Patronum,4,9,9,1,duelo_real,14.64,87.41,79.13,73.33,1,0,239.23000000000002
+36,E00037,P037,Albus Dumbledore,Defesa,Protego,2,7,1,0,missao,10.35,89.15,83.19,83.1,1,0,249.09
+37,E00038,P038,Albus Dumbledore,Defesa,Finite Incantatem,3,6,5,0,exame,12.91,88.49,79.33,86.5,1,0,250.41
+38,E00039,P039,Albus Dumbledore,Defesa,Protego Maxima,4,3,4,1,treino,15.16,79.75,82.98,79.48,1,0,236.05000000000004
+39,E00040,P040,Albus Dumbledore,Defesa,Expecto Patronum,5,3,8,1,treino,15.42,78.74,83.31,78.51,0,0,238.14000000000001
+40,E00041,P041,Albus Dumbledore,Encantamento,Wingardium Leviosa,1,8,1,0,missao,10.47,86.11,91.54,79.28,1,0,249.46
+41,E00042,P042,Albus Dumbledore,Encantamento,Accio,2,7,3,0,missao,11.85,78.73,88.53,83.89,0,0,244.29999999999998
+42,E00043,P043,Albus Dumbledore,Encantamento,Muffliato,3,1,3,0,treino,13.82,70.63,77.38,84.2,1,0,225.39
+43,E00044,P044,Albus Dumbledore,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,13.28,87.69,84.32,83.28,1,1,248.00999999999996
+44,E00045,P045,Albus Dumbledore,Encantamento,Wingardium Leviosa,1,4,8,1,exame,12.58,83.85,86.28,82.52,1,0,250.06999999999996
+45,E00046,P046,Albus Dumbledore,Encantamento,Accio,2,9,6,1,duelo_real,10.34,82.84,77.3,85.7,1,0,244.49999999999997
+46,E00047,P047,Albus Dumbledore,Encantamento,Muffliato,3,3,1,1,treino,12.75,82.11,85.63,75.5,0,0,234.49
+47,E00048,P048,Albus Dumbledore,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,16.36,77.48,84.12,74.95,1,0,236.19
+48,E00049,P049,Albus Dumbledore,Encantamento,Wingardium Leviosa,1,4,8,0,exame,9.17,81.05,89.04,82.32,1,0,253.23999999999998
+49,E00050,P050,Albus Dumbledore,Encantamento,Accio,2,2,2,0,treino,11.85,87.53,89.79,78.86,1,0,249.33
+50,E00051,P051,Albus Dumbledore,Encantamento,Muffliato,3,5,10,1,exame,14.42,81.36,86.88,80.18,1,0,248.00000000000003
+51,E00052,P052,Albus Dumbledore,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,13.93,87.13,78.73,75.77,1,0,239.7
+52,E00053,P053,Albus Dumbledore,Encantamento,Wingardium Leviosa,1,5,3,0,exame,11.45,81.2,84.0,88.83,1,0,247.57999999999998
+53,E00054,P054,Albus Dumbledore,Encantamento,Accio,2,1,7,1,treino,13.84,80.43,84.54,82.3,1,0,243.43000000000004
+54,E00055,P055,Albus Dumbledore,Encantamento,Muffliato,3,1,7,0,treino,14.13,75.42,80.3,78.49,0,0,230.07999999999998
+55,E00056,P056,Albus Dumbledore,Encantamento,Feitico de Desilusao,4,5,10,1,exame,15.75,76.05,84.83,80.69,0,0,239.82
+56,E00057,P057,Albus Dumbledore,Encantamento,Wingardium Leviosa,1,2,2,1,treino,11.73,73.12,84.9,83.32,1,0,233.61
+57,E00058,P058,Albus Dumbledore,Encantamento,Accio,2,4,2,0,exame,11.82,85.66,82.08,80.99,1,0,241.91000000000003
+58,E00059,P059,Albus Dumbledore,Encantamento,Muffliato,4,4,10,0,exame,13.49,73.92,85.03,89.58,1,0,250.03999999999996
+59,E00060,P060,Albus Dumbledore,Encantamento,Feitico de Desilusao,4,6,9,0,exame,14.39,83.9,79.21,83.42,1,0,246.14000000000004
+60,E00061,P061,Albus Dumbledore,Transfiguracao,Reparifarge,3,1,5,0,treino,14.19,77.82,83.8,86.86,1,0,243.29000000000002
+61,E00062,P062,Albus Dumbledore,Transfiguracao,Vera Verto,3,2,6,0,treino,11.93,85.66,82.74,78.2,1,0,244.66999999999996
+62,E00063,P063,Albus Dumbledore,Transfiguracao,Duro,4,3,9,0,treino,14.47,86.96,77.46,79.51,1,0,243.46
+63,E00064,P064,Albus Dumbledore,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,13.76,85.76,79.87,83.28,0,1,241.15
+64,E00065,P065,Albus Dumbledore,Transfiguracao,Reparifarge,2,7,10,0,missao,13.07,82.19,82.58,85.9,0,0,249.59999999999997
+65,E00066,P066,Albus Dumbledore,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,13.11,80.34,76.77,82.52,1,0,231.51999999999998
+66,E00067,P067,Albus Dumbledore,Transfiguracao,Duro,4,9,9,1,duelo_real,15.24,79.01,89.45,80.02,1,0,247.24
+67,E00068,P068,Albus Dumbledore,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,14.71,84.09,91.66,66.91,0,1,233.95
+68,E00069,P069,Albus Dumbledore,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,10.37,84.44,83.32,84.92,1,0,251.31
+69,E00070,P070,Albus Dumbledore,Transfiguracao,Vera Verto,3,2,7,1,treino,13.07,72.03,87.91,82.37,1,0,240.24
+70,E00071,P071,Albus Dumbledore,Transfiguracao,Duro,4,10,2,1,duelo_real,13.95,83.84,81.97,90.75,1,0,249.61
+71,E00072,P072,Albus Dumbledore,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,14.59,81.01,86.78,79.26,0,0,244.46
+72,E00073,P073,Albus Dumbledore,Transfiguracao,Reparifarge,2,7,2,1,missao,11.41,83.19,80.35,80.14,1,0,237.27
+73,E00074,P074,Albus Dumbledore,Transfiguracao,Vera Verto,3,2,4,0,treino,12.4,83.34,82.82,80.39,1,0,242.15
+74,E00075,P075,Albus Dumbledore,Transfiguracao,Duro,4,8,6,1,missao,15.6,81.76,75.44,74.49,0,0,226.09
+75,E00076,P076,Albus Dumbledore,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,17.34,84.66,92.53,80.96,1,1,253.80999999999997
+76,E00077,P077,Albus Dumbledore,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,10.88,87.84,78.74,90.35,1,0,253.04999999999995
+77,E00078,P078,Albus Dumbledore,Transfiguracao,Vera Verto,3,8,4,1,missao,12.19,85.88,91.17,78.31,1,0,251.17000000000002
+78,E00079,P079,Albus Dumbledore,Transfiguracao,Duro,3,7,9,0,missao,13.98,82.44,85.33,75.69,1,0,242.48
+79,E00080,P080,Albus Dumbledore,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,13.67,87.94,91.4,77.74,1,0,253.41
+80,E00081,P081,Albus Dumbledore,Pocoes,Antidoto simples,1,4,4,0,exame,12.26,83.6,85.5,82.95,1,0,245.79000000000002
+81,E00082,P082,Albus Dumbledore,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,12.71,86.73,94.59,85.26,1,0,260.87
+82,E00083,P083,Albus Dumbledore,Pocoes,Pocao Polissuco,4,6,2,1,exame,14.97,77.98,81.94,77.68,1,0,229.63000000000002
+83,E00084,P084,Albus Dumbledore,Pocoes,Veritaserum,5,9,5,0,duelo_real,14.76,79.1,78.09,84.17,0,0,236.60000000000002
+84,E00085,P085,Albus Dumbledore,Pocoes,Antidoto simples,1,10,3,1,duelo_real,11.54,74.14,81.49,84.15,1,1,232.24
+85,E00086,P086,Albus Dumbledore,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,13.28,78.65,81.48,79.83,1,0,238.67999999999998
+86,E00087,P087,Albus Dumbledore,Pocoes,Pocao Polissuco,4,4,8,0,exame,14.74,76.11,80.36,82.57,0,0,236.29999999999998
+87,E00088,P088,Albus Dumbledore,Pocoes,Veritaserum,5,3,4,0,treino,15.38,78.07,74.61,79.93,1,0,227.23000000000002
+88,E00089,P089,Albus Dumbledore,Pocoes,Antidoto simples,1,1,8,0,treino,12.33,73.66,84.42,78.01,1,0,233.75999999999996
+89,E00090,P090,Albus Dumbledore,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,14.28,72.48,73.22,81.65,0,0,223.07
+90,E00091,P091,Albus Dumbledore,Pocoes,Pocao Polissuco,4,7,10,0,missao,14.18,80.35,84.4,69.97,0,0,234.54
+91,E00092,P092,Albus Dumbledore,Pocoes,Veritaserum,5,9,3,1,duelo_real,15.38,85.91,83.25,83.4,1,0,246.18
+92,E00093,P093,Albus Dumbledore,Pocoes,Antidoto simples,1,2,3,0,treino,11.4,85.97,79.63,79.29,1,0,238.48999999999998
+93,E00094,P094,Albus Dumbledore,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,12.2,79.24,84.3,79.03,0,0,237.37
+94,E00095,P095,Albus Dumbledore,Pocoes,Pocao Polissuco,4,5,5,1,exame,12.7,78.18,76.61,68.62,1,0,220.71000000000004
+95,E00096,P096,Albus Dumbledore,Pocoes,Veritaserum,5,7,2,0,missao,13.56,75.53,84.92,79.62,1,1,233.51
+96,E00097,P097,Albus Dumbledore,Pocoes,Antidoto simples,1,7,1,1,missao,11.09,85.79,86.19,77.3,1,0,241.19000000000003
+97,E00098,P098,Albus Dumbledore,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,13.84,78.9,85.53,81.0,1,0,244.59
+98,E00099,P099,Albus Dumbledore,Pocoes,Pocao Polissuco,4,6,6,0,exame,12.32,77.91,92.87,77.36,1,0,246.82
+99,E00100,P100,Albus Dumbledore,Pocoes,Veritaserum,5,2,4,1,treino,15.97,69.6,76.16,77.45,0,0,216.23999999999998
+100,E00101,P101,Albus Dumbledore,Cura,Episkey,2,6,6,1,exame,13.73,75.79,86.38,82.88,0,0,239.32000000000002
+101,E00102,P102,Albus Dumbledore,Cura,Ferula,2,10,9,0,duelo_real,13.92,88.91,81.26,80.45,0,0,247.70000000000002
+102,E00103,P103,Albus Dumbledore,Cura,Rennervate,3,5,2,0,exame,11.69,86.19,80.65,80.7,1,0,241.85000000000002
+103,E00104,P104,Albus Dumbledore,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,16.07,82.1,79.57,79.33,1,0,237.93
+104,E00105,P105,Albus Dumbledore,Cura,Episkey,2,8,7,0,missao,12.77,73.99,83.17,76.57,0,0,229.95999999999998
+105,E00106,P106,Albus Dumbledore,Cura,Ferula,2,6,2,1,exame,10.62,78.51,81.93,80.71,1,0,235.52999999999997
+106,E00107,P107,Albus Dumbledore,Cura,Rennervate,2,5,9,0,exame,12.97,80.19,81.92,82.11,1,0,243.25000000000003
+107,E00108,P108,Albus Dumbledore,Cura,Vulnera Sanentur,5,2,8,0,treino,15.63,83.84,80.61,81.39,1,0,244.20999999999998
+108,E00109,P109,Albus Dumbledore,Cura,Episkey,1,10,9,1,duelo_real,11.05,83.15,84.09,90.19,1,0,257.38
+109,E00110,P110,Albus Dumbledore,Cura,Ferula,2,2,8,0,treino,13.21,72.58,85.1,78.88,1,0,234.35
+110,E00111,P111,Albus Dumbledore,Cura,Rennervate,3,10,8,0,duelo_real,12.88,76.9,90.5,85.62,1,0,252.14
+111,E00112,P112,Albus Dumbledore,Cura,Vulnera Sanentur,5,8,9,1,missao,16.14,78.93,92.8,77.24,1,0,247.83000000000004
+112,E00113,P113,Albus Dumbledore,Cura,Episkey,1,9,9,1,duelo_real,11.65,75.14,77.75,83.39,0,0,234.62999999999997
+113,E00114,P114,Albus Dumbledore,Cura,Ferula,2,7,2,0,missao,13.39,95.87,79.18,89.17,1,0,255.83000000000004
+114,E00115,P115,Albus Dumbledore,Cura,Rennervate,3,4,3,1,exame,13.54,74.86,73.18,78.5,0,0,219.00000000000003
+115,E00116,P116,Albus Dumbledore,Cura,Vulnera Sanentur,5,6,1,0,exame,14.64,85.99,80.75,85.28,1,0,244.38
+116,E00117,P117,Albus Dumbledore,Cura,Episkey,2,10,4,0,duelo_real,12.33,80.63,84.77,86.88,1,0,246.94999999999996
+117,E00118,P118,Albus Dumbledore,Cura,Ferula,1,4,4,1,exame,11.47,86.35,80.76,80.25,1,0,241.89000000000001
+118,E00119,P119,Albus Dumbledore,Cura,Rennervate,2,5,8,0,exame,12.17,69.54,81.61,86.99,1,0,236.97
+119,E00120,P120,Albus Dumbledore,Cura,Vulnera Sanentur,5,1,6,1,treino,15.17,78.79,80.33,82.71,1,0,238.66
+120,E00121,P001,Lord Voldemort,Ataque,Expelliarmus,1,10,1,0,duelo_real,9.41,91.46,85.88,91.02,1,0,261.94999999999993
+121,E00122,P002,Lord Voldemort,Ataque,Estupefaca,3,7,9,0,missao,12.37,88.2,82.3,80.76,1,0,251.89
+122,E00123,P003,Lord Voldemort,Ataque,Bombarda,4,3,4,0,treino,15.55,86.07,88.59,84.02,1,0,252.13
+123,E00124,P004,Lord Voldemort,Ataque,Confringo,4,9,8,0,duelo_real,12.67,85.86,89.28,84.12,0,1,257.59
+124,E00125,P005,Lord Voldemort,Ataque,Expelliarmus,2,4,9,1,exame,11.31,76.44,83.29,80.87,0,0,240.29000000000002
+125,E00126,P006,Lord Voldemort,Ataque,Estupefaca,3,10,4,1,duelo_real,12.21,76.02,92.08,78.78,1,0,242.67
+126,E00127,P007,Lord Voldemort,Ataque,Bombarda,4,6,9,1,exame,14.31,77.2,84.94,71.98,1,0,233.81
+127,E00128,P008,Lord Voldemort,Ataque,Confringo,5,10,7,0,duelo_real,13.34,83.55,86.31,74.97,1,1,243.49000000000004
+128,E00129,P009,Lord Voldemort,Ataque,Expelliarmus,2,4,7,0,exame,11.45,78.5,82.37,81.15,1,0,240.57000000000002
+129,E00130,P010,Lord Voldemort,Ataque,Estupefaca,3,4,3,0,exame,10.65,76.08,93.74,74.78,1,0,240.95
+130,E00131,P011,Lord Voldemort,Ataque,Bombarda,4,7,10,0,missao,13.84,87.16,86.49,90.26,1,0,265.07
+131,E00132,P012,Lord Voldemort,Ataque,Confringo,4,4,4,1,exame,14.16,75.2,91.29,76.26,1,1,236.59
+132,E00133,P013,Lord Voldemort,Ataque,Expelliarmus,2,5,2,0,exame,11.99,78.32,88.62,82.91,1,0,242.85999999999999
+133,E00134,P014,Lord Voldemort,Ataque,Estupefaca,3,2,2,0,treino,12.37,86.87,89.29,89.93,1,0,259.72
+134,E00135,P015,Lord Voldemort,Ataque,Bombarda,3,9,10,0,duelo_real,11.65,79.78,92.41,86.58,0,0,260.12
+135,E00136,P016,Lord Voldemort,Ataque,Confringo,5,2,4,0,treino,14.73,79.21,98.74,73.52,0,0,245.73999999999998
+136,E00137,P017,Lord Voldemort,Ataque,Expelliarmus,2,7,9,1,missao,12.14,81.96,86.08,74.53,0,1,240.43
+137,E00138,P018,Lord Voldemort,Ataque,Estupefaca,3,7,1,1,missao,11.7,88.05,96.7,79.25,1,0,257.3
+138,E00139,P019,Lord Voldemort,Ataque,Bombarda,4,9,6,0,duelo_real,13.24,77.14,90.7,79.51,1,0,245.11
+139,E00140,P020,Lord Voldemort,Ataque,Confringo,5,10,7,1,duelo_real,13.85,78.53,87.63,76.36,0,1,239.67
+140,E00141,P021,Lord Voldemort,Defesa,Protego,2,4,3,0,exame,10.64,86.06,90.14,78.63,1,0,250.19
+141,E00142,P022,Lord Voldemort,Defesa,Finite Incantatem,4,6,5,1,exame,14.23,82.49,82.15,75.62,1,0,236.03
+142,E00143,P023,Lord Voldemort,Defesa,Protego Maxima,4,6,9,1,exame,15.64,77.25,86.44,83.63,1,0,245.68
+143,E00144,P024,Lord Voldemort,Defesa,Expecto Patronum,5,6,7,0,exame,15.01,77.96,77.55,69.71,0,0,222.20999999999998
+144,E00145,P025,Lord Voldemort,Defesa,Protego,2,9,9,1,duelo_real,11.43,81.85,92.52,73.78,1,1,247.71999999999997
+145,E00146,P026,Lord Voldemort,Defesa,Finite Incantatem,2,7,4,0,missao,12.49,80.81,84.39,77.28,1,0,236.98999999999998
+146,E00147,P027,Lord Voldemort,Defesa,Protego Maxima,4,9,10,0,duelo_real,14.12,77.03,90.03,78.28,1,1,245.22000000000003
+147,E00148,P028,Lord Voldemort,Defesa,Expecto Patronum,5,4,6,1,exame,13.87,82.84,93.49,66.4,1,0,240.85999999999999
+148,E00149,P029,Lord Voldemort,Defesa,Protego,2,2,1,0,treino,12.63,82.59,84.49,76.33,1,0,234.77999999999997
+149,E00150,P030,Lord Voldemort,Defesa,Finite Incantatem,3,8,8,1,missao,12.32,81.82,94.45,71.96,1,0,247.90999999999997
+150,E00151,P031,Lord Voldemort,Defesa,Protego Maxima,3,7,4,1,missao,12.58,82.27,90.91,79.88,0,1,246.48
+151,E00152,P032,Lord Voldemort,Defesa,Expecto Patronum,5,8,9,0,missao,14.82,79.68,86.47,77.64,0,1,241.97000000000003
+152,E00153,P033,Lord Voldemort,Defesa,Protego,2,9,2,0,duelo_real,10.79,82.2,93.32,82.28,1,0,252.00999999999996
+153,E00154,P034,Lord Voldemort,Defesa,Finite Incantatem,3,4,9,1,exame,12.69,78.27,83.17,75.43,1,1,236.18
+154,E00155,P035,Lord Voldemort,Defesa,Protego Maxima,4,5,1,0,exame,12.03,76.67,85.18,79.23,1,0,235.05000000000004
+155,E00156,P036,Lord Voldemort,Defesa,Expecto Patronum,4,9,9,1,duelo_real,14.9,80.81,89.09,77.43,1,1,245.43000000000004
+156,E00157,P037,Lord Voldemort,Defesa,Protego,2,7,1,0,missao,11.24,78.17,82.98,80.92,1,1,233.82999999999998
+157,E00158,P038,Lord Voldemort,Defesa,Finite Incantatem,3,6,5,0,exame,12.95,79.12,86.33,81.62,1,0,243.12
+158,E00159,P039,Lord Voldemort,Defesa,Protego Maxima,4,3,4,1,treino,14.04,77.08,86.3,74.25,1,0,232.59
+159,E00160,P040,Lord Voldemort,Defesa,Expecto Patronum,5,3,8,1,treino,17.49,78.49,81.02,72.06,0,0,227.07999999999998
+160,E00161,P041,Lord Voldemort,Encantamento,Wingardium Leviosa,1,8,1,0,missao,9.35,84.36,85.59,87.76,1,0,251.35999999999999
+161,E00162,P042,Lord Voldemort,Encantamento,Accio,2,7,3,0,missao,10.11,77.97,94.96,71.03,1,0,239.85000000000002
+162,E00163,P043,Lord Voldemort,Encantamento,Muffliato,3,1,3,0,treino,14.13,74.88,80.9,73.05,1,0,221.7
+163,E00164,P044,Lord Voldemort,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,12.0,73.78,83.03,76.79,1,1,227.60000000000002
+164,E00165,P045,Lord Voldemort,Encantamento,Wingardium Leviosa,1,4,8,1,exame,12.18,86.03,93.06,77.33,1,0,254.24
+165,E00166,P046,Lord Voldemort,Encantamento,Accio,2,9,6,1,duelo_real,10.51,84.51,88.84,70.36,1,0,242.20000000000005
+166,E00167,P047,Lord Voldemort,Encantamento,Muffliato,3,3,1,1,treino,12.59,79.66,88.88,71.44,1,0,232.39
+167,E00168,P048,Lord Voldemort,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,15.26,76.9,76.91,70.16,0,1,222.71
+168,E00169,P049,Lord Voldemort,Encantamento,Wingardium Leviosa,1,4,8,0,exame,11.76,75.19,77.22,73.58,0,0,223.23000000000002
+169,E00170,P050,Lord Voldemort,Encantamento,Accio,2,2,2,0,treino,11.33,79.87,85.64,77.93,1,0,237.10999999999999
+170,E00171,P051,Lord Voldemort,Encantamento,Muffliato,3,5,10,1,exame,13.91,69.97,91.22,73.89,1,1,234.17
+171,E00172,P052,Lord Voldemort,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,15.26,71.59,87.76,73.24,0,0,228.33000000000004
+172,E00173,P053,Lord Voldemort,Encantamento,Wingardium Leviosa,1,5,3,0,exame,9.36,85.88,84.78,79.87,0,1,244.17000000000002
+173,E00174,P054,Lord Voldemort,Encantamento,Accio,2,1,7,1,treino,12.98,77.64,89.5,80.22,1,0,244.38000000000002
+174,E00175,P055,Lord Voldemort,Encantamento,Muffliato,3,1,7,0,treino,13.37,73.57,86.33,64.4,1,0,221.92999999999998
+175,E00176,P056,Lord Voldemort,Encantamento,Feitico de Desilusao,4,5,10,1,exame,15.0,68.25,91.48,77.94,0,0,236.67000000000002
+176,E00177,P057,Lord Voldemort,Encantamento,Wingardium Leviosa,1,2,2,1,treino,12.55,76.69,81.47,76.61,1,0,226.21999999999997
+177,E00178,P058,Lord Voldemort,Encantamento,Accio,2,4,2,0,exame,11.72,76.18,95.77,74.18,1,0,239.41
+178,E00179,P059,Lord Voldemort,Encantamento,Muffliato,4,4,10,0,exame,16.11,71.53,88.82,77.19,1,0,236.43
+179,E00180,P060,Lord Voldemort,Encantamento,Feitico de Desilusao,4,6,9,0,exame,12.52,77.28,88.87,76.84,1,1,243.47
+180,E00181,P061,Lord Voldemort,Transfiguracao,Reparifarge,3,1,5,0,treino,12.63,73.37,90.2,71.98,1,0,231.92000000000002
+181,E00182,P062,Lord Voldemort,Transfiguracao,Vera Verto,3,2,6,0,treino,13.04,81.78,77.14,73.22,1,0,229.10000000000002
+182,E00183,P063,Lord Voldemort,Transfiguracao,Duro,4,3,9,0,treino,14.82,79.17,86.66,69.79,0,0,233.8
+183,E00184,P064,Lord Voldemort,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,14.16,80.51,80.54,75.21,1,0,230.1
+184,E00185,P065,Lord Voldemort,Transfiguracao,Reparifarge,2,7,10,0,missao,12.16,77.8,93.25,78.69,1,0,250.58
+185,E00186,P066,Lord Voldemort,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,11.76,89.89,87.44,85.09,1,0,255.65999999999997
+186,E00187,P067,Lord Voldemort,Transfiguracao,Duro,4,9,9,1,duelo_real,12.63,89.22,86.16,73.03,1,1,248.77999999999997
+187,E00188,P068,Lord Voldemort,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,13.78,80.99,82.04,69.8,0,0,226.04999999999998
+188,E00189,P069,Lord Voldemort,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,10.17,79.29,100.0,88.91,1,0,267.03000000000003
+189,E00190,P070,Lord Voldemort,Transfiguracao,Vera Verto,3,2,7,1,treino,14.72,84.19,86.86,71.12,1,0,238.45000000000002
+190,E00191,P071,Lord Voldemort,Transfiguracao,Duro,4,10,2,1,duelo_real,11.48,77.86,83.76,92.15,0,0,248.29
+191,E00192,P072,Lord Voldemort,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,13.99,88.43,93.14,75.52,1,0,256.09999999999997
+192,E00193,P073,Lord Voldemort,Transfiguracao,Reparifarge,2,7,2,1,missao,12.47,87.09,85.16,74.88,1,1,238.66
+193,E00194,P074,Lord Voldemort,Transfiguracao,Vera Verto,3,2,4,0,treino,13.12,80.41,89.6,84.23,1,1,248.12
+194,E00195,P075,Lord Voldemort,Transfiguracao,Duro,4,8,6,1,missao,12.5,78.7,87.91,72.6,0,0,236.71
+195,E00196,P076,Lord Voldemort,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,15.9,80.04,92.35,80.26,1,1,249.74999999999997
+196,E00197,P077,Lord Voldemort,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,9.76,90.02,86.0,86.82,1,0,260.08
+197,E00198,P078,Lord Voldemort,Transfiguracao,Vera Verto,3,8,4,1,missao,12.92,82.78,87.88,81.2,0,0,245.94000000000003
+198,E00199,P079,Lord Voldemort,Transfiguracao,Duro,3,7,9,0,missao,11.64,76.61,88.54,73.5,1,0,240.01
+199,E00200,P080,Lord Voldemort,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,13.8,76.07,88.99,79.43,1,0,240.69
+200,E00201,P081,Lord Voldemort,Pocoes,Antidoto simples,1,4,4,0,exame,10.5,80.43,93.35,81.18,1,0,250.46000000000004
+201,E00202,P082,Lord Voldemort,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,11.11,74.1,89.47,70.23,0,0,228.69
+202,E00203,P083,Lord Voldemort,Pocoes,Pocao Polissuco,4,6,2,1,exame,12.24,75.14,81.49,74.69,1,0,226.07999999999998
+203,E00204,P084,Lord Voldemort,Pocoes,Veritaserum,5,9,5,0,duelo_real,15.45,69.44,80.43,74.75,1,0,220.17000000000002
+204,E00205,P085,Lord Voldemort,Pocoes,Antidoto simples,1,10,3,1,duelo_real,10.93,81.55,86.07,78.94,1,0,240.63
+205,E00206,P086,Lord Voldemort,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,13.18,79.62,91.15,65.46,0,1,233.05
+206,E00207,P087,Lord Voldemort,Pocoes,Pocao Polissuco,4,4,8,0,exame,15.84,69.58,84.79,80.51,0,0,231.04
+207,E00208,P088,Lord Voldemort,Pocoes,Veritaserum,5,3,4,0,treino,13.76,73.16,75.03,70.4,1,0,214.83
+208,E00209,P089,Lord Voldemort,Pocoes,Antidoto simples,1,1,8,0,treino,12.15,78.03,75.5,75.53,0,0,225.91
+209,E00210,P090,Lord Voldemort,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,13.51,74.15,77.01,76.12,1,0,224.77000000000004
+210,E00211,P091,Lord Voldemort,Pocoes,Pocao Polissuco,4,7,10,0,missao,15.07,82.38,89.37,66.71,0,1,236.39
+211,E00212,P092,Lord Voldemort,Pocoes,Veritaserum,5,9,3,1,duelo_real,14.2,76.13,82.75,71.99,1,0,225.67000000000002
+212,E00213,P093,Lord Voldemort,Pocoes,Antidoto simples,1,2,3,0,treino,13.25,72.66,87.29,80.04,1,0,231.74
+213,E00214,P094,Lord Voldemort,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,12.55,78.48,93.31,65.8,1,0,233.04000000000002
+214,E00215,P095,Lord Voldemort,Pocoes,Pocao Polissuco,4,5,5,1,exame,14.83,74.62,83.97,77.78,1,0,231.54
+215,E00216,P096,Lord Voldemort,Pocoes,Veritaserum,5,7,2,0,missao,15.46,80.12,88.59,66.1,1,0,227.35
+216,E00217,P097,Lord Voldemort,Pocoes,Antidoto simples,1,7,1,1,missao,10.03,77.18,89.44,84.57,1,1,243.16
+217,E00218,P098,Lord Voldemort,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,13.27,81.33,88.82,72.24,1,0,242.11999999999998
+218,E00219,P099,Lord Voldemort,Pocoes,Pocao Polissuco,4,6,6,0,exame,13.62,81.85,93.1,80.83,1,0,253.15999999999997
+219,E00220,P100,Lord Voldemort,Pocoes,Veritaserum,5,2,4,1,treino,15.08,73.83,93.37,73.37,1,1,234.48999999999998
+220,E00221,P101,Lord Voldemort,Cura,Episkey,2,6,6,1,exame,13.97,78.17,77.01,61.37,0,1,209.58
+221,E00222,P102,Lord Voldemort,Cura,Ferula,2,10,9,0,duelo_real,13.87,77.14,90.1,70.15,1,0,235.52
+222,E00223,P103,Lord Voldemort,Cura,Rennervate,3,5,2,0,exame,13.43,64.31,76.52,73.05,1,0,206.45
+223,E00224,P104,Lord Voldemort,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,14.93,73.27,79.03,68.62,0,0,217.99
+224,E00225,P105,Lord Voldemort,Cura,Episkey,2,8,7,0,missao,11.98,71.27,74.65,61.16,0,1,203.10000000000002
+225,E00226,P106,Lord Voldemort,Cura,Ferula,2,6,2,1,exame,13.24,66.87,80.47,70.27,0,0,208.37
+226,E00227,P107,Lord Voldemort,Cura,Rennervate,2,5,9,0,exame,13.63,76.4,88.77,65.59,1,1,228.13000000000002
+227,E00228,P108,Lord Voldemort,Cura,Vulnera Sanentur,5,2,8,0,treino,18.45,72.28,81.77,69.86,1,1,218.46000000000004
+228,E00229,P109,Lord Voldemort,Cura,Episkey,1,10,9,1,duelo_real,11.07,71.56,76.52,74.29,1,0,222.3
+229,E00230,P110,Lord Voldemort,Cura,Ferula,2,2,8,0,treino,12.84,70.93,80.87,68.85,1,1,217.81
+230,E00231,P111,Lord Voldemort,Cura,Rennervate,3,10,8,0,duelo_real,14.24,65.41,84.05,73.66,1,0,220.87999999999997
+231,E00232,P112,Lord Voldemort,Cura,Vulnera Sanentur,5,8,9,1,missao,16.15,61.69,76.43,59.2,0,0,195.17
+232,E00233,P113,Lord Voldemort,Cura,Episkey,1,9,9,1,duelo_real,13.6,74.29,86.37,66.05,0,0,223.11000000000004
+233,E00234,P114,Lord Voldemort,Cura,Ferula,2,7,2,0,missao,11.94,74.1,80.94,71.22,1,1,218.32
+234,E00235,P115,Lord Voldemort,Cura,Rennervate,3,4,3,1,exame,14.3,76.78,82.57,67.7,1,0,219.75
+235,E00236,P116,Lord Voldemort,Cura,Vulnera Sanentur,5,6,1,0,exame,14.71,69.03,77.58,66.82,0,0,204.72
+236,E00237,P117,Lord Voldemort,Cura,Episkey,2,10,4,0,duelo_real,11.82,75.72,76.53,71.88,1,0,219.31
+237,E00238,P118,Lord Voldemort,Cura,Ferula,1,4,4,1,exame,13.5,68.8,76.04,75.73,1,0,213.07
+238,E00239,P119,Lord Voldemort,Cura,Rennervate,2,5,8,0,exame,14.01,80.57,85.71,75.5,1,0,238.76999999999998
+239,E00240,P120,Lord Voldemort,Cura,Vulnera Sanentur,5,1,6,1,treino,16.07,67.74,79.93,61.33,1,1,203.93
+240,E00241,P001,Gellert Grindelwald,Ataque,Expelliarmus,1,10,1,0,duelo_real,9.14,76.05,82.33,87.67,1,0,239.91000000000003
+241,E00242,P002,Gellert Grindelwald,Ataque,Estupefaca,3,7,9,0,missao,11.59,83.8,88.43,83.91,1,0,257.55
+242,E00243,P003,Gellert Grindelwald,Ataque,Bombarda,4,3,4,0,treino,13.71,83.12,84.68,81.87,1,0,244.96
+243,E00244,P004,Gellert Grindelwald,Ataque,Confringo,4,9,8,0,duelo_real,14.92,79.05,87.47,75.78,1,0,240.38
+244,E00245,P005,Gellert Grindelwald,Ataque,Expelliarmus,2,4,9,1,exame,12.86,75.29,84.71,82.55,0,0,240.69
+245,E00246,P006,Gellert Grindelwald,Ataque,Estupefaca,3,10,4,1,duelo_real,12.3,87.66,86.86,73.47,1,0,243.68999999999997
+246,E00247,P007,Gellert Grindelwald,Ataque,Bombarda,4,6,9,1,exame,15.28,83.54,92.0,89.77,1,0,264.03000000000003
+247,E00248,P008,Gellert Grindelwald,Ataque,Confringo,5,10,7,0,duelo_real,14.2,79.44,94.9,81.72,1,0,254.86
+248,E00249,P009,Gellert Grindelwald,Ataque,Expelliarmus,2,4,7,0,exame,11.75,81.83,91.78,82.25,1,0,254.11
+249,E00250,P010,Gellert Grindelwald,Ataque,Estupefaca,3,4,3,0,exame,10.01,87.68,87.38,80.36,1,0,252.41000000000003
+250,E00251,P011,Gellert Grindelwald,Ataque,Bombarda,4,7,10,0,missao,13.84,81.07,83.54,80.01,0,1,243.78
+251,E00252,P012,Gellert Grindelwald,Ataque,Confringo,4,4,4,1,exame,14.57,88.13,89.69,66.87,1,1,238.12
+252,E00253,P013,Gellert Grindelwald,Ataque,Expelliarmus,2,5,2,0,exame,12.4,76.7,88.72,79.9,1,0,237.92000000000002
+253,E00254,P014,Gellert Grindelwald,Ataque,Estupefaca,3,2,2,0,treino,12.2,91.99,88.28,78.06,1,0,252.13
+254,E00255,P015,Gellert Grindelwald,Ataque,Bombarda,3,9,10,0,duelo_real,12.71,78.55,93.39,82.74,1,0,255.97
+255,E00256,P016,Gellert Grindelwald,Ataque,Confringo,5,2,4,0,treino,13.7,75.09,92.23,86.03,0,0,248.65000000000003
+256,E00257,P017,Gellert Grindelwald,Ataque,Expelliarmus,2,7,9,1,missao,12.89,88.96,85.88,79.99,1,0,253.94
+257,E00258,P018,Gellert Grindelwald,Ataque,Estupefaca,3,7,1,1,missao,10.44,83.05,87.76,76.88,1,0,242.25
+258,E00259,P019,Gellert Grindelwald,Ataque,Bombarda,4,9,6,0,duelo_real,14.33,85.31,88.04,83.6,1,0,253.62000000000003
+259,E00260,P020,Gellert Grindelwald,Ataque,Confringo,5,10,7,1,duelo_real,13.17,88.27,80.52,82.41,1,0,251.03
+260,E00261,P021,Gellert Grindelwald,Defesa,Protego,2,4,3,0,exame,10.85,91.44,88.43,80.2,1,1,254.22
+261,E00262,P022,Gellert Grindelwald,Defesa,Finite Incantatem,4,6,5,1,exame,14.12,78.78,91.27,81.9,1,1,246.83000000000004
+262,E00263,P023,Gellert Grindelwald,Defesa,Protego Maxima,4,6,9,1,exame,14.59,77.86,84.19,75.92,1,0,237.38000000000002
+263,E00264,P024,Gellert Grindelwald,Defesa,Expecto Patronum,5,6,7,0,exame,16.19,82.04,84.93,81.99,1,0,245.77000000000004
+264,E00265,P025,Gellert Grindelwald,Defesa,Protego,2,9,9,1,duelo_real,12.56,81.05,93.16,85.04,1,0,258.69
+265,E00266,P026,Gellert Grindelwald,Defesa,Finite Incantatem,2,7,4,0,missao,12.66,71.73,86.83,83.72,1,0,236.62
+266,E00267,P027,Gellert Grindelwald,Defesa,Protego Maxima,4,9,10,0,duelo_real,14.06,72.99,85.17,83.81,0,0,241.91
+267,E00268,P028,Gellert Grindelwald,Defesa,Expecto Patronum,5,4,6,1,exame,15.22,67.56,80.39,78.15,1,0,222.88
+268,E00269,P029,Gellert Grindelwald,Defesa,Protego,2,2,1,0,treino,12.3,89.09,86.31,78.65,1,0,245.75
+269,E00270,P030,Gellert Grindelwald,Defesa,Finite Incantatem,3,8,8,1,missao,12.88,81.53,84.26,82.43,1,0,247.34000000000003
+270,E00271,P031,Gellert Grindelwald,Defesa,Protego Maxima,3,7,4,1,missao,12.19,86.97,87.66,75.74,1,0,246.18
+271,E00272,P032,Gellert Grindelwald,Defesa,Expecto Patronum,5,8,9,0,missao,13.05,83.88,75.98,81.07,0,0,241.88
+272,E00273,P033,Gellert Grindelwald,Defesa,Protego,2,9,2,0,duelo_real,10.43,80.51,91.94,82.01,1,0,249.02999999999997
+273,E00274,P034,Gellert Grindelwald,Defesa,Finite Incantatem,3,4,9,1,exame,13.74,74.02,85.2,79.15,0,0,236.63
+274,E00275,P035,Gellert Grindelwald,Defesa,Protego Maxima,4,5,1,0,exame,13.22,78.13,82.93,70.0,0,0,222.84
+275,E00276,P036,Gellert Grindelwald,Defesa,Expecto Patronum,4,9,9,1,duelo_real,13.05,78.54,83.67,86.67,1,0,249.82999999999998
+276,E00277,P037,Gellert Grindelwald,Defesa,Protego,2,7,1,0,missao,10.83,75.1,91.9,82.51,1,1,241.67999999999998
+277,E00278,P038,Gellert Grindelwald,Defesa,Finite Incantatem,3,6,5,0,exame,14.07,76.58,84.19,79.12,1,0,234.82
+278,E00279,P039,Gellert Grindelwald,Defesa,Protego Maxima,4,3,4,1,treino,12.27,82.2,90.33,81.29,1,0,250.54999999999998
+279,E00280,P040,Gellert Grindelwald,Defesa,Expecto Patronum,5,3,8,1,treino,15.23,78.34,87.34,81.1,1,0,245.54999999999998
+280,E00281,P041,Gellert Grindelwald,Encantamento,Wingardium Leviosa,1,8,1,0,missao,9.21,85.68,88.73,92.59,1,0,260.79
+281,E00282,P042,Gellert Grindelwald,Encantamento,Accio,2,7,3,0,missao,11.01,90.21,95.04,89.22,1,0,269.46000000000004
+282,E00283,P043,Gellert Grindelwald,Encantamento,Muffliato,3,1,3,0,treino,12.65,78.31,86.1,75.47,0,0,233.23
+283,E00284,P044,Gellert Grindelwald,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,12.28,77.66,89.65,81.92,1,0,243.95000000000002
+284,E00285,P045,Gellert Grindelwald,Encantamento,Wingardium Leviosa,1,4,8,1,exame,12.07,82.67,76.24,82.18,1,0,239.02
+285,E00286,P046,Gellert Grindelwald,Encantamento,Accio,2,9,6,1,duelo_real,13.11,77.75,81.73,74.15,0,0,228.52000000000004
+286,E00287,P047,Gellert Grindelwald,Encantamento,Muffliato,3,3,1,1,treino,13.24,78.98,90.8,75.69,1,0,237.23
+287,E00288,P048,Gellert Grindelwald,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,14.28,92.82,81.03,86.88,1,0,262.45000000000005
+288,E00289,P049,Gellert Grindelwald,Encantamento,Wingardium Leviosa,1,4,8,0,exame,13.04,78.81,74.26,87.06,1,0,237.09
+289,E00290,P050,Gellert Grindelwald,Encantamento,Accio,2,2,2,0,treino,12.37,87.68,88.45,80.42,1,0,249.18
+290,E00291,P051,Gellert Grindelwald,Encantamento,Muffliato,3,5,10,1,exame,12.42,79.48,88.53,77.91,1,0,247.49999999999997
+291,E00292,P052,Gellert Grindelwald,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,14.42,85.94,85.81,81.38,1,0,250.71
+292,E00293,P053,Gellert Grindelwald,Encantamento,Wingardium Leviosa,1,5,3,0,exame,11.7,84.59,90.73,80.29,1,1,247.91000000000003
+293,E00294,P054,Gellert Grindelwald,Encantamento,Accio,2,1,7,1,treino,14.1,85.91,81.44,76.82,1,0,240.07
+294,E00295,P055,Gellert Grindelwald,Encantamento,Muffliato,3,1,7,0,treino,11.89,77.47,78.68,81.1,0,0,235.36
+295,E00296,P056,Gellert Grindelwald,Encantamento,Feitico de Desilusao,4,5,10,1,exame,14.21,73.29,82.23,73.7,1,0,230.01000000000002
+296,E00297,P057,Gellert Grindelwald,Encantamento,Wingardium Leviosa,1,2,2,1,treino,10.37,80.3,92.05,79.56,1,0,245.54
+297,E00298,P058,Gellert Grindelwald,Encantamento,Accio,2,4,2,0,exame,10.22,88.41,85.74,82.93,1,1,250.85999999999999
+298,E00299,P059,Gellert Grindelwald,Encantamento,Muffliato,4,4,10,0,exame,13.85,76.42,87.47,79.69,1,0,244.73
+299,E00300,P060,Gellert Grindelwald,Encantamento,Feitico de Desilusao,4,6,9,0,exame,14.15,76.71,77.32,82.27,1,0,236.14999999999995
+300,E00301,P061,Gellert Grindelwald,Transfiguracao,Reparifarge,3,1,5,0,treino,13.5,80.96,74.84,80.96,1,0,232.26
+301,E00302,P062,Gellert Grindelwald,Transfiguracao,Vera Verto,3,2,6,0,treino,13.27,80.46,92.41,76.56,1,0,246.16
+302,E00303,P063,Gellert Grindelwald,Transfiguracao,Duro,4,3,9,0,treino,14.27,77.24,83.46,75.76,0,0,235.18999999999997
+303,E00304,P064,Gellert Grindelwald,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,12.99,82.85,90.92,78.38,1,0,247.15999999999997
+304,E00305,P065,Gellert Grindelwald,Transfiguracao,Reparifarge,2,7,10,0,missao,13.87,87.52,70.6,73.39,0,0,229.64
+305,E00306,P066,Gellert Grindelwald,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,11.7,90.37,96.2,85.08,1,0,264.95
+306,E00307,P067,Gellert Grindelwald,Transfiguracao,Duro,4,9,9,1,duelo_real,13.91,83.51,79.31,77.82,0,0,239.73
+307,E00308,P068,Gellert Grindelwald,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,13.89,72.03,81.76,83.69,1,0,231.59000000000003
+308,E00309,P069,Gellert Grindelwald,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,12.36,72.58,86.98,73.62,1,0,229.82
+309,E00310,P070,Gellert Grindelwald,Transfiguracao,Vera Verto,3,2,7,1,treino,13.01,74.36,89.81,80.88,1,0,243.04000000000002
+310,E00311,P071,Gellert Grindelwald,Transfiguracao,Duro,4,10,2,1,duelo_real,13.35,84.33,91.23,77.88,1,0,247.09
+311,E00312,P072,Gellert Grindelwald,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,15.81,80.28,86.44,85.52,0,0,248.43
+312,E00313,P073,Gellert Grindelwald,Transfiguracao,Reparifarge,2,7,2,1,missao,12.77,87.06,81.75,74.72,1,0,235.76
+313,E00314,P074,Gellert Grindelwald,Transfiguracao,Vera Verto,3,2,4,0,treino,11.84,73.94,92.97,83.22,1,0,246.29
+314,E00315,P075,Gellert Grindelwald,Transfiguracao,Duro,4,8,6,1,missao,14.81,83.42,88.29,77.62,1,0,245.52000000000004
+315,E00316,P076,Gellert Grindelwald,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,14.19,68.28,83.2,71.56,0,0,221.85000000000002
+316,E00317,P077,Gellert Grindelwald,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,10.81,79.04,88.4,82.69,1,0,246.32
+317,E00318,P078,Gellert Grindelwald,Transfiguracao,Vera Verto,3,8,4,1,missao,12.61,84.03,77.64,81.92,1,0,238.98000000000002
+318,E00319,P079,Gellert Grindelwald,Transfiguracao,Duro,3,7,9,0,missao,13.21,82.29,85.1,75.94,0,0,242.11999999999998
+319,E00320,P080,Gellert Grindelwald,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,12.98,72.99,87.46,84.18,1,0,241.65
+320,E00321,P081,Gellert Grindelwald,Pocoes,Antidoto simples,1,4,4,0,exame,12.4,74.72,81.85,80.91,1,0,231.07999999999998
+321,E00322,P082,Gellert Grindelwald,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,11.78,75.01,82.15,74.83,0,0,226.21
+322,E00323,P083,Gellert Grindelwald,Pocoes,Pocao Polissuco,4,6,2,1,exame,13.87,80.76,76.86,84.73,1,0,235.48000000000002
+323,E00324,P084,Gellert Grindelwald,Pocoes,Veritaserum,5,9,5,0,duelo_real,14.46,79.03,85.3,68.51,1,1,228.37999999999997
+324,E00325,P085,Gellert Grindelwald,Pocoes,Antidoto simples,1,10,3,1,duelo_real,9.95,81.55,85.52,76.14,1,0,238.26
+325,E00326,P086,Gellert Grindelwald,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,13.5,64.59,77.06,82.56,0,0,221.71
+326,E00327,P087,Gellert Grindelwald,Pocoes,Pocao Polissuco,4,4,8,0,exame,14.29,68.0,80.47,75.11,0,0,221.29
+327,E00328,P088,Gellert Grindelwald,Pocoes,Veritaserum,5,3,4,0,treino,14.81,75.43,85.21,72.49,0,0,227.32
+328,E00329,P089,Gellert Grindelwald,Pocoes,Antidoto simples,1,1,8,0,treino,13.92,71.53,82.44,77.55,1,0,227.6
+329,E00330,P090,Gellert Grindelwald,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,12.04,73.07,74.26,77.62,1,0,223.91
+330,E00331,P091,Gellert Grindelwald,Pocoes,Pocao Polissuco,4,7,10,0,missao,15.39,70.13,81.31,84.68,1,0,235.73000000000002
+331,E00332,P092,Gellert Grindelwald,Pocoes,Veritaserum,5,9,3,1,duelo_real,14.47,70.8,78.05,72.67,1,0,216.04999999999998
+332,E00333,P093,Gellert Grindelwald,Pocoes,Antidoto simples,1,2,3,0,treino,13.26,80.8,84.45,77.73,1,0,234.72000000000003
+333,E00334,P094,Gellert Grindelwald,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,13.46,78.87,73.4,80.53,1,0,227.34
+334,E00335,P095,Gellert Grindelwald,Pocoes,Pocao Polissuco,4,5,5,1,exame,14.76,76.22,82.93,68.37,1,0,222.76000000000002
+335,E00336,P096,Gellert Grindelwald,Pocoes,Veritaserum,5,7,2,0,missao,14.23,76.88,79.48,68.87,0,1,217.00000000000003
+336,E00337,P097,Gellert Grindelwald,Pocoes,Antidoto simples,1,7,1,1,missao,9.07,78.03,84.35,79.66,1,0,235.97
+337,E00338,P098,Gellert Grindelwald,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,13.26,75.58,90.54,73.82,1,0,239.68
+338,E00339,P099,Gellert Grindelwald,Pocoes,Pocao Polissuco,4,6,6,0,exame,14.56,69.45,88.34,72.79,1,0,227.02000000000004
+339,E00340,P100,Gellert Grindelwald,Pocoes,Veritaserum,5,2,4,1,treino,15.6,73.99,90.76,67.82,1,0,226.97
+340,E00341,P101,Gellert Grindelwald,Cura,Episkey,2,6,6,1,exame,14.29,76.8,72.37,67.89,0,0,210.77
+341,E00342,P102,Gellert Grindelwald,Cura,Ferula,2,10,9,0,duelo_real,12.85,77.85,79.58,73.59,0,0,229.17000000000002
+342,E00343,P103,Gellert Grindelwald,Cura,Rennervate,3,5,2,0,exame,13.55,72.51,79.62,74.56,1,0,219.14
+343,E00344,P104,Gellert Grindelwald,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,15.44,68.88,88.11,75.95,1,1,229.5
+344,E00345,P105,Gellert Grindelwald,Cura,Episkey,2,8,7,0,missao,13.46,76.8,86.81,81.18,1,0,241.33
+345,E00346,P106,Gellert Grindelwald,Cura,Ferula,2,6,2,1,exame,12.11,74.14,82.64,71.51,1,0,221.18
+346,E00347,P107,Gellert Grindelwald,Cura,Rennervate,2,5,9,0,exame,13.95,79.69,88.19,78.05,1,0,243.98000000000002
+347,E00348,P108,Gellert Grindelwald,Cura,Vulnera Sanentur,5,2,8,0,treino,15.58,84.57,73.32,78.62,1,0,234.92999999999998
+348,E00349,P109,Gellert Grindelwald,Cura,Episkey,1,10,9,1,duelo_real,13.27,73.84,79.5,75.32,0,0,225.39
+349,E00350,P110,Gellert Grindelwald,Cura,Ferula,2,2,8,0,treino,12.67,71.71,75.37,68.22,1,0,213.63
+350,E00351,P111,Gellert Grindelwald,Cura,Rennervate,3,10,8,0,duelo_real,13.1,80.09,89.56,73.97,1,0,242.52
+351,E00352,P112,Gellert Grindelwald,Cura,Vulnera Sanentur,5,8,9,1,missao,16.88,70.6,76.96,80.72,1,0,226.4
+352,E00353,P113,Gellert Grindelwald,Cura,Episkey,1,9,9,1,duelo_real,13.3,73.94,75.41,79.02,1,0,226.07
+353,E00354,P114,Gellert Grindelwald,Cura,Ferula,2,7,2,0,missao,12.47,78.26,70.34,73.88,1,0,215.01000000000002
+354,E00355,P115,Gellert Grindelwald,Cura,Rennervate,3,4,3,1,exame,13.72,76.56,74.46,66.8,0,0,210.1
+355,E00356,P116,Gellert Grindelwald,Cura,Vulnera Sanentur,5,6,1,0,exame,13.01,76.23,84.64,73.02,0,0,226.88
+356,E00357,P117,Gellert Grindelwald,Cura,Episkey,2,10,4,0,duelo_real,11.4,84.15,82.19,75.75,1,0,237.69
+357,E00358,P118,Gellert Grindelwald,Cura,Ferula,1,4,4,1,exame,13.36,77.87,81.9,73.9,1,0,226.31
+358,E00359,P119,Gellert Grindelwald,Cura,Rennervate,2,5,8,0,exame,12.22,68.27,75.2,77.44,0,0,218.69
+359,E00360,P120,Gellert Grindelwald,Cura,Vulnera Sanentur,5,1,6,1,treino,16.9,74.81,89.77,64.53,1,1,223.20999999999998
+360,E00361,P001,Minerva McGonagall,Ataque,Expelliarmus,1,10,1,0,duelo_real,11.53,89.57,77.72,82.25,1,0,241.01
+361,E00362,P002,Minerva McGonagall,Ataque,Estupefaca,3,7,9,0,missao,14.88,82.8,79.56,77.46,1,0,237.94
+362,E00363,P003,Minerva McGonagall,Ataque,Bombarda,4,3,4,0,treino,16.59,79.06,75.93,77.94,1,0,225.34
+363,E00364,P004,Minerva McGonagall,Ataque,Confringo,4,9,8,0,duelo_real,15.65,85.52,77.3,77.93,1,0,238.1
+364,E00365,P005,Minerva McGonagall,Ataque,Expelliarmus,2,4,9,1,exame,13.17,77.89,73.88,85.87,1,0,236.47
+365,E00366,P006,Minerva McGonagall,Ataque,Estupefaca,3,10,4,1,duelo_real,14.77,73.3,72.88,76.35,1,0,215.76
+366,E00367,P007,Minerva McGonagall,Ataque,Bombarda,4,6,9,1,exame,15.44,79.33,67.08,73.18,0,0,217.15
+367,E00368,P008,Minerva McGonagall,Ataque,Confringo,5,10,7,0,duelo_real,17.58,71.56,77.47,88.4,0,0,231.85000000000002
+368,E00369,P009,Minerva McGonagall,Ataque,Expelliarmus,2,4,7,0,exame,13.77,82.22,74.08,86.26,1,0,238.79
+369,E00370,P010,Minerva McGonagall,Ataque,Estupefaca,3,4,3,0,exame,12.4,81.1,82.03,82.99,0,0,239.72
+370,E00371,P011,Minerva McGonagall,Ataque,Bombarda,4,7,10,0,missao,14.49,79.8,67.63,80.89,0,0,227.82999999999998
+371,E00372,P012,Minerva McGonagall,Ataque,Confringo,4,4,4,1,exame,15.92,84.11,78.07,82.59,1,0,237.85000000000002
+372,E00373,P013,Minerva McGonagall,Ataque,Expelliarmus,2,5,2,0,exame,12.09,78.44,73.94,84.96,1,0,230.24999999999997
+373,E00374,P014,Minerva McGonagall,Ataque,Estupefaca,3,2,2,0,treino,15.36,88.25,77.21,84.76,1,0,240.85999999999996
+374,E00375,P015,Minerva McGonagall,Ataque,Bombarda,3,9,10,0,duelo_real,15.01,76.53,62.74,88.12,0,0,225.38000000000002
+375,E00376,P016,Minerva McGonagall,Ataque,Confringo,5,2,4,0,treino,15.03,79.8,78.38,80.82,1,0,233.97
+376,E00377,P017,Minerva McGonagall,Ataque,Expelliarmus,2,7,9,1,missao,12.12,83.55,80.65,77.56,0,0,240.64
+377,E00378,P018,Minerva McGonagall,Ataque,Estupefaca,3,7,1,1,missao,14.26,79.0,81.76,75.49,0,0,225.99
+378,E00379,P019,Minerva McGonagall,Ataque,Bombarda,4,9,6,0,duelo_real,15.52,77.73,67.88,77.34,1,0,218.43
+379,E00380,P020,Minerva McGonagall,Ataque,Confringo,5,10,7,1,duelo_real,17.78,85.74,76.72,82.48,1,0,240.16
+380,E00381,P021,Minerva McGonagall,Defesa,Protego,2,4,3,0,exame,11.57,90.83,79.61,81.8,1,0,246.67000000000002
+381,E00382,P022,Minerva McGonagall,Defesa,Finite Incantatem,4,6,5,1,exame,14.8,78.1,68.66,79.54,1,0,221.5
+382,E00383,P023,Minerva McGonagall,Defesa,Protego Maxima,4,6,9,1,exame,15.58,75.29,77.97,87.27,1,0,238.94999999999996
+383,E00384,P024,Minerva McGonagall,Defesa,Expecto Patronum,5,6,7,0,exame,16.05,76.16,87.21,86.19,1,0,246.51
+384,E00385,P025,Minerva McGonagall,Defesa,Protego,2,9,9,1,duelo_real,15.96,86.16,75.58,80.32,1,0,238.1
+385,E00386,P026,Minerva McGonagall,Defesa,Finite Incantatem,2,7,4,0,missao,12.48,80.9,73.41,85.35,1,0,234.18
+386,E00387,P027,Minerva McGonagall,Defesa,Protego Maxima,4,9,10,0,duelo_real,15.47,76.7,85.14,73.16,1,0,234.53
+387,E00388,P028,Minerva McGonagall,Defesa,Expecto Patronum,5,4,6,1,exame,14.58,80.25,73.02,83.28,1,0,233.96999999999997
+388,E00389,P029,Minerva McGonagall,Defesa,Protego,2,2,1,0,treino,11.85,92.85,79.07,80.0,1,0,244.07
+389,E00390,P030,Minerva McGonagall,Defesa,Finite Incantatem,3,8,8,1,missao,13.17,75.99,73.04,86.72,0,0,233.58
+390,E00391,P031,Minerva McGonagall,Defesa,Protego Maxima,3,7,4,1,missao,13.53,80.04,84.82,73.51,0,1,230.84
+391,E00392,P032,Minerva McGonagall,Defesa,Expecto Patronum,5,8,9,0,missao,15.75,80.37,74.34,89.51,0,0,242.47000000000003
+392,E00393,P033,Minerva McGonagall,Defesa,Protego,2,9,2,0,duelo_real,12.98,86.49,77.58,79.18,1,0,235.27
+393,E00394,P034,Minerva McGonagall,Defesa,Finite Incantatem,3,4,9,1,exame,15.04,80.66,71.33,87.04,1,0,236.99000000000004
+394,E00395,P035,Minerva McGonagall,Defesa,Protego Maxima,4,5,1,0,exame,13.95,82.13,73.9,81.44,1,0,229.52
+395,E00396,P036,Minerva McGonagall,Defesa,Expecto Patronum,4,9,9,1,duelo_real,16.12,75.13,77.1,78.75,1,0,228.85999999999999
+396,E00397,P037,Minerva McGonagall,Defesa,Protego,2,7,1,0,missao,12.78,83.16,78.75,82.02,1,0,235.15
+397,E00398,P038,Minerva McGonagall,Defesa,Finite Incantatem,3,6,5,0,exame,16.03,79.89,85.34,89.08,1,0,247.28
+398,E00399,P039,Minerva McGonagall,Defesa,Protego Maxima,4,3,4,1,treino,15.18,78.41,84.06,83.32,1,0,239.60999999999999
+399,E00400,P040,Minerva McGonagall,Defesa,Expecto Patronum,5,3,8,1,treino,16.11,74.5,66.9,72.48,0,0,210.76999999999998
+400,E00401,P041,Minerva McGonagall,Encantamento,Wingardium Leviosa,1,8,1,0,missao,10.83,85.2,84.73,90.2,1,0,252.29999999999998
+401,E00402,P042,Minerva McGonagall,Encantamento,Accio,2,7,3,0,missao,12.09,86.35,70.59,91.48,0,0,241.33
+402,E00403,P043,Minerva McGonagall,Encantamento,Muffliato,3,1,3,0,treino,10.19,87.7,78.21,84.93,1,0,247.65000000000003
+403,E00404,P044,Minerva McGonagall,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,12.41,86.04,82.8,87.98,1,0,251.41
+404,E00405,P045,Minerva McGonagall,Encantamento,Wingardium Leviosa,1,4,8,1,exame,13.83,83.96,80.23,80.55,1,0,240.91
+405,E00406,P046,Minerva McGonagall,Encantamento,Accio,2,9,6,1,duelo_real,11.9,90.93,77.3,91.76,1,0,257.09000000000003
+406,E00407,P047,Minerva McGonagall,Encantamento,Muffliato,3,3,1,1,treino,11.91,80.83,76.52,87.61,1,0,238.04999999999998
+407,E00408,P048,Minerva McGonagall,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,16.89,77.26,81.93,80.24,1,0,238.54000000000002
+408,E00409,P049,Minerva McGonagall,Encantamento,Wingardium Leviosa,1,4,8,0,exame,13.32,82.8,79.3,88.2,1,0,246.98000000000002
+409,E00410,P050,Minerva McGonagall,Encantamento,Accio,2,2,2,0,treino,10.31,88.52,82.83,87.94,1,0,253.97999999999996
+410,E00411,P051,Minerva McGonagall,Encantamento,Muffliato,3,5,10,1,exame,14.63,81.33,80.09,78.68,1,0,239.47000000000003
+411,E00412,P052,Minerva McGonagall,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,15.54,80.62,80.51,75.07,1,0,232.66
+412,E00413,P053,Minerva McGonagall,Encantamento,Wingardium Leviosa,1,5,3,0,exame,9.87,82.37,82.64,81.42,1,0,241.56
+413,E00414,P054,Minerva McGonagall,Encantamento,Accio,2,1,7,1,treino,13.27,84.04,71.35,80.84,1,0,232.95999999999998
+414,E00415,P055,Minerva McGonagall,Encantamento,Muffliato,3,1,7,0,treino,13.65,84.95,68.17,87.13,0,0,236.6
+415,E00416,P056,Minerva McGonagall,Encantamento,Feitico de Desilusao,4,5,10,1,exame,14.92,82.26,85.9,87.74,0,0,254.98000000000005
+416,E00417,P057,Minerva McGonagall,Encantamento,Wingardium Leviosa,1,2,2,1,treino,11.86,78.32,72.12,85.59,1,0,228.17000000000002
+417,E00418,P058,Minerva McGonagall,Encantamento,Accio,2,4,2,0,exame,12.35,87.34,90.87,81.91,1,0,252.77
+418,E00419,P059,Minerva McGonagall,Encantamento,Muffliato,4,4,10,0,exame,16.01,86.87,73.35,89.9,1,0,249.11
+419,E00420,P060,Minerva McGonagall,Encantamento,Feitico de Desilusao,4,6,9,0,exame,15.68,88.96,74.47,84.87,1,0,246.62
+420,E00421,P061,Minerva McGonagall,Transfiguracao,Reparifarge,3,1,5,0,treino,12.25,84.57,78.2,85.16,1,0,244.67999999999995
+421,E00422,P062,Minerva McGonagall,Transfiguracao,Vera Verto,3,2,6,0,treino,13.07,86.99,75.75,94.06,1,0,253.73000000000002
+422,E00423,P063,Minerva McGonagall,Transfiguracao,Duro,4,3,9,0,treino,14.46,81.8,84.88,94.7,1,0,260.92
+423,E00424,P064,Minerva McGonagall,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,16.07,88.66,82.36,82.04,1,0,244.99
+424,E00425,P065,Minerva McGonagall,Transfiguracao,Reparifarge,2,7,10,0,missao,14.53,86.57,81.97,91.47,1,0,258.48
+425,E00426,P066,Minerva McGonagall,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,11.22,83.23,87.13,95.4,1,0,259.53999999999996
+426,E00427,P067,Minerva McGonagall,Transfiguracao,Duro,4,9,9,1,duelo_real,16.36,86.21,75.23,77.53,1,0,236.61
+427,E00428,P068,Minerva McGonagall,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,12.49,85.84,77.31,79.45,1,0,238.11
+428,E00429,P069,Minerva McGonagall,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,13.28,80.91,79.69,94.25,1,0,250.57000000000002
+429,E00430,P070,Minerva McGonagall,Transfiguracao,Vera Verto,3,2,7,1,treino,14.12,83.27,83.48,81.47,1,0,245.10000000000002
+430,E00431,P071,Minerva McGonagall,Transfiguracao,Duro,4,10,2,1,duelo_real,14.02,85.68,78.46,89.35,0,0,245.47
+431,E00432,P072,Minerva McGonagall,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,15.23,84.71,85.22,85.07,0,0,251.77
+432,E00433,P073,Minerva McGonagall,Transfiguracao,Reparifarge,2,7,2,1,missao,13.51,89.02,76.92,88.83,1,0,246.26
+433,E00434,P074,Minerva McGonagall,Transfiguracao,Vera Verto,3,2,4,0,treino,13.46,84.77,82.45,85.46,1,1,246.22
+434,E00435,P075,Minerva McGonagall,Transfiguracao,Duro,4,8,6,1,missao,15.22,92.46,85.67,81.41,1,0,255.31999999999996
+435,E00436,P076,Minerva McGonagall,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,16.13,71.95,71.7,82.54,1,0,224.06
+436,E00437,P077,Minerva McGonagall,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,11.52,91.58,87.3,88.69,1,0,263.05
+437,E00438,P078,Minerva McGonagall,Transfiguracao,Vera Verto,3,8,4,1,missao,12.69,77.4,84.22,86.33,0,0,242.26
+438,E00439,P079,Minerva McGonagall,Transfiguracao,Duro,3,7,9,0,missao,13.98,76.95,82.25,84.83,1,0,243.04999999999998
+439,E00440,P080,Minerva McGonagall,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,14.68,81.73,88.33,80.68,1,0,246.06
+440,E00441,P081,Minerva McGonagall,Pocoes,Antidoto simples,1,4,4,0,exame,12.99,80.54,73.3,90.53,1,0,237.38
+441,E00442,P082,Minerva McGonagall,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,13.19,80.75,71.32,84.41,1,0,230.29
+442,E00443,P083,Minerva McGonagall,Pocoes,Pocao Polissuco,4,6,2,1,exame,15.76,78.21,76.09,78.71,1,0,224.25
+443,E00444,P084,Minerva McGonagall,Pocoes,Veritaserum,5,9,5,0,duelo_real,16.22,71.46,73.57,72.91,0,0,211.71999999999997
+444,E00445,P085,Minerva McGonagall,Pocoes,Antidoto simples,1,10,3,1,duelo_real,13.93,71.74,70.49,78.42,0,0,210.71999999999997
+445,E00446,P086,Minerva McGonagall,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,16.02,69.9,69.53,66.78,0,0,201.19
+446,E00447,P087,Minerva McGonagall,Pocoes,Pocao Polissuco,4,4,8,0,exame,14.98,66.82,70.82,76.82,0,0,211.48
+447,E00448,P088,Minerva McGonagall,Pocoes,Veritaserum,5,3,4,0,treino,14.99,74.35,70.67,72.67,1,0,212.7
+448,E00449,P089,Minerva McGonagall,Pocoes,Antidoto simples,1,1,8,0,treino,13.38,79.04,71.68,87.07,0,0,233.41000000000003
+449,E00450,P090,Minerva McGonagall,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,14.84,80.53,77.98,82.46,1,0,237.12999999999997
+450,E00451,P091,Minerva McGonagall,Pocoes,Pocao Polissuco,4,7,10,0,missao,16.83,76.78,68.81,74.24,0,0,217.0
+451,E00452,P092,Minerva McGonagall,Pocoes,Veritaserum,5,9,3,1,duelo_real,17.72,80.87,62.32,79.2,0,0,212.67
+452,E00453,P093,Minerva McGonagall,Pocoes,Antidoto simples,1,2,3,0,treino,11.92,87.17,70.9,81.59,1,0,232.74
+453,E00454,P094,Minerva McGonagall,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,13.52,69.73,77.12,80.82,1,0,222.15
+454,E00455,P095,Minerva McGonagall,Pocoes,Pocao Polissuco,4,5,5,1,exame,15.0,77.21,61.86,80.68,1,0,214.75
+455,E00456,P096,Minerva McGonagall,Pocoes,Veritaserum,5,7,2,0,missao,16.35,72.5,72.44,74.33,1,0,210.92
+456,E00457,P097,Minerva McGonagall,Pocoes,Antidoto simples,1,7,1,1,missao,13.64,79.69,74.35,84.22,0,0,226.62
+457,E00458,P098,Minerva McGonagall,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,15.4,67.23,66.6,75.25,0,0,205.67999999999998
+458,E00459,P099,Minerva McGonagall,Pocoes,Pocao Polissuco,4,6,6,0,exame,15.22,70.28,69.47,85.86,1,0,221.39000000000001
+459,E00460,P100,Minerva McGonagall,Pocoes,Veritaserum,5,2,4,1,treino,17.62,73.81,73.95,77.84,1,0,217.98
+460,E00461,P101,Minerva McGonagall,Cura,Episkey,2,6,6,1,exame,13.42,73.1,71.37,81.21,1,0,221.26000000000002
+461,E00462,P102,Minerva McGonagall,Cura,Ferula,2,10,9,0,duelo_real,15.4,75.62,78.82,87.79,1,0,238.83
+462,E00463,P103,Minerva McGonagall,Cura,Rennervate,3,5,2,0,exame,13.35,75.75,67.03,82.35,1,0,217.78
+463,E00464,P104,Minerva McGonagall,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,16.72,78.22,72.56,72.96,0,0,219.02
+464,E00465,P105,Minerva McGonagall,Cura,Episkey,2,8,7,0,missao,14.67,75.76,70.7,81.02,1,0,222.81000000000003
+465,E00466,P106,Minerva McGonagall,Cura,Ferula,2,6,2,1,exame,12.84,74.38,79.68,85.77,1,0,231.98999999999998
+466,E00467,P107,Minerva McGonagall,Cura,Rennervate,2,5,9,0,exame,14.24,80.45,65.58,86.6,1,0,230.39
+467,E00468,P108,Minerva McGonagall,Cura,Vulnera Sanentur,5,2,8,0,treino,16.85,68.3,73.3,80.48,0,1,217.23
+468,E00469,P109,Minerva McGonagall,Cura,Episkey,1,10,9,1,duelo_real,14.51,78.9,71.66,75.28,0,0,221.33
+469,E00470,P110,Minerva McGonagall,Cura,Ferula,2,2,8,0,treino,14.4,82.71,74.31,79.42,1,0,233.04
+470,E00471,P111,Minerva McGonagall,Cura,Rennervate,3,10,8,0,duelo_real,16.03,81.69,75.92,77.58,1,0,231.16
+471,E00472,P112,Minerva McGonagall,Cura,Vulnera Sanentur,5,8,9,1,missao,17.21,78.49,78.55,76.31,0,0,230.14
+472,E00473,P113,Minerva McGonagall,Cura,Episkey,1,9,9,1,duelo_real,12.5,84.2,77.11,81.75,1,0,241.56
+473,E00474,P114,Minerva McGonagall,Cura,Ferula,2,7,2,0,missao,13.33,72.49,68.12,79.3,1,0,211.58
+474,E00475,P115,Minerva McGonagall,Cura,Rennervate,3,4,3,1,exame,14.14,87.88,72.01,79.52,1,0,232.26999999999998
+475,E00476,P116,Minerva McGonagall,Cura,Vulnera Sanentur,5,6,1,0,exame,14.03,70.58,71.62,77.77,1,0,212.93999999999997
+476,E00477,P117,Minerva McGonagall,Cura,Episkey,2,10,4,0,duelo_real,12.88,80.92,72.85,81.05,1,0,228.94
+477,E00478,P118,Minerva McGonagall,Cura,Ferula,1,4,4,1,exame,13.43,85.84,77.52,89.71,0,0,244.64
+478,E00479,P119,Minerva McGonagall,Cura,Rennervate,2,5,8,0,exame,14.11,81.05,66.47,77.94,1,0,222.34999999999997
+479,E00480,P120,Minerva McGonagall,Cura,Vulnera Sanentur,5,1,6,1,treino,17.51,70.76,65.53,75.26,0,0,205.04000000000002
+480,E00481,P001,Severus Snape,Ataque,Expelliarmus,1,10,1,0,duelo_real,9.24,84.52,83.62,83.35,1,0,245.24999999999997
+481,E00482,P002,Severus Snape,Ataque,Estupefaca,3,7,9,0,missao,13.7,85.17,81.03,82.08,1,1,246.57999999999998
+482,E00483,P003,Severus Snape,Ataque,Bombarda,4,3,4,0,treino,15.63,84.78,76.46,83.62,1,0,238.23000000000002
+483,E00484,P004,Severus Snape,Ataque,Confringo,4,9,8,0,duelo_real,13.98,73.22,78.73,83.87,0,0,233.84
+484,E00485,P005,Severus Snape,Ataque,Expelliarmus,2,4,9,1,exame,12.79,79.1,76.6,78.65,1,0,233.56
+485,E00486,P006,Severus Snape,Ataque,Estupefaca,3,10,4,1,duelo_real,12.74,74.76,69.3,71.82,0,0,210.14
+486,E00487,P007,Severus Snape,Ataque,Bombarda,4,6,9,1,exame,15.77,87.03,77.66,83.18,1,0,246.1
+487,E00488,P008,Severus Snape,Ataque,Confringo,5,10,7,0,duelo_real,15.01,76.66,80.55,79.08,1,0,234.27999999999997
+488,E00489,P009,Severus Snape,Ataque,Expelliarmus,2,4,7,0,exame,11.54,82.7,73.69,71.96,0,0,225.80999999999997
+489,E00490,P010,Severus Snape,Ataque,Estupefaca,3,4,3,0,exame,12.48,87.78,78.09,80.16,1,0,240.55
+490,E00491,P011,Severus Snape,Ataque,Bombarda,4,7,10,0,missao,13.83,86.55,75.7,76.33,1,0,239.74999999999997
+491,E00492,P012,Severus Snape,Ataque,Confringo,4,4,4,1,exame,13.93,75.37,76.22,83.18,1,0,229.84
+492,E00493,P013,Severus Snape,Ataque,Expelliarmus,2,5,2,0,exame,10.5,78.53,80.45,85.09,1,0,238.57000000000002
+493,E00494,P014,Severus Snape,Ataque,Estupefaca,3,2,2,0,treino,12.66,68.46,77.83,78.96,1,0,218.59
+494,E00495,P015,Severus Snape,Ataque,Bombarda,3,9,10,0,duelo_real,12.93,78.64,82.22,85.8,0,0,246.73000000000002
+495,E00496,P016,Severus Snape,Ataque,Confringo,5,2,4,0,treino,14.52,83.24,73.37,80.85,1,0,232.94
+496,E00497,P017,Severus Snape,Ataque,Expelliarmus,2,7,9,1,missao,13.16,76.7,78.65,78.75,1,0,232.94000000000003
+497,E00498,P018,Severus Snape,Ataque,Estupefaca,3,7,1,1,missao,11.68,83.32,86.5,81.91,1,0,245.05
+498,E00499,P019,Severus Snape,Ataque,Bombarda,4,9,6,0,duelo_real,13.71,81.54,88.03,79.38,1,0,246.23999999999998
+499,E00500,P020,Severus Snape,Ataque,Confringo,5,10,7,1,duelo_real,16.22,72.15,68.76,86.83,1,0,224.52
+500,E00501,P021,Severus Snape,Defesa,Protego,2,4,3,0,exame,13.45,92.61,77.44,87.31,1,0,249.91000000000003
+501,E00502,P022,Severus Snape,Defesa,Finite Incantatem,4,6,5,1,exame,14.71,78.57,82.36,80.3,1,0,236.52
+502,E00503,P023,Severus Snape,Defesa,Protego Maxima,4,6,9,1,exame,14.04,85.78,80.27,74.92,1,0,240.93000000000004
+503,E00504,P024,Severus Snape,Defesa,Expecto Patronum,5,6,7,0,exame,15.73,78.28,62.84,90.71,1,0,229.1
+504,E00505,P025,Severus Snape,Defesa,Protego,2,9,9,1,duelo_real,13.05,74.17,72.78,89.56,0,0,234.45999999999998
+505,E00506,P026,Severus Snape,Defesa,Finite Incantatem,2,7,4,0,missao,11.76,92.67,78.93,88.24,1,1,254.08000000000004
+506,E00507,P027,Severus Snape,Defesa,Protego Maxima,4,9,10,0,duelo_real,13.72,86.76,77.62,90.83,1,0,256.48999999999995
+507,E00508,P028,Severus Snape,Defesa,Expecto Patronum,5,4,6,1,exame,15.5,84.96,78.61,81.55,1,0,241.62
+508,E00509,P029,Severus Snape,Defesa,Protego,2,2,1,0,treino,12.63,84.65,88.14,88.26,1,0,252.42000000000002
+509,E00510,P030,Severus Snape,Defesa,Finite Incantatem,3,8,8,1,missao,14.1,82.95,77.63,76.72,0,0,234.2
+510,E00511,P031,Severus Snape,Defesa,Protego Maxima,3,7,4,1,missao,13.05,82.21,71.7,90.53,1,0,239.39
+511,E00512,P032,Severus Snape,Defesa,Expecto Patronum,5,8,9,0,missao,13.67,80.85,75.48,75.89,1,0,233.54999999999998
+512,E00513,P033,Severus Snape,Defesa,Protego,2,9,2,0,duelo_real,10.59,87.88,82.27,80.87,1,0,245.42999999999998
+513,E00514,P034,Severus Snape,Defesa,Finite Incantatem,3,4,9,1,exame,15.35,79.15,74.79,88.25,1,0,239.84
+514,E00515,P035,Severus Snape,Defesa,Protego Maxima,4,5,1,0,exame,11.17,83.0,79.71,88.32,1,0,245.85999999999999
+515,E00516,P036,Severus Snape,Defesa,Expecto Patronum,4,9,9,1,duelo_real,14.33,83.16,80.84,85.78,1,0,249.44999999999996
+516,E00517,P037,Severus Snape,Defesa,Protego,2,7,1,0,missao,11.74,87.81,83.46,73.38,1,0,236.90999999999997
+517,E00518,P038,Severus Snape,Defesa,Finite Incantatem,3,6,5,0,exame,11.7,72.57,91.26,78.3,1,0,239.43
+518,E00519,P039,Severus Snape,Defesa,Protego Maxima,4,3,4,1,treino,15.02,86.07,80.82,90.15,1,0,251.01999999999995
+519,E00520,P040,Severus Snape,Defesa,Expecto Patronum,5,3,8,1,treino,14.45,82.27,77.62,77.76,1,0,237.2
+520,E00521,P041,Severus Snape,Encantamento,Wingardium Leviosa,1,8,1,0,missao,9.83,82.94,80.89,78.06,1,0,235.05999999999997
+521,E00522,P042,Severus Snape,Encantamento,Accio,2,7,3,0,missao,11.03,86.25,84.76,82.08,1,0,248.05999999999997
+522,E00523,P043,Severus Snape,Encantamento,Muffliato,3,1,3,0,treino,13.3,82.11,82.05,84.22,1,0,242.07999999999998
+523,E00524,P044,Severus Snape,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,11.9,77.79,82.29,82.1,1,0,237.28
+524,E00525,P045,Severus Snape,Encantamento,Wingardium Leviosa,1,4,8,1,exame,12.02,81.94,78.63,87.79,1,0,246.34
+525,E00526,P046,Severus Snape,Encantamento,Accio,2,9,6,1,duelo_real,12.41,85.54,78.25,84.11,1,0,244.49000000000004
+526,E00527,P047,Severus Snape,Encantamento,Muffliato,3,3,1,1,treino,11.8,81.27,76.53,84.92,1,0,235.92000000000002
+527,E00528,P048,Severus Snape,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,16.11,78.15,76.19,70.35,1,0,224.57999999999998
+528,E00529,P049,Severus Snape,Encantamento,Wingardium Leviosa,1,4,8,0,exame,10.3,74.19,77.88,74.19,1,0,225.95999999999998
+529,E00530,P050,Severus Snape,Encantamento,Accio,2,2,2,0,treino,10.94,88.75,68.14,81.7,1,0,232.64999999999998
+530,E00531,P051,Severus Snape,Encantamento,Muffliato,3,5,10,1,exame,14.11,80.79,78.0,75.33,1,0,234.01
+531,E00532,P052,Severus Snape,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,14.87,76.61,82.03,79.72,0,0,234.48999999999998
+532,E00533,P053,Severus Snape,Encantamento,Wingardium Leviosa,1,5,3,0,exame,10.16,91.26,82.27,86.92,1,0,255.29
+533,E00534,P054,Severus Snape,Encantamento,Accio,2,1,7,1,treino,12.84,76.76,69.45,83.13,1,0,226.5
+534,E00535,P055,Severus Snape,Encantamento,Muffliato,3,1,7,0,treino,12.8,77.37,77.67,86.08,0,0,238.32
+535,E00536,P056,Severus Snape,Encantamento,Feitico de Desilusao,4,5,10,1,exame,15.12,81.15,77.97,75.13,1,0,234.13
+536,E00537,P057,Severus Snape,Encantamento,Wingardium Leviosa,1,2,2,1,treino,10.47,87.04,72.8,77.91,1,0,231.28
+537,E00538,P058,Severus Snape,Encantamento,Accio,2,4,2,0,exame,12.4,81.56,85.82,75.72,1,0,235.7
+538,E00539,P059,Severus Snape,Encantamento,Muffliato,4,4,10,0,exame,13.87,83.33,71.13,85.2,1,0,240.78999999999996
+539,E00540,P060,Severus Snape,Encantamento,Feitico de Desilusao,4,6,9,0,exame,13.91,71.17,83.02,74.08,0,0,227.35999999999999
+540,E00541,P061,Severus Snape,Transfiguracao,Reparifarge,3,1,5,0,treino,14.39,86.1,84.41,88.12,1,0,253.24
+541,E00542,P062,Severus Snape,Transfiguracao,Vera Verto,3,2,6,0,treino,12.13,79.19,68.43,82.05,1,0,227.54000000000002
+542,E00543,P063,Severus Snape,Transfiguracao,Duro,4,3,9,0,treino,15.75,81.5,74.5,82.36,1,0,236.61
+543,E00544,P064,Severus Snape,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,14.93,81.01,72.02,80.35,0,0,225.45
+544,E00545,P065,Severus Snape,Transfiguracao,Reparifarge,2,7,10,0,missao,13.34,75.08,79.23,77.39,1,0,231.35999999999999
+545,E00546,P066,Severus Snape,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,12.2,77.94,82.29,93.75,1,0,246.78000000000003
+546,E00547,P067,Severus Snape,Transfiguracao,Duro,4,9,9,1,duelo_real,16.04,74.08,77.52,81.9,1,0,231.46
+547,E00548,P068,Severus Snape,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,12.91,85.18,79.75,86.1,1,0,246.11999999999998
+548,E00549,P069,Severus Snape,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,13.3,86.47,73.42,85.06,1,0,240.64999999999998
+549,E00550,P070,Severus Snape,Transfiguracao,Vera Verto,3,2,7,1,treino,12.27,79.71,86.47,81.3,1,1,245.21
+550,E00551,P071,Severus Snape,Transfiguracao,Duro,4,10,2,1,duelo_real,14.06,89.13,80.03,80.22,1,0,242.32
+551,E00552,P072,Severus Snape,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,14.6,82.28,75.27,79.76,0,0,234.71
+552,E00553,P073,Severus Snape,Transfiguracao,Reparifarge,2,7,2,1,missao,12.06,78.41,74.14,86.04,1,0,231.53000000000003
+553,E00554,P074,Severus Snape,Transfiguracao,Vera Verto,3,2,4,0,treino,12.64,77.24,81.06,84.29,1,0,237.95000000000005
+554,E00555,P075,Severus Snape,Transfiguracao,Duro,4,8,6,1,missao,14.73,80.7,74.14,76.63,1,0,227.74
+555,E00556,P076,Severus Snape,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,16.42,71.32,78.54,81.5,1,0,228.94
+556,E00557,P077,Severus Snape,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,12.21,78.08,73.6,78.55,1,0,225.02
+557,E00558,P078,Severus Snape,Transfiguracao,Vera Verto,3,8,4,1,missao,12.85,81.51,79.71,86.72,1,0,243.09
+558,E00559,P079,Severus Snape,Transfiguracao,Duro,3,7,9,0,missao,14.56,81.49,83.98,82.64,1,0,246.55
+559,E00560,P080,Severus Snape,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,14.56,79.02,70.57,79.54,0,0,223.57
+560,E00561,P081,Severus Snape,Pocoes,Antidoto simples,1,4,4,0,exame,9.31,93.47,83.85,92.99,1,0,267.0
+561,E00562,P082,Severus Snape,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,12.09,82.4,83.59,85.47,1,1,245.37000000000003
+562,E00563,P083,Severus Snape,Pocoes,Pocao Polissuco,4,6,2,1,exame,11.47,79.46,85.52,83.28,1,0,243.79
+563,E00564,P084,Severus Snape,Pocoes,Veritaserum,5,9,5,0,duelo_real,13.52,86.01,87.53,84.95,1,0,255.97
+564,E00565,P085,Severus Snape,Pocoes,Antidoto simples,1,10,3,1,duelo_real,10.96,94.46,73.21,92.58,1,0,254.29
+565,E00566,P086,Severus Snape,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,11.19,84.48,80.54,92.76,1,0,258.59000000000003
+566,E00567,P087,Severus Snape,Pocoes,Pocao Polissuco,4,4,8,0,exame,13.2,81.73,90.89,83.09,1,0,255.51000000000005
+567,E00568,P088,Severus Snape,Pocoes,Veritaserum,5,3,4,0,treino,14.39,85.44,75.94,91.44,1,0,248.43
+568,E00569,P089,Severus Snape,Pocoes,Antidoto simples,1,1,8,0,treino,10.36,95.19,80.78,82.13,1,0,257.74
+569,E00570,P090,Severus Snape,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,13.21,85.66,91.98,83.69,1,0,259.12
+570,E00571,P091,Severus Snape,Pocoes,Pocao Polissuco,4,7,10,0,missao,13.76,87.11,67.18,82.3,1,0,237.83000000000004
+571,E00572,P092,Severus Snape,Pocoes,Veritaserum,5,9,3,1,duelo_real,11.68,81.45,79.69,76.56,1,0,235.01999999999998
+572,E00573,P093,Severus Snape,Pocoes,Antidoto simples,1,2,3,0,treino,9.36,85.55,87.09,89.18,1,0,257.46
+573,E00574,P094,Severus Snape,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,11.65,91.26,80.14,96.69,1,0,264.44000000000005
+574,E00575,P095,Severus Snape,Pocoes,Pocao Polissuco,4,5,5,1,exame,13.06,89.93,82.72,82.77,1,0,252.36
+575,E00576,P096,Severus Snape,Pocoes,Veritaserum,5,7,2,0,missao,13.48,90.79,82.41,87.63,1,1,254.35
+576,E00577,P097,Severus Snape,Pocoes,Antidoto simples,1,7,1,1,missao,10.2,94.71,81.9,87.45,1,0,256.86
+577,E00578,P098,Severus Snape,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,10.82,83.41,77.93,90.36,1,0,253.88
+578,E00579,P099,Severus Snape,Pocoes,Pocao Polissuco,4,6,6,0,exame,14.25,80.85,85.92,91.98,1,0,255.5
+579,E00580,P100,Severus Snape,Pocoes,Veritaserum,5,2,4,1,treino,16.07,84.44,84.36,84.26,1,0,246.99
+580,E00581,P101,Severus Snape,Cura,Episkey,2,6,6,1,exame,14.17,84.72,81.52,86.43,1,0,247.50000000000003
+581,E00582,P102,Severus Snape,Cura,Ferula,2,10,9,0,duelo_real,11.9,85.74,77.34,87.6,1,0,250.77999999999994
+582,E00583,P103,Severus Snape,Cura,Rennervate,3,5,2,0,exame,13.54,82.63,68.45,79.97,0,0,222.51
+583,E00584,P104,Severus Snape,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,13.77,84.1,76.03,85.59,0,0,243.95000000000002
+584,E00585,P105,Severus Snape,Cura,Episkey,2,8,7,0,missao,11.73,88.9,77.83,90.94,1,0,255.94000000000003
+585,E00586,P106,Severus Snape,Cura,Ferula,2,6,2,1,exame,12.16,84.11,83.22,83.09,1,0,243.26
+586,E00587,P107,Severus Snape,Cura,Rennervate,2,5,9,0,exame,11.77,75.42,78.47,81.16,0,0,234.27999999999997
+587,E00588,P108,Severus Snape,Cura,Vulnera Sanentur,5,2,8,0,treino,14.17,87.47,74.55,77.14,1,0,238.98999999999998
+588,E00589,P109,Severus Snape,Cura,Episkey,1,10,9,1,duelo_real,13.36,89.93,82.34,77.04,1,0,246.95
+589,E00590,P110,Severus Snape,Cura,Ferula,2,2,8,0,treino,12.63,77.57,77.68,84.92,1,0,238.54000000000002
+590,E00591,P111,Severus Snape,Cura,Rennervate,3,10,8,0,duelo_real,12.86,85.26,68.55,85.55,1,0,238.5
+591,E00592,P112,Severus Snape,Cura,Vulnera Sanentur,5,8,9,1,missao,16.35,87.88,76.35,82.97,1,0,245.85
+592,E00593,P113,Severus Snape,Cura,Episkey,1,9,9,1,duelo_real,10.79,82.41,68.82,79.94,1,0,231.38
+593,E00594,P114,Severus Snape,Cura,Ferula,2,7,2,0,missao,11.89,90.89,81.85,86.94,1,0,252.79000000000002
+594,E00595,P115,Severus Snape,Cura,Rennervate,3,4,3,1,exame,11.92,82.85,88.33,90.85,1,0,257.10999999999996
+595,E00596,P116,Severus Snape,Cura,Vulnera Sanentur,5,6,1,0,exame,13.93,74.6,82.64,84.45,1,0,234.76
+596,E00597,P117,Severus Snape,Cura,Episkey,2,10,4,0,duelo_real,10.58,86.08,83.76,87.48,1,0,253.73999999999998
+597,E00598,P118,Severus Snape,Cura,Ferula,1,4,4,1,exame,10.61,90.42,76.53,77.12,1,0,239.45999999999998
+598,E00599,P119,Severus Snape,Cura,Rennervate,2,5,8,0,exame,11.9,80.85,73.36,83.53,1,0,236.83999999999997
+599,E00600,P120,Severus Snape,Cura,Vulnera Sanentur,5,1,6,1,treino,14.02,77.33,83.06,83.91,1,0,242.27999999999994
+600,E00601,P001,Filius Flitwick,Ataque,Expelliarmus,1,10,1,0,duelo_real,10.11,91.68,79.44,80.72,1,0,244.73000000000002
+601,E00602,P002,Filius Flitwick,Ataque,Estupefaca,3,7,9,0,missao,13.99,77.52,82.24,77.56,1,0,236.32999999999998
+602,E00603,P003,Filius Flitwick,Ataque,Bombarda,4,3,4,0,treino,13.21,77.89,90.14,83.53,1,0,247.35
+603,E00604,P004,Filius Flitwick,Ataque,Confringo,4,9,8,0,duelo_real,13.81,77.82,69.7,72.51,0,0,218.21999999999997
+604,E00605,P005,Filius Flitwick,Ataque,Expelliarmus,2,4,9,1,exame,13.07,93.6,77.0,85.13,1,0,254.66000000000003
+605,E00606,P006,Filius Flitwick,Ataque,Estupefaca,3,10,4,1,duelo_real,11.52,85.7,78.14,86.01,1,0,246.33
+606,E00607,P007,Filius Flitwick,Ataque,Bombarda,4,6,9,1,exame,14.52,81.68,88.83,77.11,1,0,247.1
+607,E00608,P008,Filius Flitwick,Ataque,Confringo,5,10,7,0,duelo_real,14.3,82.43,74.64,83.56,1,0,239.32999999999998
+608,E00609,P009,Filius Flitwick,Ataque,Expelliarmus,2,4,7,0,exame,12.9,86.48,83.56,80.43,1,0,247.57000000000002
+609,E00610,P010,Filius Flitwick,Ataque,Estupefaca,3,4,3,0,exame,11.13,86.44,79.61,87.75,1,0,249.67000000000002
+610,E00611,P011,Filius Flitwick,Ataque,Bombarda,4,7,10,0,missao,13.23,81.57,77.09,83.42,1,0,243.85
+611,E00612,P012,Filius Flitwick,Ataque,Confringo,4,4,4,1,exame,14.07,80.91,85.08,87.07,1,0,247.99
+612,E00613,P013,Filius Flitwick,Ataque,Expelliarmus,2,5,2,0,exame,10.47,91.1,87.27,81.7,1,1,253.6
+613,E00614,P014,Filius Flitwick,Ataque,Estupefaca,3,2,2,0,treino,13.7,87.23,76.19,81.24,1,0,236.96000000000004
+614,E00615,P015,Filius Flitwick,Ataque,Bombarda,3,9,10,0,duelo_real,13.18,82.41,69.29,76.69,1,0,229.20999999999998
+615,E00616,P016,Filius Flitwick,Ataque,Confringo,5,2,4,0,treino,16.06,82.04,74.31,86.76,1,0,237.05
+616,E00617,P017,Filius Flitwick,Ataque,Expelliarmus,2,7,9,1,missao,14.17,76.7,82.96,85.38,1,0,242.86999999999998
+617,E00618,P018,Filius Flitwick,Ataque,Estupefaca,3,7,1,1,missao,12.4,81.49,76.33,85.17,1,0,235.59
+618,E00619,P019,Filius Flitwick,Ataque,Bombarda,4,9,6,0,duelo_real,11.31,84.69,74.64,72.87,0,0,230.89
+619,E00620,P020,Filius Flitwick,Ataque,Confringo,5,10,7,1,duelo_real,16.28,84.55,71.86,74.56,0,0,226.69
+620,E00621,P021,Filius Flitwick,Defesa,Protego,2,4,3,0,exame,10.52,85.34,85.65,85.41,1,0,251.87999999999997
+621,E00622,P022,Filius Flitwick,Defesa,Finite Incantatem,4,6,5,1,exame,13.59,89.5,74.0,87.73,1,0,247.64000000000001
+622,E00623,P023,Filius Flitwick,Defesa,Protego Maxima,4,6,9,1,exame,13.48,72.59,79.49,77.24,0,0,228.84
+623,E00624,P024,Filius Flitwick,Defesa,Expecto Patronum,5,6,7,0,exame,13.97,84.28,75.07,83.43,0,0,240.81
+624,E00625,P025,Filius Flitwick,Defesa,Protego,2,9,9,1,duelo_real,12.28,81.63,78.54,84.15,1,0,244.04000000000005
+625,E00626,P026,Filius Flitwick,Defesa,Finite Incantatem,2,7,4,0,missao,11.06,90.45,83.06,86.11,1,0,255.56
+626,E00627,P027,Filius Flitwick,Defesa,Protego Maxima,4,9,10,0,duelo_real,14.39,84.32,73.99,81.55,1,0,240.47000000000003
+627,E00628,P028,Filius Flitwick,Defesa,Expecto Patronum,5,4,6,1,exame,13.38,87.04,80.08,81.29,1,0,247.03000000000003
+628,E00629,P029,Filius Flitwick,Defesa,Protego,2,2,1,0,treino,9.92,82.88,72.82,79.13,1,1,227.91
+629,E00630,P030,Filius Flitwick,Defesa,Finite Incantatem,3,8,8,1,missao,15.85,93.18,79.0,71.66,1,0,239.99
+630,E00631,P031,Filius Flitwick,Defesa,Protego Maxima,3,7,4,1,missao,12.0,69.05,70.51,76.56,0,0,211.12
+631,E00632,P032,Filius Flitwick,Defesa,Expecto Patronum,5,8,9,0,missao,16.0,88.61,77.24,81.17,1,0,246.01999999999998
+632,E00633,P033,Filius Flitwick,Defesa,Protego,2,9,2,0,duelo_real,9.85,82.57,88.31,85.93,1,0,251.96
+633,E00634,P034,Filius Flitwick,Defesa,Finite Incantatem,3,4,9,1,exame,13.54,80.08,77.23,86.97,1,0,243.73999999999998
+634,E00635,P035,Filius Flitwick,Defesa,Protego Maxima,4,5,1,0,exame,12.35,86.78,78.69,90.19,1,0,249.30999999999997
+635,E00636,P036,Filius Flitwick,Defesa,Expecto Patronum,4,9,9,1,duelo_real,15.84,74.81,83.86,94.5,1,0,251.33
+636,E00637,P037,Filius Flitwick,Defesa,Protego,2,7,1,0,missao,10.74,85.06,76.93,88.13,1,0,243.38
+637,E00638,P038,Filius Flitwick,Defesa,Finite Incantatem,3,6,5,0,exame,13.08,79.85,74.7,78.86,1,0,229.33
+638,E00639,P039,Filius Flitwick,Defesa,Protego Maxima,4,3,4,1,treino,13.77,83.45,82.59,82.52,1,0,243.79
+639,E00640,P040,Filius Flitwick,Defesa,Expecto Patronum,5,3,8,1,treino,15.27,76.12,65.14,84.75,1,0,224.73999999999998
+640,E00641,P041,Filius Flitwick,Encantamento,Wingardium Leviosa,1,8,1,0,missao,9.22,87.39,85.13,91.15,1,0,257.44999999999993
+641,E00642,P042,Filius Flitwick,Encantamento,Accio,2,7,3,0,missao,10.27,90.41,79.73,82.06,1,0,247.92999999999998
+642,E00643,P043,Filius Flitwick,Encantamento,Muffliato,3,1,3,0,treino,11.28,89.76,81.62,91.39,1,0,258.49
+643,E00644,P044,Filius Flitwick,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,10.82,89.7,74.87,86.34,0,0,246.08999999999997
+644,E00645,P045,Filius Flitwick,Encantamento,Wingardium Leviosa,1,4,8,1,exame,10.61,86.51,75.9,84.39,1,0,246.19
+645,E00646,P046,Filius Flitwick,Encantamento,Accio,2,9,6,1,duelo_real,9.89,92.47,79.04,89.86,1,0,260.48
+646,E00647,P047,Filius Flitwick,Encantamento,Muffliato,3,3,1,1,treino,10.9,85.55,85.24,87.55,1,0,252.43999999999997
+647,E00648,P048,Filius Flitwick,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,14.53,91.89,76.79,84.56,1,0,254.71
+648,E00649,P049,Filius Flitwick,Encantamento,Wingardium Leviosa,1,4,8,0,exame,10.64,89.36,87.71,85.73,1,0,262.16
+649,E00650,P050,Filius Flitwick,Encantamento,Accio,2,2,2,0,treino,10.72,87.13,85.88,95.67,1,0,262.96
+650,E00651,P051,Filius Flitwick,Encantamento,Muffliato,3,5,10,1,exame,11.69,86.1,87.61,85.44,1,0,261.46
+651,E00652,P052,Filius Flitwick,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,12.86,84.6,79.87,86.03,1,0,249.64
+652,E00653,P053,Filius Flitwick,Encantamento,Wingardium Leviosa,1,5,3,0,exame,10.2,83.66,91.03,93.41,1,0,262.90000000000003
+653,E00654,P054,Filius Flitwick,Encantamento,Accio,2,1,7,1,treino,10.67,91.04,76.62,85.25,1,0,252.24000000000004
+654,E00655,P055,Filius Flitwick,Encantamento,Muffliato,3,1,7,0,treino,12.28,92.09,73.11,83.19,1,0,247.10999999999999
+655,E00656,P056,Filius Flitwick,Encantamento,Feitico de Desilusao,4,5,10,1,exame,14.22,84.31,75.26,90.36,1,0,250.71
+656,E00657,P057,Filius Flitwick,Encantamento,Wingardium Leviosa,1,2,2,1,treino,11.07,87.73,91.18,82.74,1,0,254.58000000000004
+657,E00658,P058,Filius Flitwick,Encantamento,Accio,2,4,2,0,exame,11.19,92.34,82.86,82.12,1,0,251.13
+658,E00659,P059,Filius Flitwick,Encantamento,Muffliato,4,4,10,0,exame,14.08,81.22,76.35,75.74,1,0,234.23
+659,E00660,P060,Filius Flitwick,Encantamento,Feitico de Desilusao,4,6,9,0,exame,14.31,87.94,73.59,75.93,1,0,237.15
+660,E00661,P061,Filius Flitwick,Transfiguracao,Reparifarge,3,1,5,0,treino,12.42,75.36,74.4,77.28,0,0,222.62
+661,E00662,P062,Filius Flitwick,Transfiguracao,Vera Verto,3,2,6,0,treino,13.43,91.53,64.68,82.95,0,0,234.73000000000002
+662,E00663,P063,Filius Flitwick,Transfiguracao,Duro,4,3,9,0,treino,14.33,78.63,76.81,78.08,0,0,232.18999999999997
+663,E00664,P064,Filius Flitwick,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,14.27,76.28,76.26,86.67,1,0,232.94000000000003
+664,E00665,P065,Filius Flitwick,Transfiguracao,Reparifarge,2,7,10,0,missao,14.53,77.77,75.08,73.71,1,0,225.03
+665,E00666,P066,Filius Flitwick,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,11.95,86.38,74.33,80.88,1,0,234.64
+666,E00667,P067,Filius Flitwick,Transfiguracao,Duro,4,9,9,1,duelo_real,15.0,81.82,72.04,86.48,1,0,239.34000000000003
+667,E00668,P068,Filius Flitwick,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,14.34,84.2,69.4,79.58,1,0,226.84
+668,E00669,P069,Filius Flitwick,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,11.03,77.79,82.2,76.7,1,0,234.66
+669,E00670,P070,Filius Flitwick,Transfiguracao,Vera Verto,3,2,7,1,treino,13.69,81.01,68.34,77.48,0,0,223.14000000000004
+670,E00671,P071,Filius Flitwick,Transfiguracao,Duro,4,10,2,1,duelo_real,12.78,81.35,76.94,78.02,0,0,229.53
+671,E00672,P072,Filius Flitwick,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,13.79,83.71,69.36,77.01,0,0,228.29
+672,E00673,P073,Filius Flitwick,Transfiguracao,Reparifarge,2,7,2,1,missao,11.94,79.68,75.8,87.71,1,0,236.25
+673,E00674,P074,Filius Flitwick,Transfiguracao,Vera Verto,3,2,4,0,treino,11.98,89.03,81.8,88.94,1,0,255.79
+674,E00675,P075,Filius Flitwick,Transfiguracao,Duro,4,8,6,1,missao,13.99,90.52,68.82,81.61,0,0,236.95999999999998
+675,E00676,P076,Filius Flitwick,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,16.17,73.47,85.41,84.83,1,0,241.53999999999996
+676,E00677,P077,Filius Flitwick,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,11.17,86.9,75.53,88.94,1,0,247.20000000000002
+677,E00678,P078,Filius Flitwick,Transfiguracao,Vera Verto,3,8,4,1,missao,11.81,85.09,71.34,82.53,1,0,235.15
+678,E00679,P079,Filius Flitwick,Transfiguracao,Duro,3,7,9,0,missao,13.45,79.23,75.53,80.57,0,0,233.88
+679,E00680,P080,Filius Flitwick,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,14.47,80.89,73.45,82.45,0,0,231.32000000000002
+680,E00681,P081,Filius Flitwick,Pocoes,Antidoto simples,1,4,4,0,exame,10.97,80.47,65.4,84.32,1,0,225.22
+681,E00682,P082,Filius Flitwick,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,12.87,81.59,79.01,75.2,0,0,228.93
+682,E00683,P083,Filius Flitwick,Pocoes,Pocao Polissuco,4,6,2,1,exame,13.59,69.31,69.73,73.09,1,0,205.54000000000002
+683,E00684,P084,Filius Flitwick,Pocoes,Veritaserum,5,9,5,0,duelo_real,13.79,79.64,66.02,74.47,0,0,216.34
+684,E00685,P085,Filius Flitwick,Pocoes,Antidoto simples,1,10,3,1,duelo_real,11.18,73.64,67.13,82.96,1,0,217.54999999999995
+685,E00686,P086,Filius Flitwick,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,12.64,76.52,72.66,74.08,1,0,222.62
+686,E00687,P087,Filius Flitwick,Pocoes,Pocao Polissuco,4,4,8,0,exame,15.5,72.07,70.48,75.16,0,0,214.21
+687,E00688,P088,Filius Flitwick,Pocoes,Veritaserum,5,3,4,0,treino,14.72,75.58,73.26,73.36,0,0,216.48
+688,E00689,P089,Filius Flitwick,Pocoes,Antidoto simples,1,1,8,0,treino,13.16,76.82,66.58,78.2,1,0,218.43999999999997
+689,E00690,P090,Filius Flitwick,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,11.88,75.94,66.14,81.56,1,0,222.76
+690,E00691,P091,Filius Flitwick,Pocoes,Pocao Polissuco,4,7,10,0,missao,14.57,73.63,74.08,75.1,0,0,222.23999999999998
+691,E00692,P092,Filius Flitwick,Pocoes,Veritaserum,5,9,3,1,duelo_real,14.34,78.45,66.03,74.36,0,0,212.50000000000003
+692,E00693,P093,Filius Flitwick,Pocoes,Antidoto simples,1,2,3,0,treino,11.06,85.88,70.84,80.97,1,0,231.63
+693,E00694,P094,Filius Flitwick,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,12.61,77.78,65.72,81.49,0,0,219.38
+694,E00695,P095,Filius Flitwick,Pocoes,Pocao Polissuco,4,5,5,1,exame,15.59,85.36,61.36,70.81,0,0,210.94
+695,E00696,P096,Filius Flitwick,Pocoes,Veritaserum,5,7,2,0,missao,14.62,70.08,73.08,76.05,1,0,212.58999999999997
+696,E00697,P097,Filius Flitwick,Pocoes,Antidoto simples,1,7,1,1,missao,12.08,82.3,78.14,83.79,0,0,234.15
+697,E00698,P098,Filius Flitwick,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,12.66,73.14,78.05,79.63,1,0,231.16
+698,E00699,P099,Filius Flitwick,Pocoes,Pocao Polissuco,4,6,6,0,exame,14.65,83.63,62.19,78.81,0,0,219.98
+699,E00700,P100,Filius Flitwick,Pocoes,Veritaserum,5,2,4,1,treino,14.47,77.52,77.55,67.91,0,0,217.51
+700,E00701,P101,Filius Flitwick,Cura,Episkey,2,6,6,1,exame,13.32,80.28,80.7,87.91,1,0,244.57
+701,E00702,P102,Filius Flitwick,Cura,Ferula,2,10,9,0,duelo_real,13.48,84.09,67.35,82.15,0,0,231.11
+702,E00703,P103,Filius Flitwick,Cura,Rennervate,3,5,2,0,exame,11.29,80.3,76.76,84.12,1,0,235.89000000000001
+703,E00704,P104,Filius Flitwick,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,16.59,79.2,79.02,74.98,0,0,228.60999999999999
+704,E00705,P105,Filius Flitwick,Cura,Episkey,2,8,7,0,missao,13.63,77.09,73.5,82.51,1,0,229.47000000000003
+705,E00706,P106,Filius Flitwick,Cura,Ferula,2,6,2,1,exame,10.67,76.39,69.43,76.74,0,0,215.89000000000001
+706,E00707,P107,Filius Flitwick,Cura,Rennervate,2,5,9,0,exame,12.64,80.12,64.28,79.68,0,0,222.44
+707,E00708,P108,Filius Flitwick,Cura,Vulnera Sanentur,5,2,8,0,treino,15.68,74.61,72.66,78.45,0,0,223.03999999999996
+708,E00709,P109,Filius Flitwick,Cura,Episkey,1,10,9,1,duelo_real,11.71,76.94,70.91,75.95,0,0,222.09
+709,E00710,P110,Filius Flitwick,Cura,Ferula,2,2,8,0,treino,13.18,78.96,68.38,83.36,1,0,228.51999999999998
+710,E00711,P111,Filius Flitwick,Cura,Rennervate,3,10,8,0,duelo_real,14.14,78.34,68.35,75.82,0,0,219.37
+711,E00712,P112,Filius Flitwick,Cura,Vulnera Sanentur,5,8,9,1,missao,15.23,78.3,56.4,70.86,0,0,204.33
+712,E00713,P113,Filius Flitwick,Cura,Episkey,1,9,9,1,duelo_real,12.89,78.24,80.89,80.51,1,0,237.75
+713,E00714,P114,Filius Flitwick,Cura,Ferula,2,7,2,0,missao,9.98,84.11,65.66,79.87,1,0,224.66
+714,E00715,P115,Filius Flitwick,Cura,Rennervate,3,4,3,1,exame,13.62,78.11,74.21,72.19,0,0,216.89
+715,E00716,P116,Filius Flitwick,Cura,Vulnera Sanentur,5,6,1,0,exame,14.11,75.82,72.94,81.79,0,0,222.44
+716,E00717,P117,Filius Flitwick,Cura,Episkey,2,10,4,0,duelo_real,10.86,74.11,67.15,82.76,1,0,220.15999999999997
+717,E00718,P118,Filius Flitwick,Cura,Ferula,1,4,4,1,exame,12.64,81.22,73.3,83.11,1,0,230.99
+718,E00719,P119,Filius Flitwick,Cura,Rennervate,2,5,8,0,exame,13.59,78.4,78.13,73.78,0,0,226.72
+719,E00720,P120,Filius Flitwick,Cura,Vulnera Sanentur,5,1,6,1,treino,13.9,82.43,71.67,77.64,1,0,229.84
+720,E00721,P001,Hermione Granger,Ataque,Expelliarmus,1,10,1,0,duelo_real,11.72,83.0,68.17,83.62,1,0,226.07000000000002
+721,E00722,P002,Hermione Granger,Ataque,Estupefaca,3,7,9,0,missao,14.57,79.22,65.76,73.2,1,0,216.61
+722,E00723,P003,Hermione Granger,Ataque,Bombarda,4,3,4,0,treino,14.41,90.49,69.66,91.15,1,0,245.88999999999996
+723,E00724,P004,Hermione Granger,Ataque,Confringo,4,9,8,0,duelo_real,16.28,87.97,76.4,79.95,1,0,241.04
+724,E00725,P005,Hermione Granger,Ataque,Expelliarmus,2,4,9,1,exame,14.83,74.94,78.26,89.04,1,0,239.41
+725,E00726,P006,Hermione Granger,Ataque,Estupefaca,3,10,4,1,duelo_real,15.75,76.32,80.3,79.45,1,0,228.32
+726,E00727,P007,Hermione Granger,Ataque,Bombarda,4,6,9,1,exame,17.03,78.23,78.6,78.71,1,0,232.50999999999996
+727,E00728,P008,Hermione Granger,Ataque,Confringo,5,10,7,0,duelo_real,16.14,85.06,71.82,81.43,1,0,235.17000000000002
+728,E00729,P009,Hermione Granger,Ataque,Expelliarmus,2,4,7,0,exame,12.5,84.52,76.71,89.26,1,0,247.99
+729,E00730,P010,Hermione Granger,Ataque,Estupefaca,3,4,3,0,exame,14.82,85.52,76.7,85.64,1,0,240.04000000000002
+730,E00731,P011,Hermione Granger,Ataque,Bombarda,4,7,10,0,missao,16.87,79.69,72.74,79.91,1,0,230.47
+731,E00732,P012,Hermione Granger,Ataque,Confringo,4,4,4,1,exame,16.88,82.26,75.26,84.21,0,0,232.85000000000002
+732,E00733,P013,Hermione Granger,Ataque,Expelliarmus,2,5,2,0,exame,12.54,81.18,69.65,77.22,1,0,220.51000000000002
+733,E00734,P014,Hermione Granger,Ataque,Estupefaca,3,2,2,0,treino,12.86,92.5,72.12,89.17,0,0,245.93
+734,E00735,P015,Hermione Granger,Ataque,Bombarda,3,9,10,0,duelo_real,16.5,81.15,64.02,77.74,0,0,219.41000000000003
+735,E00736,P016,Hermione Granger,Ataque,Confringo,5,2,4,0,treino,16.64,82.62,71.0,85.43,0,0,231.41000000000003
+736,E00737,P017,Hermione Granger,Ataque,Expelliarmus,2,7,9,1,missao,17.09,82.04,72.87,85.2,0,0,234.02
+737,E00738,P018,Hermione Granger,Ataque,Estupefaca,3,7,1,1,missao,14.72,76.97,79.82,80.65,1,0,227.72
+738,E00739,P019,Hermione Granger,Ataque,Bombarda,4,9,6,0,duelo_real,15.21,77.08,66.07,78.46,1,0,217.39999999999995
+739,E00740,P020,Hermione Granger,Ataque,Confringo,5,10,7,1,duelo_real,17.93,72.09,70.4,71.45,1,0,209.01
+740,E00741,P021,Hermione Granger,Defesa,Protego,2,4,3,0,exame,11.02,92.86,83.98,78.39,1,1,249.21
+741,E00742,P022,Hermione Granger,Defesa,Finite Incantatem,4,6,5,1,exame,14.91,80.96,79.03,78.79,1,0,233.87000000000003
+742,E00743,P023,Hermione Granger,Defesa,Protego Maxima,4,6,9,1,exame,14.82,79.6,70.69,81.3,1,0,230.76999999999998
+743,E00744,P024,Hermione Granger,Defesa,Expecto Patronum,5,6,7,0,exame,15.65,84.87,73.99,86.23,0,0,241.44000000000003
+744,E00745,P025,Hermione Granger,Defesa,Protego,2,9,9,1,duelo_real,13.98,80.94,79.38,80.84,1,0,239.18
+745,E00746,P026,Hermione Granger,Defesa,Finite Incantatem,2,7,4,0,missao,14.26,83.32,84.86,88.33,1,0,249.25
+746,E00747,P027,Hermione Granger,Defesa,Protego Maxima,4,9,10,0,duelo_real,16.7,74.45,79.69,83.85,1,0,236.29
+747,E00748,P028,Hermione Granger,Defesa,Expecto Patronum,5,4,6,1,exame,15.55,84.6,74.96,82.49,1,0,238.5
+748,E00749,P029,Hermione Granger,Defesa,Protego,2,2,1,0,treino,10.82,81.54,78.6,86.47,1,0,239.79
+749,E00750,P030,Hermione Granger,Defesa,Finite Incantatem,3,8,8,1,missao,15.34,83.22,74.46,79.86,0,0,233.20000000000002
+750,E00751,P031,Hermione Granger,Defesa,Protego Maxima,3,7,4,1,missao,13.83,85.06,72.62,84.3,1,0,236.15
+751,E00752,P032,Hermione Granger,Defesa,Expecto Patronum,5,8,9,0,missao,17.08,81.07,74.06,80.01,0,0,232.06
+752,E00753,P033,Hermione Granger,Defesa,Protego,2,9,2,0,duelo_real,14.11,87.75,78.65,78.61,1,0,235.89999999999998
+753,E00754,P034,Hermione Granger,Defesa,Finite Incantatem,3,4,9,1,exame,15.96,88.07,69.37,82.47,1,0,236.95
+754,E00755,P035,Hermione Granger,Defesa,Protego Maxima,4,5,1,0,exame,14.61,84.03,81.88,74.51,1,0,231.81
+755,E00756,P036,Hermione Granger,Defesa,Expecto Patronum,4,9,9,1,duelo_real,16.36,80.4,87.66,84.92,1,0,250.62
+756,E00757,P037,Hermione Granger,Defesa,Protego,2,7,1,0,missao,14.31,88.67,68.39,87.05,1,0,233.8
+757,E00758,P038,Hermione Granger,Defesa,Finite Incantatem,3,6,5,0,exame,13.2,80.89,77.59,77.57,1,0,231.85000000000002
+758,E00759,P039,Hermione Granger,Defesa,Protego Maxima,4,3,4,1,treino,14.48,86.24,72.07,81.49,1,0,234.32000000000002
+759,E00760,P040,Hermione Granger,Defesa,Expecto Patronum,5,3,8,1,treino,15.8,71.99,77.06,81.56,1,0,228.81
+760,E00761,P041,Hermione Granger,Encantamento,Wingardium Leviosa,1,8,1,0,missao,12.81,87.88,77.34,81.11,1,0,236.51999999999998
+761,E00762,P042,Hermione Granger,Encantamento,Accio,2,7,3,0,missao,11.76,80.56,75.57,86.99,1,0,237.36
+762,E00763,P043,Hermione Granger,Encantamento,Muffliato,3,1,3,0,treino,12.33,90.56,82.38,87.78,1,0,255.39000000000001
+763,E00764,P044,Hermione Granger,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,14.82,80.91,83.64,86.31,1,0,243.04000000000002
+764,E00765,P045,Hermione Granger,Encantamento,Wingardium Leviosa,1,4,8,1,exame,14.22,78.43,80.61,80.67,0,0,234.49000000000004
+765,E00766,P046,Hermione Granger,Encantamento,Accio,2,9,6,1,duelo_real,14.65,74.51,81.39,81.48,0,0,230.73
+766,E00767,P047,Hermione Granger,Encantamento,Muffliato,3,3,1,1,treino,13.21,87.72,75.69,81.03,1,0,236.23
+767,E00768,P048,Hermione Granger,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,16.87,85.54,73.58,84.05,1,0,242.3
+768,E00769,P049,Hermione Granger,Encantamento,Wingardium Leviosa,1,4,8,0,exame,12.67,90.08,79.09,87.12,1,0,253.62000000000003
+769,E00770,P050,Hermione Granger,Encantamento,Accio,2,2,2,0,treino,11.26,91.3,75.77,86.67,1,0,247.48000000000002
+770,E00771,P051,Hermione Granger,Encantamento,Muffliato,3,5,10,1,exame,14.61,78.13,76.38,80.6,0,0,233.5
+771,E00772,P052,Hermione Granger,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,16.41,81.18,74.02,79.26,0,1,228.04999999999998
+772,E00773,P053,Hermione Granger,Encantamento,Wingardium Leviosa,1,5,3,0,exame,11.73,80.65,83.22,88.73,1,0,245.87000000000003
+773,E00774,P054,Hermione Granger,Encantamento,Accio,2,1,7,1,treino,13.26,90.73,78.34,89.11,1,0,254.92000000000002
+774,E00775,P055,Hermione Granger,Encantamento,Muffliato,3,1,7,0,treino,13.24,82.6,73.36,81.18,1,0,234.89999999999998
+775,E00776,P056,Hermione Granger,Encantamento,Feitico de Desilusao,4,5,10,1,exame,15.64,89.1,73.01,82.51,1,0,243.98000000000002
+776,E00777,P057,Hermione Granger,Encantamento,Wingardium Leviosa,1,2,2,1,treino,12.9,80.52,78.98,85.94,1,0,236.54
+777,E00778,P058,Hermione Granger,Encantamento,Accio,2,4,2,0,exame,12.67,85.69,82.36,90.53,1,0,250.91000000000005
+778,E00779,P059,Hermione Granger,Encantamento,Muffliato,4,4,10,0,exame,16.31,83.15,74.71,85.08,0,0,240.63
+779,E00780,P060,Hermione Granger,Encantamento,Feitico de Desilusao,4,6,9,0,exame,16.72,91.14,78.84,82.38,0,0,248.64000000000001
+780,E00781,P061,Hermione Granger,Transfiguracao,Reparifarge,3,1,5,0,treino,14.05,82.8,79.61,91.18,1,0,248.54000000000002
+781,E00782,P062,Hermione Granger,Transfiguracao,Vera Verto,3,2,6,0,treino,12.47,92.91,80.22,80.24,1,0,250.9
+782,E00783,P063,Hermione Granger,Transfiguracao,Duro,4,3,9,0,treino,15.0,84.57,79.81,81.0,0,0,243.38
+783,E00784,P064,Hermione Granger,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,17.28,80.66,73.38,81.94,1,0,226.7
+784,E00785,P065,Hermione Granger,Transfiguracao,Reparifarge,2,7,10,0,missao,14.03,83.94,73.04,84.75,0,0,239.70000000000002
+785,E00786,P066,Hermione Granger,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,13.23,81.96,72.64,85.27,1,0,231.64000000000001
+786,E00787,P067,Hermione Granger,Transfiguracao,Duro,4,9,9,1,duelo_real,16.68,83.47,69.21,78.85,0,0,227.85
+787,E00788,P068,Hermione Granger,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,16.12,84.55,83.33,85.7,1,0,245.45999999999998
+788,E00789,P069,Hermione Granger,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,13.9,79.41,82.05,84.02,1,0,240.57999999999996
+789,E00790,P070,Hermione Granger,Transfiguracao,Vera Verto,3,2,7,1,treino,14.97,79.69,79.63,84.87,1,0,240.22
+790,E00791,P071,Hermione Granger,Transfiguracao,Duro,4,10,2,1,duelo_real,14.78,86.54,84.06,80.43,1,0,243.25000000000003
+791,E00792,P072,Hermione Granger,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,15.89,84.84,68.53,80.67,1,0,231.15000000000003
+792,E00793,P073,Hermione Granger,Transfiguracao,Reparifarge,2,7,2,1,missao,11.54,87.05,78.35,82.02,1,0,240.87999999999997
+793,E00794,P074,Hermione Granger,Transfiguracao,Vera Verto,3,2,4,0,treino,13.72,80.23,73.56,85.76,0,0,232.83
+794,E00795,P075,Hermione Granger,Transfiguracao,Duro,4,8,6,1,missao,18.25,87.61,75.17,84.37,1,0,239.89999999999998
+795,E00796,P076,Hermione Granger,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,16.87,77.11,71.15,84.04,1,0,229.43
+796,E00797,P077,Hermione Granger,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,13.72,95.77,72.37,75.26,1,0,236.67999999999998
+797,E00798,P078,Hermione Granger,Transfiguracao,Vera Verto,3,8,4,1,missao,15.67,83.15,78.97,85.8,1,0,240.25000000000003
+798,E00799,P079,Hermione Granger,Transfiguracao,Duro,3,7,9,0,missao,14.92,79.45,76.44,87.34,0,0,240.31
+799,E00800,P080,Hermione Granger,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,15.71,85.01,77.41,83.44,0,0,239.15
+800,E00801,P081,Hermione Granger,Pocoes,Antidoto simples,1,4,4,0,exame,9.74,95.44,83.07,88.84,1,0,263.61
+801,E00802,P082,Hermione Granger,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,14.66,88.32,83.48,88.06,0,0,251.20000000000002
+802,E00803,P083,Hermione Granger,Pocoes,Pocao Polissuco,4,6,2,1,exame,14.17,86.99,71.57,86.64,1,0,238.03
+803,E00804,P084,Hermione Granger,Pocoes,Veritaserum,5,9,5,0,duelo_real,16.24,87.62,80.01,81.64,1,0,244.02999999999997
+804,E00805,P085,Hermione Granger,Pocoes,Antidoto simples,1,10,3,1,duelo_real,10.85,85.76,74.27,87.27,1,0,241.45000000000002
+805,E00806,P086,Hermione Granger,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,14.36,83.83,73.91,75.55,1,1,229.93
+806,E00807,P087,Hermione Granger,Pocoes,Pocao Polissuco,4,4,8,0,exame,13.88,90.21,77.42,82.32,1,0,249.07
+807,E00808,P088,Hermione Granger,Pocoes,Veritaserum,5,3,4,0,treino,15.78,79.14,68.86,81.9,1,0,224.12
+808,E00809,P089,Hermione Granger,Pocoes,Antidoto simples,1,1,8,0,treino,12.5,87.91,79.07,87.49,0,0,250.96999999999997
+809,E00810,P090,Hermione Granger,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,13.58,86.3,78.42,84.49,1,0,246.62999999999997
+810,E00811,P091,Hermione Granger,Pocoes,Pocao Polissuco,4,7,10,0,missao,16.84,92.05,69.05,84.93,1,0,244.18999999999997
+811,E00812,P092,Hermione Granger,Pocoes,Veritaserum,5,9,3,1,duelo_real,17.06,85.16,76.98,88.59,0,0,241.67000000000002
+812,E00813,P093,Hermione Granger,Pocoes,Antidoto simples,1,2,3,0,treino,12.05,85.62,79.3,93.38,1,0,251.25
+813,E00814,P094,Hermione Granger,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,14.06,88.23,75.07,79.45,1,0,236.69
+814,E00815,P095,Hermione Granger,Pocoes,Pocao Polissuco,4,5,5,1,exame,16.03,78.63,70.01,82.12,0,0,223.73
+815,E00816,P096,Hermione Granger,Pocoes,Veritaserum,5,7,2,0,missao,16.74,83.67,86.07,78.14,1,0,239.14
+816,E00817,P097,Hermione Granger,Pocoes,Antidoto simples,1,7,1,1,missao,11.43,90.07,80.74,87.98,1,0,250.36
+817,E00818,P098,Hermione Granger,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,13.85,86.71,74.07,87.08,1,0,247.00999999999996
+818,E00819,P099,Hermione Granger,Pocoes,Pocao Polissuco,4,6,6,0,exame,14.85,86.93,77.78,72.66,1,0,233.52
+819,E00820,P100,Hermione Granger,Pocoes,Veritaserum,5,2,4,1,treino,15.81,89.45,77.65,74.41,1,0,235.70000000000002
+820,E00821,P101,Hermione Granger,Cura,Episkey,2,6,6,1,exame,13.34,84.09,73.35,81.65,1,0,234.75
+821,E00822,P102,Hermione Granger,Cura,Ferula,2,10,9,0,duelo_real,16.4,81.42,74.5,81.06,1,0,232.58
+822,E00823,P103,Hermione Granger,Cura,Rennervate,3,5,2,0,exame,13.14,91.15,79.68,82.68,1,0,246.37
+823,E00824,P104,Hermione Granger,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,17.25,78.21,77.52,80.5,1,0,231.98
+824,E00825,P105,Hermione Granger,Cura,Episkey,2,8,7,0,missao,15.1,73.2,72.91,87.32,1,0,228.33
+825,E00826,P106,Hermione Granger,Cura,Ferula,2,6,2,1,exame,13.44,87.09,71.91,84.1,1,0,234.66
+826,E00827,P107,Hermione Granger,Cura,Rennervate,2,5,9,0,exame,14.53,77.44,77.04,83.3,1,0,235.25000000000003
+827,E00828,P108,Hermione Granger,Cura,Vulnera Sanentur,5,2,8,0,treino,15.41,79.25,69.96,81.79,1,0,229.59
+828,E00829,P109,Hermione Granger,Cura,Episkey,1,10,9,1,duelo_real,15.44,84.39,74.13,82.4,1,0,236.48
+829,E00830,P110,Hermione Granger,Cura,Ferula,2,2,8,0,treino,13.92,83.6,73.43,82.51,1,0,236.62000000000003
+830,E00831,P111,Hermione Granger,Cura,Rennervate,3,10,8,0,duelo_real,15.05,83.89,73.89,76.31,0,0,230.04
+831,E00832,P112,Hermione Granger,Cura,Vulnera Sanentur,5,8,9,1,missao,18.41,83.89,75.01,83.71,1,0,239.20000000000002
+832,E00833,P113,Hermione Granger,Cura,Episkey,1,9,9,1,duelo_real,14.62,81.34,80.53,85.47,1,0,243.72000000000003
+833,E00834,P114,Hermione Granger,Cura,Ferula,2,7,2,0,missao,12.47,91.05,65.72,80.98,0,0,229.28
+834,E00835,P115,Hermione Granger,Cura,Rennervate,3,4,3,1,exame,15.05,89.16,81.69,83.52,1,0,246.32
+835,E00836,P116,Hermione Granger,Cura,Vulnera Sanentur,5,6,1,0,exame,14.95,79.09,73.57,83.47,1,0,228.18
+836,E00837,P117,Hermione Granger,Cura,Episkey,2,10,4,0,duelo_real,13.43,80.74,67.45,85.68,1,0,227.44
+837,E00838,P118,Hermione Granger,Cura,Ferula,1,4,4,1,exame,12.14,93.8,77.18,89.76,1,0,254.60000000000002
+838,E00839,P119,Hermione Granger,Cura,Rennervate,2,5,8,0,exame,14.93,87.29,82.01,79.38,1,0,244.75
+839,E00840,P120,Hermione Granger,Cura,Vulnera Sanentur,5,1,6,1,treino,15.11,79.15,71.45,87.41,0,0,233.90000000000003
+840,E00841,P001,Harry Potter,Ataque,Expelliarmus,1,10,1,0,duelo_real,7.87,89.93,84.08,90.43,1,0,259.57
+841,E00842,P002,Harry Potter,Ataque,Estupefaca,3,7,9,0,missao,11.84,81.76,79.72,81.35,1,0,243.99
+842,E00843,P003,Harry Potter,Ataque,Bombarda,4,3,4,0,treino,12.51,79.0,73.12,76.04,1,0,224.65000000000003
+843,E00844,P004,Harry Potter,Ataque,Confringo,4,9,8,0,duelo_real,12.83,76.91,75.88,78.36,0,0,230.31999999999996
+844,E00845,P005,Harry Potter,Ataque,Expelliarmus,2,4,9,1,exame,12.43,73.5,82.6,75.33,0,0,230.0
+845,E00846,P006,Harry Potter,Ataque,Estupefaca,3,10,4,1,duelo_real,10.03,81.99,72.06,82.56,1,0,234.58
+846,E00847,P007,Harry Potter,Ataque,Bombarda,4,6,9,1,exame,14.61,74.9,77.08,79.89,1,0,231.26
+847,E00848,P008,Harry Potter,Ataque,Confringo,5,10,7,0,duelo_real,12.26,83.01,68.89,82.85,0,0,234.49
+848,E00849,P009,Harry Potter,Ataque,Expelliarmus,2,4,7,0,exame,11.53,77.18,78.44,65.54,0,0,218.63000000000002
+849,E00850,P010,Harry Potter,Ataque,Estupefaca,3,4,3,0,exame,13.01,79.08,81.47,80.54,1,0,235.08000000000004
+850,E00851,P011,Harry Potter,Ataque,Bombarda,4,7,10,0,missao,12.44,76.51,77.36,80.41,0,0,235.84
+851,E00852,P012,Harry Potter,Ataque,Confringo,4,4,4,1,exame,12.89,82.36,75.8,70.56,1,0,224.82999999999998
+852,E00853,P013,Harry Potter,Ataque,Expelliarmus,2,5,2,0,exame,11.37,84.52,71.31,79.97,0,0,228.42999999999998
+853,E00854,P014,Harry Potter,Ataque,Estupefaca,3,2,2,0,treino,13.1,75.46,77.55,78.93,0,0,223.84
+854,E00855,P015,Harry Potter,Ataque,Bombarda,3,9,10,0,duelo_real,10.82,78.31,83.32,74.36,0,0,238.17000000000002
+855,E00856,P016,Harry Potter,Ataque,Confringo,5,2,4,0,treino,14.15,71.81,75.84,70.84,1,0,214.34
+856,E00857,P017,Harry Potter,Ataque,Expelliarmus,2,7,9,1,missao,12.05,81.93,71.63,76.61,0,0,229.12
+857,E00858,P018,Harry Potter,Ataque,Estupefaca,3,7,1,1,missao,10.18,90.0,81.99,76.71,1,0,243.51999999999998
+858,E00859,P019,Harry Potter,Ataque,Bombarda,4,9,6,0,duelo_real,11.74,79.49,79.41,83.18,1,0,241.33999999999997
+859,E00860,P020,Harry Potter,Ataque,Confringo,5,10,7,1,duelo_real,13.44,80.52,70.46,73.66,1,0,224.2
+860,E00861,P021,Harry Potter,Defesa,Protego,2,4,3,0,exame,10.76,72.3,86.07,81.3,0,0,233.91000000000003
+861,E00862,P022,Harry Potter,Defesa,Finite Incantatem,4,6,5,1,exame,11.25,79.93,76.49,68.78,0,0,222.95000000000002
+862,E00863,P023,Harry Potter,Defesa,Protego Maxima,4,6,9,1,exame,13.84,78.1,87.07,75.55,1,0,240.87999999999997
+863,E00864,P024,Harry Potter,Defesa,Expecto Patronum,5,6,7,0,exame,13.06,74.94,78.07,79.21,0,0,231.15999999999997
+864,E00865,P025,Harry Potter,Defesa,Protego,2,9,9,1,duelo_real,10.41,86.0,75.32,72.66,0,0,234.57
+865,E00866,P026,Harry Potter,Defesa,Finite Incantatem,2,7,4,0,missao,11.07,86.67,89.83,71.57,1,0,244.0
+866,E00867,P027,Harry Potter,Defesa,Protego Maxima,4,9,10,0,duelo_real,11.98,78.93,79.06,78.33,1,0,239.34
+867,E00868,P028,Harry Potter,Defesa,Expecto Patronum,5,4,6,1,exame,15.54,74.08,82.16,69.23,1,0,221.93000000000004
+868,E00869,P029,Harry Potter,Defesa,Protego,2,2,1,0,treino,11.55,71.71,82.12,73.64,0,0,218.91999999999996
+869,E00870,P030,Harry Potter,Defesa,Finite Incantatem,3,8,8,1,missao,12.07,81.15,80.31,81.16,1,0,242.55
+870,E00871,P031,Harry Potter,Defesa,Protego Maxima,3,7,4,1,missao,10.79,83.45,75.78,82.19,1,0,238.63000000000002
+871,E00872,P032,Harry Potter,Defesa,Expecto Patronum,5,8,9,0,missao,12.8,79.07,77.63,73.82,0,0,231.71999999999997
+872,E00873,P033,Harry Potter,Defesa,Protego,2,9,2,0,duelo_real,8.28,81.13,77.39,76.66,1,0,231.89999999999998
+873,E00874,P034,Harry Potter,Defesa,Finite Incantatem,3,4,9,1,exame,13.16,68.01,79.14,79.47,0,0,225.46
+874,E00875,P035,Harry Potter,Defesa,Protego Maxima,4,5,1,0,exame,11.16,78.6,84.85,80.34,1,0,238.63
+875,E00876,P036,Harry Potter,Defesa,Expecto Patronum,4,9,9,1,duelo_real,13.96,82.59,85.67,84.8,1,0,253.1
+876,E00877,P037,Harry Potter,Defesa,Protego,2,7,1,0,missao,9.82,85.14,79.01,78.43,1,0,236.76000000000002
+877,E00878,P038,Harry Potter,Defesa,Finite Incantatem,3,6,5,0,exame,10.77,84.05,84.63,80.99,0,0,246.9
+878,E00879,P039,Harry Potter,Defesa,Protego Maxima,4,3,4,1,treino,12.54,76.64,81.0,83.6,1,0,237.7
+879,E00880,P040,Harry Potter,Defesa,Expecto Patronum,5,3,8,1,treino,15.07,69.03,72.76,71.79,0,0,211.51000000000005
+880,E00881,P041,Harry Potter,Encantamento,Wingardium Leviosa,1,8,1,0,missao,9.82,77.81,70.2,78.37,0,0,218.56
+881,E00882,P042,Harry Potter,Encantamento,Accio,2,7,3,0,missao,9.52,74.0,77.79,80.98,0,0,228.25000000000003
+882,E00883,P043,Harry Potter,Encantamento,Muffliato,3,1,3,0,treino,12.29,66.35,72.26,70.66,0,0,202.98000000000002
+883,E00884,P044,Harry Potter,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,11.78,72.48,74.79,75.92,0,0,217.41
+884,E00885,P045,Harry Potter,Encantamento,Wingardium Leviosa,1,4,8,1,exame,13.12,71.62,82.16,69.41,1,0,220.07
+885,E00886,P046,Harry Potter,Encantamento,Accio,2,9,6,1,duelo_real,10.73,76.43,68.27,70.65,0,0,212.62
+886,E00887,P047,Harry Potter,Encantamento,Muffliato,3,3,1,1,treino,12.93,77.18,68.76,77.39,1,0,215.39999999999998
+887,E00888,P048,Harry Potter,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,12.87,70.04,81.45,69.85,1,0,224.47
+888,E00889,P049,Harry Potter,Encantamento,Wingardium Leviosa,1,4,8,0,exame,11.55,72.65,69.12,71.79,0,0,211.01
+889,E00890,P050,Harry Potter,Encantamento,Accio,2,2,2,0,treino,12.51,71.0,74.47,71.31,0,0,208.27
+890,E00891,P051,Harry Potter,Encantamento,Muffliato,3,5,10,1,exame,12.32,76.15,73.8,69.8,0,0,220.43
+891,E00892,P052,Harry Potter,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,12.31,74.53,75.56,66.28,0,0,215.06
+892,E00893,P053,Harry Potter,Encantamento,Wingardium Leviosa,1,5,3,0,exame,9.06,74.45,81.67,75.45,1,0,227.51
+893,E00894,P054,Harry Potter,Encantamento,Accio,2,1,7,1,treino,12.27,70.99,73.18,73.21,0,0,214.10999999999999
+894,E00895,P055,Harry Potter,Encantamento,Muffliato,3,1,7,0,treino,12.91,69.17,74.95,72.13,1,0,214.34
+895,E00896,P056,Harry Potter,Encantamento,Feitico de Desilusao,4,5,10,1,exame,13.77,69.52,76.77,68.6,0,1,214.11999999999998
+896,E00897,P057,Harry Potter,Encantamento,Wingardium Leviosa,1,2,2,1,treino,10.67,71.55,80.17,71.41,1,0,216.46
+897,E00898,P058,Harry Potter,Encantamento,Accio,2,4,2,0,exame,12.12,78.29,86.44,73.41,1,0,231.02
+898,E00899,P059,Harry Potter,Encantamento,Muffliato,4,4,10,0,exame,14.34,75.32,69.91,74.32,0,0,219.20999999999998
+899,E00900,P060,Harry Potter,Encantamento,Feitico de Desilusao,4,6,9,0,exame,14.64,77.23,70.03,70.4,0,0,216.01999999999998
+900,E00901,P061,Harry Potter,Transfiguracao,Reparifarge,3,1,5,0,treino,13.07,68.4,73.82,66.4,0,0,203.55
+901,E00902,P062,Harry Potter,Transfiguracao,Vera Verto,3,2,6,0,treino,13.55,60.2,78.58,70.3,0,0,204.52999999999997
+902,E00903,P063,Harry Potter,Transfiguracao,Duro,4,3,9,0,treino,16.35,63.5,74.82,59.12,0,1,193.09
+903,E00904,P064,Harry Potter,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,14.0,72.1,72.39,62.8,0,0,200.29000000000002
+904,E00905,P065,Harry Potter,Transfiguracao,Reparifarge,2,7,10,0,missao,12.11,72.34,67.03,70.23,0,0,209.49
+905,E00906,P066,Harry Potter,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,10.46,78.06,75.48,78.34,1,0,226.42000000000002
+906,E00907,P067,Harry Potter,Transfiguracao,Duro,4,9,9,1,duelo_real,13.2,75.84,71.72,68.44,0,0,215.8
+907,E00908,P068,Harry Potter,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,14.98,73.74,76.24,67.62,0,0,209.62
+908,E00909,P069,Harry Potter,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,10.73,82.57,74.58,76.38,1,0,231.79999999999998
+909,E00910,P070,Harry Potter,Transfiguracao,Vera Verto,3,2,7,1,treino,14.61,77.06,65.08,73.43,0,0,210.95999999999998
+910,E00911,P071,Harry Potter,Transfiguracao,Duro,4,10,2,1,duelo_real,12.13,72.22,76.27,76.74,1,0,220.10000000000002
+911,E00912,P072,Harry Potter,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,13.25,70.73,73.39,68.11,0,0,210.98000000000002
+912,E00913,P073,Harry Potter,Transfiguracao,Reparifarge,2,7,2,1,missao,11.31,62.06,82.45,79.41,1,0,217.60999999999999
+913,E00914,P074,Harry Potter,Transfiguracao,Vera Verto,3,2,4,0,treino,13.02,66.81,70.79,63.15,1,0,195.73000000000002
+914,E00915,P075,Harry Potter,Transfiguracao,Duro,4,8,6,1,missao,14.53,68.92,74.21,66.43,1,1,205.03
+915,E00916,P076,Harry Potter,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,14.15,77.37,73.11,64.09,0,0,213.42000000000002
+916,E00917,P077,Harry Potter,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,10.43,81.91,76.98,77.73,1,0,233.19
+917,E00918,P078,Harry Potter,Transfiguracao,Vera Verto,3,8,4,1,missao,10.67,69.69,77.13,76.73,0,0,219.88000000000002
+918,E00919,P079,Harry Potter,Transfiguracao,Duro,3,7,9,0,missao,13.6,77.17,81.37,69.23,0,0,226.17000000000004
+919,E00920,P080,Harry Potter,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,14.07,78.0,73.14,77.67,1,0,224.74
+920,E00921,P081,Harry Potter,Pocoes,Antidoto simples,1,4,4,0,exame,11.41,69.85,69.48,65.96,0,0,198.87999999999997
+921,E00922,P082,Harry Potter,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,13.39,71.68,66.09,75.6,1,0,206.98000000000002
+922,E00923,P083,Harry Potter,Pocoes,Pocao Polissuco,4,6,2,1,exame,15.42,64.32,70.1,68.31,0,0,193.31
+923,E00924,P084,Harry Potter,Pocoes,Veritaserum,5,9,5,0,duelo_real,14.11,70.46,73.21,66.26,0,0,205.82
+924,E00925,P085,Harry Potter,Pocoes,Antidoto simples,1,10,3,1,duelo_real,9.96,75.01,64.89,72.57,0,0,206.51
+925,E00926,P086,Harry Potter,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,12.31,78.18,66.96,70.13,0,0,213.95999999999998
+926,E00927,P087,Harry Potter,Pocoes,Pocao Polissuco,4,4,8,0,exame,15.19,63.2,70.28,63.86,0,0,194.15000000000003
+927,E00928,P088,Harry Potter,Pocoes,Veritaserum,5,3,4,0,treino,14.02,68.36,70.52,66.0,0,0,199.85999999999999
+928,E00929,P089,Harry Potter,Pocoes,Antidoto simples,1,1,8,0,treino,12.39,63.13,70.81,65.5,0,0,196.05
+929,E00930,P090,Harry Potter,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,13.87,69.15,73.72,57.88,0,0,196.88
+930,E00931,P091,Harry Potter,Pocoes,Pocao Polissuco,4,7,10,0,missao,14.63,63.34,71.82,68.63,0,0,203.16
+931,E00932,P092,Harry Potter,Pocoes,Veritaserum,5,9,3,1,duelo_real,14.6,61.9,67.35,64.03,0,0,186.68
+932,E00933,P093,Harry Potter,Pocoes,Antidoto simples,1,2,3,0,treino,12.13,64.11,80.95,70.89,0,0,207.82
+933,E00934,P094,Harry Potter,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,12.92,65.86,73.67,61.48,0,0,195.09
+934,E00935,P095,Harry Potter,Pocoes,Pocao Polissuco,4,5,5,1,exame,15.08,68.12,73.23,57.33,0,0,192.6
+935,E00936,P096,Harry Potter,Pocoes,Veritaserum,5,7,2,0,missao,14.05,71.92,67.25,70.82,0,0,202.94
+936,E00937,P097,Harry Potter,Pocoes,Antidoto simples,1,7,1,1,missao,10.01,74.05,70.41,69.78,1,0,207.23
+937,E00938,P098,Harry Potter,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,14.36,63.55,77.92,63.62,0,0,202.73000000000002
+938,E00939,P099,Harry Potter,Pocoes,Pocao Polissuco,4,6,6,0,exame,14.88,62.67,68.25,61.4,0,0,187.44000000000003
+939,E00940,P100,Harry Potter,Pocoes,Veritaserum,5,2,4,1,treino,16.76,71.43,64.34,56.16,1,0,185.17000000000002
+940,E00941,P101,Harry Potter,Cura,Episkey,2,6,6,1,exame,11.76,66.32,84.46,71.65,0,0,218.67
+941,E00942,P102,Harry Potter,Cura,Ferula,2,10,9,0,duelo_real,10.36,78.72,73.89,76.38,1,0,230.63
+942,E00943,P103,Harry Potter,Cura,Rennervate,3,5,2,0,exame,13.51,76.05,70.4,76.34,0,0,214.28
+943,E00944,P104,Harry Potter,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,13.08,75.94,86.3,74.96,0,0,236.11999999999998
+944,E00945,P105,Harry Potter,Cura,Episkey,2,8,7,0,missao,12.83,71.47,80.6,69.09,1,1,217.32999999999998
+945,E00946,P106,Harry Potter,Cura,Ferula,2,6,2,1,exame,12.59,71.99,69.48,79.7,1,0,213.58
+946,E00947,P107,Harry Potter,Cura,Rennervate,2,5,9,0,exame,10.73,74.48,72.72,68.71,0,0,216.17999999999998
+947,E00948,P108,Harry Potter,Cura,Vulnera Sanentur,5,2,8,0,treino,14.99,69.21,72.17,63.67,0,0,203.06
+948,E00949,P109,Harry Potter,Cura,Episkey,1,10,9,1,duelo_real,11.42,73.41,66.66,78.85,1,0,218.5
+949,E00950,P110,Harry Potter,Cura,Ferula,2,2,8,0,treino,13.5,67.39,81.08,74.72,0,0,219.69
+950,E00951,P111,Harry Potter,Cura,Rennervate,3,10,8,0,duelo_real,11.69,71.27,71.65,80.51,0,0,222.74
+951,E00952,P112,Harry Potter,Cura,Vulnera Sanentur,5,8,9,1,missao,13.53,71.78,74.05,76.18,0,0,222.48
+952,E00953,P113,Harry Potter,Cura,Episkey,1,9,9,1,duelo_real,11.43,83.75,74.56,69.12,1,0,227.0
+953,E00954,P114,Harry Potter,Cura,Ferula,2,7,2,0,missao,10.87,76.1,72.23,77.5,1,0,219.95999999999998
+954,E00955,P115,Harry Potter,Cura,Rennervate,3,4,3,1,exame,14.09,74.57,75.1,66.29,0,0,207.86999999999998
+955,E00956,P116,Harry Potter,Cura,Vulnera Sanentur,5,6,1,0,exame,12.42,77.27,73.4,71.77,0,0,216.02
+956,E00957,P117,Harry Potter,Cura,Episkey,2,10,4,0,duelo_real,9.86,73.55,80.04,77.19,0,0,226.92000000000002
+957,E00958,P118,Harry Potter,Cura,Ferula,1,4,4,1,exame,10.97,71.45,77.75,79.25,1,0,223.48
+958,E00959,P119,Harry Potter,Cura,Rennervate,2,5,8,0,exame,10.77,64.4,79.15,76.16,0,0,218.94
+959,E00960,P120,Harry Potter,Cura,Vulnera Sanentur,5,1,6,1,treino,16.14,64.72,75.05,69.46,0,0,204.08999999999997
+960,E00961,P001,Bellatrix Lestrange,Ataque,Expelliarmus,1,10,1,0,duelo_real,9.93,87.37,84.97,83.16,1,0,248.57
+961,E00962,P002,Bellatrix Lestrange,Ataque,Estupefaca,3,7,9,0,missao,14.93,86.87,88.76,70.87,1,0,244.57
+962,E00963,P003,Bellatrix Lestrange,Ataque,Bombarda,4,3,4,0,treino,12.72,83.97,89.54,67.17,0,1,234.96
+963,E00964,P004,Bellatrix Lestrange,Ataque,Confringo,4,9,8,0,duelo_real,11.92,82.51,89.13,75.38,1,1,247.1
+964,E00965,P005,Bellatrix Lestrange,Ataque,Expelliarmus,2,4,9,1,exame,11.81,81.07,88.92,77.89,1,1,247.07
+965,E00966,P006,Bellatrix Lestrange,Ataque,Estupefaca,3,10,4,1,duelo_real,10.06,83.44,83.97,86.77,1,0,252.12
+966,E00967,P007,Bellatrix Lestrange,Ataque,Bombarda,4,6,9,1,exame,14.91,76.13,80.08,77.94,0,0,232.23999999999998
+967,E00968,P008,Bellatrix Lestrange,Ataque,Confringo,5,10,7,0,duelo_real,12.46,79.07,91.29,72.08,1,0,242.98
+968,E00969,P009,Bellatrix Lestrange,Ataque,Expelliarmus,2,4,7,0,exame,11.51,83.06,87.21,73.72,1,0,242.48
+969,E00970,P010,Bellatrix Lestrange,Ataque,Estupefaca,3,4,3,0,exame,11.58,75.76,80.34,76.06,1,0,227.58
+970,E00971,P011,Bellatrix Lestrange,Ataque,Bombarda,4,7,10,0,missao,12.88,89.99,91.42,68.52,1,0,252.05
+971,E00972,P012,Bellatrix Lestrange,Ataque,Confringo,4,4,4,1,exame,11.57,76.56,87.79,72.7,0,1,232.48000000000002
+972,E00973,P013,Bellatrix Lestrange,Ataque,Expelliarmus,2,5,2,0,exame,11.4,74.28,86.54,76.43,1,0,230.85
+973,E00974,P014,Bellatrix Lestrange,Ataque,Estupefaca,3,2,2,0,treino,11.1,86.23,82.66,78.45,1,1,241.23999999999998
+974,E00975,P015,Bellatrix Lestrange,Ataque,Bombarda,3,9,10,0,duelo_real,12.32,78.93,83.8,72.21,1,0,236.62
+975,E00976,P016,Bellatrix Lestrange,Ataque,Confringo,5,2,4,0,treino,14.74,72.51,82.55,76.56,0,1,224.88
+976,E00977,P017,Bellatrix Lestrange,Ataque,Expelliarmus,2,7,9,1,missao,12.75,83.18,83.81,77.86,0,0,243.10000000000002
+977,E00978,P018,Bellatrix Lestrange,Ataque,Estupefaca,3,7,1,1,missao,11.43,80.3,87.82,70.97,1,0,232.66
+978,E00979,P019,Bellatrix Lestrange,Ataque,Bombarda,4,9,6,0,duelo_real,12.01,74.26,86.48,74.39,0,1,232.12
+979,E00980,P020,Bellatrix Lestrange,Ataque,Confringo,5,10,7,1,duelo_real,13.06,75.04,92.69,74.23,0,1,239.90000000000003
+980,E00981,P021,Bellatrix Lestrange,Defesa,Protego,2,4,3,0,exame,11.32,79.7,80.72,74.04,1,0,229.14000000000004
+981,E00982,P022,Bellatrix Lestrange,Defesa,Finite Incantatem,4,6,5,1,exame,13.93,67.93,84.21,69.52,0,0,216.72999999999996
+982,E00983,P023,Bellatrix Lestrange,Defesa,Protego Maxima,4,6,9,1,exame,14.75,72.71,82.54,69.66,1,1,223.16
+983,E00984,P024,Bellatrix Lestrange,Defesa,Expecto Patronum,5,6,7,0,exame,14.66,75.07,81.81,77.98,1,0,233.20000000000002
+984,E00985,P025,Bellatrix Lestrange,Defesa,Protego,2,9,9,1,duelo_real,11.34,82.15,86.79,69.02,0,0,237.61999999999998
+985,E00986,P026,Bellatrix Lestrange,Defesa,Finite Incantatem,2,7,4,0,missao,10.36,74.71,91.93,66.5,1,0,229.77999999999997
+986,E00987,P027,Bellatrix Lestrange,Defesa,Protego Maxima,4,9,10,0,duelo_real,13.8,77.38,77.67,74.12,0,0,229.37
+987,E00988,P028,Bellatrix Lestrange,Defesa,Expecto Patronum,5,4,6,1,exame,15.14,76.0,82.82,67.07,0,0,221.75
+988,E00989,P029,Bellatrix Lestrange,Defesa,Protego,2,2,1,0,treino,10.17,68.22,79.34,61.96,0,1,201.35000000000002
+989,E00990,P030,Bellatrix Lestrange,Defesa,Finite Incantatem,3,8,8,1,missao,13.01,77.05,79.62,67.85,0,0,222.51000000000002
+990,E00991,P031,Bellatrix Lestrange,Defesa,Protego Maxima,3,7,4,1,missao,12.31,76.49,84.51,74.27,1,0,230.95999999999998
+991,E00992,P032,Bellatrix Lestrange,Defesa,Expecto Patronum,5,8,9,0,missao,16.51,79.37,84.13,71.6,1,1,232.59
+992,E00993,P033,Bellatrix Lestrange,Defesa,Protego,2,9,2,0,duelo_real,11.45,74.17,85.97,70.49,1,1,223.18
+993,E00994,P034,Bellatrix Lestrange,Defesa,Finite Incantatem,3,4,9,1,exame,14.39,70.86,90.49,63.9,0,0,222.86
+994,E00995,P035,Bellatrix Lestrange,Defesa,Protego Maxima,4,5,1,0,exame,12.58,73.94,82.6,61.42,1,0,211.37999999999997
+995,E00996,P036,Bellatrix Lestrange,Defesa,Expecto Patronum,4,9,9,1,duelo_real,12.08,71.02,76.48,59.79,0,1,207.20999999999998
+996,E00997,P037,Bellatrix Lestrange,Defesa,Protego,2,7,1,0,missao,10.87,81.81,77.77,71.74,0,1,222.45
+997,E00998,P038,Bellatrix Lestrange,Defesa,Finite Incantatem,3,6,5,0,exame,12.45,76.74,86.78,67.35,0,1,225.42
+998,E00999,P039,Bellatrix Lestrange,Defesa,Protego Maxima,4,3,4,1,treino,14.18,71.27,78.13,69.75,0,1,211.96999999999997
+999,E01000,P040,Bellatrix Lestrange,Defesa,Expecto Patronum,5,3,8,1,treino,16.24,66.57,85.28,63.13,0,1,210.73999999999998
+1000,E01001,P041,Bellatrix Lestrange,Encantamento,Wingardium Leviosa,1,8,1,0,missao,9.87,83.08,89.79,68.77,1,0,234.76999999999998
+1001,E01002,P042,Bellatrix Lestrange,Encantamento,Accio,2,7,3,0,missao,11.42,70.83,85.17,73.24,1,0,223.82000000000002
+1002,E01003,P043,Bellatrix Lestrange,Encantamento,Muffliato,3,1,3,0,treino,13.83,75.38,79.83,64.59,0,0,211.96999999999997
+1003,E01004,P044,Bellatrix Lestrange,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,14.02,73.39,84.65,73.59,0,0,223.61
+1004,E01005,P045,Bellatrix Lestrange,Encantamento,Wingardium Leviosa,1,4,8,1,exame,11.89,74.27,74.39,75.22,1,0,221.99
+1005,E01006,P046,Bellatrix Lestrange,Encantamento,Accio,2,9,6,1,duelo_real,11.5,76.4,82.25,70.75,1,1,225.9
+1006,E01007,P047,Bellatrix Lestrange,Encantamento,Muffliato,3,3,1,1,treino,12.84,76.81,85.68,77.93,1,1,231.58
+1007,E01008,P048,Bellatrix Lestrange,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,14.17,75.89,78.57,67.14,1,0,223.42999999999998
+1008,E01009,P049,Bellatrix Lestrange,Encantamento,Wingardium Leviosa,1,4,8,0,exame,11.16,70.5,80.36,71.63,0,0,220.33
+1009,E01010,P050,Bellatrix Lestrange,Encantamento,Accio,2,2,2,0,treino,12.78,72.53,86.72,63.44,1,0,214.91
+1010,E01011,P051,Bellatrix Lestrange,Encantamento,Muffliato,3,5,10,1,exame,12.97,81.12,82.01,62.66,0,0,225.82
+1011,E01012,P052,Bellatrix Lestrange,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,12.97,78.52,71.28,68.52,1,0,217.35
+1012,E01013,P053,Bellatrix Lestrange,Encantamento,Wingardium Leviosa,1,5,3,0,exame,9.55,76.03,77.0,74.91,1,0,223.39
+1013,E01014,P054,Bellatrix Lestrange,Encantamento,Accio,2,1,7,1,treino,13.74,66.62,87.27,70.5,1,0,220.64999999999998
+1014,E01015,P055,Bellatrix Lestrange,Encantamento,Muffliato,3,1,7,0,treino,13.92,66.85,86.66,71.68,1,0,222.27
+1015,E01016,P056,Bellatrix Lestrange,Encantamento,Feitico de Desilusao,4,5,10,1,exame,15.13,68.92,78.35,77.13,0,0,223.26999999999998
+1016,E01017,P057,Bellatrix Lestrange,Encantamento,Wingardium Leviosa,1,2,2,1,treino,11.95,79.86,82.91,71.39,0,0,225.20999999999998
+1017,E01018,P058,Bellatrix Lestrange,Encantamento,Accio,2,4,2,0,exame,11.89,74.06,86.89,74.33,1,1,227.39
+1018,E01019,P059,Bellatrix Lestrange,Encantamento,Muffliato,4,4,10,0,exame,13.44,67.17,82.25,65.95,0,1,214.93
+1019,E01020,P060,Bellatrix Lestrange,Encantamento,Feitico de Desilusao,4,6,9,0,exame,13.71,76.31,77.93,70.07,0,1,222.6
+1020,E01021,P061,Bellatrix Lestrange,Transfiguracao,Reparifarge,3,1,5,0,treino,13.9,72.75,70.91,72.28,1,0,211.04
+1021,E01022,P062,Bellatrix Lestrange,Transfiguracao,Vera Verto,3,2,6,0,treino,14.82,70.89,86.98,66.04,0,0,218.09000000000003
+1022,E01023,P063,Bellatrix Lestrange,Transfiguracao,Duro,4,3,9,0,treino,14.15,76.64,84.23,54.55,0,1,213.27
+1023,E01024,P064,Bellatrix Lestrange,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,13.28,67.07,80.94,64.29,0,1,205.02
+1024,E01025,P065,Bellatrix Lestrange,Transfiguracao,Reparifarge,2,7,10,0,missao,13.54,82.18,78.21,72.33,0,0,231.17999999999998
+1025,E01026,P066,Bellatrix Lestrange,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,10.84,74.21,85.43,66.63,1,1,219.42999999999998
+1026,E01027,P067,Bellatrix Lestrange,Transfiguracao,Duro,4,9,9,1,duelo_real,14.78,74.68,83.59,69.42,0,0,225.91
+1027,E01028,P068,Bellatrix Lestrange,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,14.19,80.59,88.75,72.15,1,0,235.3
+1028,E01029,P069,Bellatrix Lestrange,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,11.21,80.14,88.48,76.33,1,1,241.73999999999998
+1029,E01030,P070,Bellatrix Lestrange,Transfiguracao,Vera Verto,3,2,7,1,treino,16.33,65.08,82.45,66.61,1,1,207.81
+1030,E01031,P071,Bellatrix Lestrange,Transfiguracao,Duro,4,10,2,1,duelo_real,13.04,86.07,85.07,68.49,0,1,231.59
+1031,E01032,P072,Bellatrix Lestrange,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,14.51,76.2,76.32,70.7,0,0,220.70999999999998
+1032,E01033,P073,Bellatrix Lestrange,Transfiguracao,Reparifarge,2,7,2,1,missao,12.99,72.88,91.1,68.72,1,1,223.70999999999998
+1033,E01034,P074,Bellatrix Lestrange,Transfiguracao,Vera Verto,3,2,4,0,treino,13.01,76.13,89.6,69.85,0,0,229.57
+1034,E01035,P075,Bellatrix Lestrange,Transfiguracao,Duro,4,8,6,1,missao,13.34,84.66,81.72,73.14,1,1,236.17999999999998
+1035,E01036,P076,Bellatrix Lestrange,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,13.6,75.67,86.24,65.8,0,1,226.10999999999999
+1036,E01037,P077,Bellatrix Lestrange,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,10.43,78.33,82.15,70.88,0,0,226.93
+1037,E01038,P078,Bellatrix Lestrange,Transfiguracao,Vera Verto,3,8,4,1,missao,12.0,75.43,79.91,62.19,1,0,213.53
+1038,E01039,P079,Bellatrix Lestrange,Transfiguracao,Duro,3,7,9,0,missao,13.48,77.32,84.77,68.94,1,1,229.54999999999998
+1039,E01040,P080,Bellatrix Lestrange,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,12.59,73.72,72.45,70.86,0,0,213.44000000000003
+1040,E01041,P081,Bellatrix Lestrange,Pocoes,Antidoto simples,1,4,4,0,exame,9.16,71.81,69.55,64.92,0,0,202.12000000000003
+1041,E01042,P082,Bellatrix Lestrange,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,13.5,86.42,73.54,73.35,0,1,224.81
+1042,E01043,P083,Bellatrix Lestrange,Pocoes,Pocao Polissuco,4,6,2,1,exame,15.22,73.49,82.2,65.29,0,0,211.76000000000002
+1043,E01044,P084,Bellatrix Lestrange,Pocoes,Veritaserum,5,9,5,0,duelo_real,14.97,71.95,72.29,72.28,1,0,212.55
+1044,E01045,P085,Bellatrix Lestrange,Pocoes,Antidoto simples,1,10,3,1,duelo_real,11.52,73.58,84.14,70.2,1,1,220.4
+1045,E01046,P086,Bellatrix Lestrange,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,13.08,83.19,80.1,66.53,0,0,227.73999999999998
+1046,E01047,P087,Bellatrix Lestrange,Pocoes,Pocao Polissuco,4,4,8,0,exame,13.29,67.32,80.95,69.35,0,0,216.32999999999998
+1047,E01048,P088,Bellatrix Lestrange,Pocoes,Veritaserum,5,3,4,0,treino,14.56,73.58,72.96,58.38,0,0,199.35999999999999
+1048,E01049,P089,Bellatrix Lestrange,Pocoes,Antidoto simples,1,1,8,0,treino,12.39,73.79,79.41,69.96,1,0,220.76999999999998
+1049,E01050,P090,Bellatrix Lestrange,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,13.18,65.86,85.78,63.2,0,0,211.65999999999997
+1050,E01051,P091,Bellatrix Lestrange,Pocoes,Pocao Polissuco,4,7,10,0,missao,14.38,75.57,77.06,72.29,1,1,224.54000000000002
+1051,E01052,P092,Bellatrix Lestrange,Pocoes,Veritaserum,5,9,3,1,duelo_real,13.03,78.19,80.3,67.65,0,0,221.11
+1052,E01053,P093,Bellatrix Lestrange,Pocoes,Antidoto simples,1,2,3,0,treino,10.46,76.94,79.63,69.29,1,1,219.4
+1053,E01054,P094,Bellatrix Lestrange,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,13.61,71.45,72.04,67.5,0,0,204.38
+1054,E01055,P095,Bellatrix Lestrange,Pocoes,Pocao Polissuco,4,5,5,1,exame,14.78,79.96,86.48,59.27,0,0,219.93
+1055,E01056,P096,Bellatrix Lestrange,Pocoes,Veritaserum,5,7,2,0,missao,11.92,71.4,87.3,62.38,0,1,215.16
+1056,E01057,P097,Bellatrix Lestrange,Pocoes,Antidoto simples,1,7,1,1,missao,11.13,89.06,85.06,71.81,1,1,236.8
+1057,E01058,P098,Bellatrix Lestrange,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,12.56,69.92,84.44,66.39,0,0,220.19
+1058,E01059,P099,Bellatrix Lestrange,Pocoes,Pocao Polissuco,4,6,6,0,exame,14.77,62.32,78.87,64.92,0,0,201.34
+1059,E01060,P100,Bellatrix Lestrange,Pocoes,Veritaserum,5,2,4,1,treino,14.41,71.52,77.59,59.94,0,1,202.64000000000001
+1060,E01061,P101,Bellatrix Lestrange,Cura,Episkey,2,6,6,1,exame,14.07,71.74,86.45,66.58,0,0,218.7
+1061,E01062,P102,Bellatrix Lestrange,Cura,Ferula,2,10,9,0,duelo_real,12.53,70.88,78.55,59.2,0,0,207.1
+1062,E01063,P103,Bellatrix Lestrange,Cura,Rennervate,3,5,2,0,exame,13.86,66.01,76.53,61.21,1,0,195.89000000000004
+1063,E01064,P104,Bellatrix Lestrange,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,17.07,68.85,72.0,62.33,0,0,198.11
+1064,E01065,P105,Bellatrix Lestrange,Cura,Episkey,2,8,7,0,missao,12.05,69.85,65.81,63.3,0,0,195.90999999999997
+1065,E01066,P106,Bellatrix Lestrange,Cura,Ferula,2,6,2,1,exame,11.32,60.53,74.42,64.28,0,0,191.91
+1066,E01067,P107,Bellatrix Lestrange,Cura,Rennervate,2,5,9,0,exame,13.57,70.62,75.76,66.68,1,0,211.49
+1067,E01068,P108,Bellatrix Lestrange,Cura,Vulnera Sanentur,5,2,8,0,treino,17.59,65.67,72.16,59.97,0,0,193.20999999999998
+1068,E01069,P109,Bellatrix Lestrange,Cura,Episkey,1,10,9,1,duelo_real,12.43,72.66,74.9,65.4,1,0,211.53
+1069,E01070,P110,Bellatrix Lestrange,Cura,Ferula,2,2,8,0,treino,13.5,57.7,69.65,60.63,0,1,183.48000000000002
+1070,E01071,P111,Bellatrix Lestrange,Cura,Rennervate,3,10,8,0,duelo_real,14.36,67.4,73.1,60.04,0,1,196.18
+1071,E01072,P112,Bellatrix Lestrange,Cura,Vulnera Sanentur,5,8,9,1,missao,16.05,66.42,76.32,53.64,0,1,193.32999999999998
+1072,E01073,P113,Bellatrix Lestrange,Cura,Episkey,1,9,9,1,duelo_real,12.77,63.54,69.01,65.1,0,0,194.88
+1073,E01074,P114,Bellatrix Lestrange,Cura,Ferula,2,7,2,0,missao,11.22,67.36,80.72,58.46,0,0,199.32
+1074,E01075,P115,Bellatrix Lestrange,Cura,Rennervate,3,4,3,1,exame,15.19,63.56,65.26,58.22,0,0,177.85
+1075,E01076,P116,Bellatrix Lestrange,Cura,Vulnera Sanentur,5,6,1,0,exame,14.63,60.72,78.42,62.87,0,0,193.38
+1076,E01077,P117,Bellatrix Lestrange,Cura,Episkey,2,10,4,0,duelo_real,10.81,71.3,79.82,69.1,0,0,215.41
+1077,E01078,P118,Bellatrix Lestrange,Cura,Ferula,1,4,4,1,exame,11.86,72.01,69.55,61.93,0,0,196.63
+1078,E01079,P119,Bellatrix Lestrange,Cura,Rennervate,2,5,8,0,exame,13.44,72.94,77.02,58.47,0,0,204.98999999999998
+1079,E01080,P120,Bellatrix Lestrange,Cura,Vulnera Sanentur,5,1,6,1,treino,17.89,60.41,78.36,51.04,0,0,182.91999999999996
+1080,E01081,P001,Kingsley Shacklebolt,Ataque,Expelliarmus,1,10,1,0,duelo_real,8.88,83.26,84.27,83.09,1,0,244.74
+1081,E01082,P002,Kingsley Shacklebolt,Ataque,Estupefaca,3,7,9,0,missao,13.0,83.84,78.4,79.0,1,0,241.24
+1082,E01083,P003,Kingsley Shacklebolt,Ataque,Bombarda,4,3,4,0,treino,12.34,85.19,78.37,76.74,1,0,236.96
+1083,E01084,P004,Kingsley Shacklebolt,Ataque,Confringo,4,9,8,0,duelo_real,12.73,83.78,83.65,80.48,1,0,248.18000000000004
+1084,E01085,P005,Kingsley Shacklebolt,Ataque,Expelliarmus,2,4,9,1,exame,12.51,81.58,72.71,82.29,0,0,235.07
+1085,E01086,P006,Kingsley Shacklebolt,Ataque,Estupefaca,3,10,4,1,duelo_real,12.08,82.68,83.37,83.63,1,0,245.6
+1086,E01087,P007,Kingsley Shacklebolt,Ataque,Bombarda,4,6,9,1,exame,14.36,84.11,86.48,71.45,0,0,240.68
+1087,E01088,P008,Kingsley Shacklebolt,Ataque,Confringo,5,10,7,0,duelo_real,13.56,76.22,82.9,81.39,1,0,239.95
+1088,E01089,P009,Kingsley Shacklebolt,Ataque,Expelliarmus,2,4,7,0,exame,12.26,89.62,79.32,68.22,1,0,234.9
+1089,E01090,P010,Kingsley Shacklebolt,Ataque,Estupefaca,3,4,3,0,exame,13.26,74.5,93.05,87.53,1,0,248.82000000000005
+1090,E01091,P011,Kingsley Shacklebolt,Ataque,Bombarda,4,7,10,0,missao,14.18,82.6,76.67,85.28,1,0,245.36999999999995
+1091,E01092,P012,Kingsley Shacklebolt,Ataque,Confringo,4,4,4,1,exame,13.63,74.94,82.51,74.07,1,0,226.89
+1092,E01093,P013,Kingsley Shacklebolt,Ataque,Expelliarmus,2,5,2,0,exame,11.3,79.04,79.41,89.48,1,0,241.63
+1093,E01094,P014,Kingsley Shacklebolt,Ataque,Estupefaca,3,2,2,0,treino,11.81,76.62,79.46,85.88,1,0,236.14999999999998
+1094,E01095,P015,Kingsley Shacklebolt,Ataque,Bombarda,3,9,10,0,duelo_real,12.98,81.09,81.76,76.99,1,0,240.86000000000004
+1095,E01096,P016,Kingsley Shacklebolt,Ataque,Confringo,5,2,4,0,treino,14.64,73.05,84.8,75.04,0,0,227.25
+1096,E01097,P017,Kingsley Shacklebolt,Ataque,Expelliarmus,2,7,9,1,missao,12.38,84.03,76.38,80.61,1,0,240.64
+1097,E01098,P018,Kingsley Shacklebolt,Ataque,Estupefaca,3,7,1,1,missao,11.4,81.97,81.1,83.31,1,0,239.98
+1098,E01099,P019,Kingsley Shacklebolt,Ataque,Bombarda,4,9,6,0,duelo_real,13.71,79.52,78.54,77.93,1,0,233.28
+1099,E01100,P020,Kingsley Shacklebolt,Ataque,Confringo,5,10,7,1,duelo_real,13.72,79.37,71.47,80.3,1,0,230.42
+1100,E01101,P021,Kingsley Shacklebolt,Defesa,Protego,2,4,3,0,exame,12.78,82.18,72.65,75.46,1,0,223.51000000000002
+1101,E01102,P022,Kingsley Shacklebolt,Defesa,Finite Incantatem,4,6,5,1,exame,13.33,78.76,72.78,83.16,0,0,230.37
+1102,E01103,P023,Kingsley Shacklebolt,Defesa,Protego Maxima,4,6,9,1,exame,14.0,79.1,75.9,79.07,0,0,233.07
+1103,E01104,P024,Kingsley Shacklebolt,Defesa,Expecto Patronum,5,6,7,0,exame,14.91,74.44,83.43,85.26,1,0,241.22
+1104,E01105,P025,Kingsley Shacklebolt,Defesa,Protego,2,9,9,1,duelo_real,11.62,68.13,81.19,85.72,0,0,234.42
+1105,E01106,P026,Kingsley Shacklebolt,Defesa,Finite Incantatem,2,7,4,0,missao,10.95,89.35,93.17,79.32,1,0,257.89
+1106,E01107,P027,Kingsley Shacklebolt,Defesa,Protego Maxima,4,9,10,0,duelo_real,14.9,82.18,71.75,76.65,0,0,229.68
+1107,E01108,P028,Kingsley Shacklebolt,Defesa,Expecto Patronum,5,4,6,1,exame,16.49,84.95,71.76,85.65,1,0,237.87
+1108,E01109,P029,Kingsley Shacklebolt,Defesa,Protego,2,2,1,0,treino,11.83,86.43,90.35,83.43,1,0,252.38000000000002
+1109,E01110,P030,Kingsley Shacklebolt,Defesa,Finite Incantatem,3,8,8,1,missao,13.29,82.34,78.57,79.46,1,0,239.08
+1110,E01111,P031,Kingsley Shacklebolt,Defesa,Protego Maxima,3,7,4,1,missao,12.52,90.12,70.65,87.6,1,0,243.85
+1111,E01112,P032,Kingsley Shacklebolt,Defesa,Expecto Patronum,5,8,9,0,missao,14.11,84.39,77.34,82.52,1,0,245.14
+1112,E01113,P033,Kingsley Shacklebolt,Defesa,Protego,2,9,2,0,duelo_real,10.34,96.33,79.09,76.47,1,0,246.54999999999998
+1113,E01114,P034,Kingsley Shacklebolt,Defesa,Finite Incantatem,3,4,9,1,exame,14.69,78.13,81.99,78.32,0,0,235.75
+1114,E01115,P035,Kingsley Shacklebolt,Defesa,Protego Maxima,4,5,1,0,exame,14.75,81.91,77.68,74.32,0,0,224.16
+1115,E01116,P036,Kingsley Shacklebolt,Defesa,Expecto Patronum,4,9,9,1,duelo_real,15.7,77.97,78.96,79.22,1,0,234.45000000000002
+1116,E01117,P037,Kingsley Shacklebolt,Defesa,Protego,2,7,1,0,missao,9.68,89.7,83.81,82.93,1,0,250.76
+1117,E01118,P038,Kingsley Shacklebolt,Defesa,Finite Incantatem,3,6,5,0,exame,11.26,79.76,85.16,77.97,0,0,239.63000000000002
+1118,E01119,P039,Kingsley Shacklebolt,Defesa,Protego Maxima,4,3,4,1,treino,12.99,75.51,73.15,77.61,0,0,221.28000000000003
+1119,E01120,P040,Kingsley Shacklebolt,Defesa,Expecto Patronum,5,3,8,1,treino,15.48,77.33,76.73,77.68,0,0,229.26000000000002
+1120,E01121,P041,Kingsley Shacklebolt,Encantamento,Wingardium Leviosa,1,8,1,0,missao,10.1,85.19,69.9,83.94,1,0,231.93
+1121,E01122,P042,Kingsley Shacklebolt,Encantamento,Accio,2,7,3,0,missao,11.84,77.58,82.76,87.4,1,0,241.9
+1122,E01123,P043,Kingsley Shacklebolt,Encantamento,Muffliato,3,1,3,0,treino,13.26,68.98,77.16,69.48,0,0,208.36
+1123,E01124,P044,Kingsley Shacklebolt,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,12.57,90.15,75.45,80.25,0,0,239.28000000000003
+1124,E01125,P045,Kingsley Shacklebolt,Encantamento,Wingardium Leviosa,1,4,8,1,exame,12.31,76.22,74.35,77.14,0,0,224.39999999999998
+1125,E01126,P046,Kingsley Shacklebolt,Encantamento,Accio,2,9,6,1,duelo_real,12.17,88.55,74.29,78.01,1,0,237.68000000000004
+1126,E01127,P047,Kingsley Shacklebolt,Encantamento,Muffliato,3,3,1,1,treino,13.0,79.63,83.25,77.69,1,0,232.57
+1127,E01128,P048,Kingsley Shacklebolt,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,14.8,84.05,69.92,78.55,1,0,233.71999999999997
+1128,E01129,P049,Kingsley Shacklebolt,Encantamento,Wingardium Leviosa,1,4,8,0,exame,12.01,84.82,83.19,78.42,1,0,244.42000000000002
+1129,E01130,P050,Kingsley Shacklebolt,Encantamento,Accio,2,2,2,0,treino,11.58,75.09,64.59,87.92,0,0,220.02
+1130,E01131,P051,Kingsley Shacklebolt,Encantamento,Muffliato,3,5,10,1,exame,13.89,75.89,71.71,77.38,0,0,224.08999999999997
+1131,E01132,P052,Kingsley Shacklebolt,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,12.0,85.16,73.79,80.33,1,0,239.27999999999997
+1132,E01133,P053,Kingsley Shacklebolt,Encantamento,Wingardium Leviosa,1,5,3,0,exame,9.19,86.54,70.62,87.86,1,0,240.83000000000004
+1133,E01134,P054,Kingsley Shacklebolt,Encantamento,Accio,2,1,7,1,treino,13.54,71.14,75.56,71.87,0,0,214.03
+1134,E01135,P055,Kingsley Shacklebolt,Encantamento,Muffliato,3,1,7,0,treino,14.28,74.59,76.84,73.12,1,0,221.27
+1135,E01136,P056,Kingsley Shacklebolt,Encantamento,Feitico de Desilusao,4,5,10,1,exame,15.33,73.9,77.18,72.29,1,1,222.04
+1136,E01137,P057,Kingsley Shacklebolt,Encantamento,Wingardium Leviosa,1,2,2,1,treino,10.91,88.18,75.97,82.62,0,0,238.86
+1137,E01138,P058,Kingsley Shacklebolt,Encantamento,Accio,2,4,2,0,exame,10.64,79.37,76.33,77.64,1,0,227.7
+1138,E01139,P059,Kingsley Shacklebolt,Encantamento,Muffliato,4,4,10,0,exame,15.23,77.78,70.41,78.07,0,0,225.03
+1139,E01140,P060,Kingsley Shacklebolt,Encantamento,Feitico de Desilusao,4,6,9,0,exame,12.6,74.7,78.4,77.94,1,0,232.44000000000003
+1140,E01141,P061,Kingsley Shacklebolt,Transfiguracao,Reparifarge,3,1,5,0,treino,12.87,69.69,76.7,83.46,0,0,224.97999999999996
+1141,E01142,P062,Kingsley Shacklebolt,Transfiguracao,Vera Verto,3,2,6,0,treino,13.02,70.58,73.4,75.54,0,0,215.50000000000003
+1142,E01143,P063,Kingsley Shacklebolt,Transfiguracao,Duro,4,3,9,0,treino,15.16,83.21,85.61,77.46,1,0,245.11999999999998
+1143,E01144,P064,Kingsley Shacklebolt,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,14.37,83.7,73.32,77.26,0,0,226.90999999999997
+1144,E01145,P065,Kingsley Shacklebolt,Transfiguracao,Reparifarge,2,7,10,0,missao,11.83,84.74,77.89,72.94,1,0,236.73999999999998
+1145,E01146,P066,Kingsley Shacklebolt,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,12.04,79.0,76.74,84.45,0,0,232.15
+1146,E01147,P067,Kingsley Shacklebolt,Transfiguracao,Duro,4,9,9,1,duelo_real,15.05,78.41,78.48,74.68,1,0,230.51999999999998
+1147,E01148,P068,Kingsley Shacklebolt,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,12.07,64.56,69.93,76.96,0,0,206.38
+1148,E01149,P069,Kingsley Shacklebolt,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,13.54,78.26,80.08,83.76,1,0,237.56000000000003
+1149,E01150,P070,Kingsley Shacklebolt,Transfiguracao,Vera Verto,3,2,7,1,treino,14.05,69.01,77.08,73.63,1,0,216.67
+1150,E01151,P071,Kingsley Shacklebolt,Transfiguracao,Duro,4,10,2,1,duelo_real,13.36,78.12,64.86,83.71,1,0,220.32999999999998
+1151,E01152,P072,Kingsley Shacklebolt,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,13.42,81.78,78.13,69.92,0,0,228.41
+1152,E01153,P073,Kingsley Shacklebolt,Transfiguracao,Reparifarge,2,7,2,1,missao,11.12,80.86,83.98,86.14,1,0,244.86
+1153,E01154,P074,Kingsley Shacklebolt,Transfiguracao,Vera Verto,3,2,4,0,treino,13.54,83.29,81.77,73.91,1,0,233.43
+1154,E01155,P075,Kingsley Shacklebolt,Transfiguracao,Duro,4,8,6,1,missao,14.64,86.51,78.31,79.55,1,0,240.73000000000002
+1155,E01156,P076,Kingsley Shacklebolt,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,15.14,76.04,68.9,80.46,0,0,223.26
+1156,E01157,P077,Kingsley Shacklebolt,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,10.08,81.12,80.95,81.8,0,0,239.79
+1157,E01158,P078,Kingsley Shacklebolt,Transfiguracao,Vera Verto,3,8,4,1,missao,13.49,84.07,77.91,81.32,1,0,237.80999999999997
+1158,E01159,P079,Kingsley Shacklebolt,Transfiguracao,Duro,3,7,9,0,missao,13.01,77.31,72.2,85.26,1,0,234.76
+1159,E01160,P080,Kingsley Shacklebolt,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,13.98,73.6,69.63,78.02,0,0,216.27
+1160,E01161,P081,Kingsley Shacklebolt,Pocoes,Antidoto simples,1,4,4,0,exame,10.53,71.34,75.88,70.8,1,0,213.48999999999998
+1161,E01162,P082,Kingsley Shacklebolt,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,12.12,82.98,66.53,76.16,0,0,219.54999999999998
+1162,E01163,P083,Kingsley Shacklebolt,Pocoes,Pocao Polissuco,4,6,2,1,exame,12.09,70.01,72.67,79.2,0,0,215.79
+1163,E01164,P084,Kingsley Shacklebolt,Pocoes,Veritaserum,5,9,5,0,duelo_real,13.21,76.06,73.18,76.81,0,0,222.84
+1164,E01165,P085,Kingsley Shacklebolt,Pocoes,Antidoto simples,1,10,3,1,duelo_real,12.16,73.83,74.91,75.03,1,0,216.61
+1165,E01166,P086,Kingsley Shacklebolt,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,13.6,80.89,76.16,84.92,0,0,239.37000000000003
+1166,E01167,P087,Kingsley Shacklebolt,Pocoes,Pocao Polissuco,4,4,8,0,exame,15.43,73.0,74.19,80.03,1,0,224.79
+1167,E01168,P088,Kingsley Shacklebolt,Pocoes,Veritaserum,5,3,4,0,treino,15.65,80.06,67.83,76.86,1,0,219.1
+1168,E01169,P089,Kingsley Shacklebolt,Pocoes,Antidoto simples,1,1,8,0,treino,13.58,79.19,69.25,71.59,0,1,214.45
+1169,E01170,P090,Kingsley Shacklebolt,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,12.47,84.59,76.63,75.65,1,0,235.4
+1170,E01171,P091,Kingsley Shacklebolt,Pocoes,Pocao Polissuco,4,7,10,0,missao,15.37,73.66,78.02,75.06,0,0,225.37
+1171,E01172,P092,Kingsley Shacklebolt,Pocoes,Veritaserum,5,9,3,1,duelo_real,13.77,69.0,70.83,73.52,0,0,207.57999999999996
+1172,E01173,P093,Kingsley Shacklebolt,Pocoes,Antidoto simples,1,2,3,0,treino,12.25,79.26,82.1,79.8,1,0,233.91000000000003
+1173,E01174,P094,Kingsley Shacklebolt,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,12.43,73.75,75.57,74.55,0,0,218.44
+1174,E01175,P095,Kingsley Shacklebolt,Pocoes,Pocao Polissuco,4,5,5,1,exame,14.93,72.93,70.76,75.83,0,0,213.58999999999997
+1175,E01176,P096,Kingsley Shacklebolt,Pocoes,Veritaserum,5,7,2,0,missao,14.49,61.26,66.09,81.01,0,0,200.87
+1176,E01177,P097,Kingsley Shacklebolt,Pocoes,Antidoto simples,1,7,1,1,missao,11.16,74.81,81.27,75.95,1,0,223.86999999999998
+1177,E01178,P098,Kingsley Shacklebolt,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,12.45,73.0,72.97,70.5,0,0,216.02
+1178,E01179,P099,Kingsley Shacklebolt,Pocoes,Pocao Polissuco,4,6,6,0,exame,13.12,75.44,67.14,72.05,0,0,211.51
+1179,E01180,P100,Kingsley Shacklebolt,Pocoes,Veritaserum,5,2,4,1,treino,15.65,76.62,77.46,71.08,0,0,218.50999999999996
+1180,E01181,P101,Kingsley Shacklebolt,Cura,Episkey,2,6,6,1,exame,12.79,81.74,80.47,81.49,1,0,239.91
+1181,E01182,P102,Kingsley Shacklebolt,Cura,Ferula,2,10,9,0,duelo_real,11.34,84.71,71.95,76.11,1,0,233.42999999999998
+1182,E01183,P103,Kingsley Shacklebolt,Cura,Rennervate,3,5,2,0,exame,12.03,73.31,75.22,75.03,0,0,216.53
+1183,E01184,P104,Kingsley Shacklebolt,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,15.2,81.66,71.94,78.27,1,0,229.67000000000002
+1184,E01185,P105,Kingsley Shacklebolt,Cura,Episkey,2,8,7,0,missao,12.86,75.33,75.17,77.55,0,0,224.19
+1185,E01186,P106,Kingsley Shacklebolt,Cura,Ferula,2,6,2,1,exame,10.88,84.67,74.77,89.91,1,0,243.47
+1186,E01187,P107,Kingsley Shacklebolt,Cura,Rennervate,2,5,9,0,exame,12.25,77.16,74.29,83.08,0,0,233.27999999999997
+1187,E01188,P108,Kingsley Shacklebolt,Cura,Vulnera Sanentur,5,2,8,0,treino,16.11,79.55,77.65,85.29,1,0,240.38
+1188,E01189,P109,Kingsley Shacklebolt,Cura,Episkey,1,10,9,1,duelo_real,12.66,78.38,79.42,84.03,1,0,240.17000000000002
+1189,E01190,P110,Kingsley Shacklebolt,Cura,Ferula,2,2,8,0,treino,15.64,63.33,72.42,73.7,0,0,203.81
+1190,E01191,P111,Kingsley Shacklebolt,Cura,Rennervate,3,10,8,0,duelo_real,12.4,84.21,75.97,79.31,1,0,239.09
+1191,E01192,P112,Kingsley Shacklebolt,Cura,Vulnera Sanentur,5,8,9,1,missao,16.52,77.82,69.81,85.84,1,0,231.95
+1192,E01193,P113,Kingsley Shacklebolt,Cura,Episkey,1,9,9,1,duelo_real,12.54,72.45,72.35,80.47,0,0,222.73000000000002
+1193,E01194,P114,Kingsley Shacklebolt,Cura,Ferula,2,7,2,0,missao,9.24,82.19,76.11,79.77,0,0,232.82999999999998
+1194,E01195,P115,Kingsley Shacklebolt,Cura,Rennervate,3,4,3,1,exame,12.49,76.49,75.99,82.44,1,0,229.42999999999998
+1195,E01196,P116,Kingsley Shacklebolt,Cura,Vulnera Sanentur,5,6,1,0,exame,14.04,79.43,83.45,73.12,1,0,228.96
+1196,E01197,P117,Kingsley Shacklebolt,Cura,Episkey,2,10,4,0,duelo_real,10.46,79.43,80.97,87.64,1,0,244.58
+1197,E01198,P118,Kingsley Shacklebolt,Cura,Ferula,1,4,4,1,exame,11.69,72.92,82.24,75.43,1,0,224.9
+1198,E01199,P119,Kingsley Shacklebolt,Cura,Rennervate,2,5,8,0,exame,12.84,74.88,76.9,85.59,0,0,234.53
+1199,E01200,P120,Kingsley Shacklebolt,Cura,Vulnera Sanentur,5,1,6,1,treino,17.04,64.88,82.22,67.78,0,0,208.84
+1200,E01201,P001,Remus Lupin,Ataque,Expelliarmus,1,10,1,0,duelo_real,11.05,84.43,86.15,74.49,1,0,237.01999999999998
+1201,E01202,P002,Remus Lupin,Ataque,Estupefaca,3,7,9,0,missao,14.49,81.82,71.15,76.16,0,0,226.64
+1202,E01203,P003,Remus Lupin,Ataque,Bombarda,4,3,4,0,treino,15.68,81.95,76.54,73.86,0,0,224.67000000000002
+1203,E01204,P004,Remus Lupin,Ataque,Confringo,4,9,8,0,duelo_real,15.16,74.03,74.66,79.89,0,0,225.42
+1204,E01205,P005,Remus Lupin,Ataque,Expelliarmus,2,4,9,1,exame,15.02,81.62,76.38,80.5,0,0,234.48
+1205,E01206,P006,Remus Lupin,Ataque,Estupefaca,3,10,4,1,duelo_real,14.07,80.58,74.8,79.54,1,0,228.85000000000002
+1206,E01207,P007,Remus Lupin,Ataque,Bombarda,4,6,9,1,exame,15.33,81.7,69.58,77.57,0,0,226.51999999999998
+1207,E01208,P008,Remus Lupin,Ataque,Confringo,5,10,7,0,duelo_real,17.57,62.76,70.9,80.54,0,0,208.63
+1208,E01209,P009,Remus Lupin,Ataque,Expelliarmus,2,4,7,0,exame,13.23,79.31,65.85,74.82,1,0,216.75
+1209,E01210,P010,Remus Lupin,Ataque,Estupefaca,3,4,3,0,exame,14.33,77.84,70.05,80.9,1,0,221.45999999999998
+1210,E01211,P011,Remus Lupin,Ataque,Bombarda,4,7,10,0,missao,14.58,80.55,72.28,72.63,1,0,225.87999999999997
+1211,E01212,P012,Remus Lupin,Ataque,Confringo,4,4,4,1,exame,16.24,76.08,69.29,75.01,0,0,212.14
+1212,E01213,P013,Remus Lupin,Ataque,Expelliarmus,2,5,2,0,exame,10.38,78.8,78.4,77.57,1,0,229.39
+1213,E01214,P014,Remus Lupin,Ataque,Estupefaca,3,2,2,0,treino,12.23,72.34,65.35,80.56,1,0,212.02
+1214,E01215,P015,Remus Lupin,Ataque,Bombarda,3,9,10,0,duelo_real,14.47,76.67,75.68,78.79,0,0,229.67000000000004
+1215,E01216,P016,Remus Lupin,Ataque,Confringo,5,2,4,0,treino,14.52,74.14,87.92,77.57,1,0,235.10999999999999
+1216,E01217,P017,Remus Lupin,Ataque,Expelliarmus,2,7,9,1,missao,13.54,75.36,77.76,74.42,0,0,225.00000000000003
+1217,E01218,P018,Remus Lupin,Ataque,Estupefaca,3,7,1,1,missao,13.85,71.48,72.14,74.2,1,0,208.97
+1218,E01219,P019,Remus Lupin,Ataque,Bombarda,4,9,6,0,duelo_real,15.04,82.88,68.93,86.54,1,0,234.31000000000003
+1219,E01220,P020,Remus Lupin,Ataque,Confringo,5,10,7,1,duelo_real,15.22,75.5,71.52,70.37,0,0,214.17
+1220,E01221,P021,Remus Lupin,Defesa,Protego,2,4,3,0,exame,13.69,80.31,83.2,85.57,1,0,241.39
+1221,E01222,P022,Remus Lupin,Defesa,Finite Incantatem,4,6,5,1,exame,14.55,81.42,72.45,70.4,0,0,218.72
+1222,E01223,P023,Remus Lupin,Defesa,Protego Maxima,4,6,9,1,exame,15.34,81.69,70.39,79.07,1,0,229.80999999999997
+1223,E01224,P024,Remus Lupin,Defesa,Expecto Patronum,5,6,7,0,exame,15.19,76.35,81.14,76.99,1,0,232.29000000000002
+1224,E01225,P025,Remus Lupin,Defesa,Protego,2,9,9,1,duelo_real,13.95,85.39,71.81,74.86,1,0,230.11
+1225,E01226,P026,Remus Lupin,Defesa,Finite Incantatem,2,7,4,0,missao,12.17,79.53,83.08,87.99,1,0,245.43000000000004
+1226,E01227,P027,Remus Lupin,Defesa,Protego Maxima,4,9,10,0,duelo_real,14.78,76.84,77.36,79.76,1,0,234.17999999999998
+1227,E01228,P028,Remus Lupin,Defesa,Expecto Patronum,5,4,6,1,exame,14.46,81.99,65.26,81.08,0,0,224.86999999999998
+1228,E01229,P029,Remus Lupin,Defesa,Protego,2,2,1,0,treino,11.26,82.54,75.03,82.57,1,0,232.88
+1229,E01230,P030,Remus Lupin,Defesa,Finite Incantatem,3,8,8,1,missao,14.24,83.84,75.18,81.78,1,0,238.56
+1230,E01231,P031,Remus Lupin,Defesa,Protego Maxima,3,7,4,1,missao,13.34,73.27,80.27,96.38,1,0,244.57999999999996
+1231,E01232,P032,Remus Lupin,Defesa,Expecto Patronum,5,8,9,0,missao,15.72,81.68,81.99,82.41,0,1,243.36000000000004
+1232,E01233,P033,Remus Lupin,Defesa,Protego,2,9,2,0,duelo_real,12.55,76.68,74.57,79.64,1,0,223.33999999999997
+1233,E01234,P034,Remus Lupin,Defesa,Finite Incantatem,3,4,9,1,exame,14.45,87.04,81.57,72.99,0,0,239.15000000000003
+1234,E01235,P035,Remus Lupin,Defesa,Protego Maxima,4,5,1,0,exame,13.88,77.7,84.75,85.44,0,0,239.01
+1235,E01236,P036,Remus Lupin,Defesa,Expecto Patronum,4,9,9,1,duelo_real,15.38,85.84,67.69,77.09,1,0,229.24
+1236,E01237,P037,Remus Lupin,Defesa,Protego,2,7,1,0,missao,12.21,79.73,69.09,82.63,1,0,223.23999999999998
+1237,E01238,P038,Remus Lupin,Defesa,Finite Incantatem,3,6,5,0,exame,12.71,82.24,78.61,83.74,1,0,240.87999999999997
+1238,E01239,P039,Remus Lupin,Defesa,Protego Maxima,4,3,4,1,treino,13.9,86.24,83.16,79.18,1,0,243.67999999999998
+1239,E01240,P040,Remus Lupin,Defesa,Expecto Patronum,5,3,8,1,treino,16.31,76.06,73.82,80.99,0,0,227.56
+1240,E01241,P041,Remus Lupin,Encantamento,Wingardium Leviosa,1,8,1,0,missao,10.64,86.4,76.01,81.63,1,0,236.40000000000003
+1241,E01242,P042,Remus Lupin,Encantamento,Accio,2,7,3,0,missao,13.59,81.66,80.27,77.89,1,0,232.23
+1242,E01243,P043,Remus Lupin,Encantamento,Muffliato,3,1,3,0,treino,14.62,78.07,68.0,81.42,0,0,218.87
+1243,E01244,P044,Remus Lupin,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,13.79,83.51,78.55,85.42,1,0,240.69000000000003
+1244,E01245,P045,Remus Lupin,Encantamento,Wingardium Leviosa,1,4,8,1,exame,11.62,76.03,75.8,84.41,1,0,234.61999999999998
+1245,E01246,P046,Remus Lupin,Encantamento,Accio,2,9,6,1,duelo_real,13.23,83.52,76.37,75.53,1,0,231.19
+1246,E01247,P047,Remus Lupin,Encantamento,Muffliato,3,3,1,1,treino,12.56,80.82,80.43,71.82,1,0,225.51
+1247,E01248,P048,Remus Lupin,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,16.42,70.72,73.21,72.41,1,0,215.92000000000002
+1248,E01249,P049,Remus Lupin,Encantamento,Wingardium Leviosa,1,4,8,0,exame,14.14,72.99,67.91,76.96,1,0,213.71999999999997
+1249,E01250,P050,Remus Lupin,Encantamento,Accio,2,2,2,0,treino,12.29,84.01,71.43,84.99,1,0,233.14000000000001
+1250,E01251,P051,Remus Lupin,Encantamento,Muffliato,3,5,10,1,exame,14.76,75.53,71.86,80.37,1,0,227.0
+1251,E01252,P052,Remus Lupin,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,16.16,77.17,66.13,76.01,0,0,214.15
+1252,E01253,P053,Remus Lupin,Encantamento,Wingardium Leviosa,1,5,3,0,exame,10.91,83.62,77.2,80.38,1,0,235.29
+1253,E01254,P054,Remus Lupin,Encantamento,Accio,2,1,7,1,treino,14.8,79.97,72.4,84.17,1,0,231.74
+1254,E01255,P055,Remus Lupin,Encantamento,Muffliato,3,1,7,0,treino,14.15,78.69,82.91,84.85,1,0,243.29999999999998
+1255,E01256,P056,Remus Lupin,Encantamento,Feitico de Desilusao,4,5,10,1,exame,17.91,79.64,71.58,83.71,0,0,231.02
+1256,E01257,P057,Remus Lupin,Encantamento,Wingardium Leviosa,1,2,2,1,treino,11.31,81.12,78.26,87.88,1,0,239.95
+1257,E01258,P058,Remus Lupin,Encantamento,Accio,2,4,2,0,exame,12.17,72.53,74.8,79.66,1,0,219.82
+1258,E01259,P059,Remus Lupin,Encantamento,Muffliato,4,4,10,0,exame,13.24,71.68,66.86,80.35,0,0,219.65
+1259,E01260,P060,Remus Lupin,Encantamento,Feitico de Desilusao,4,6,9,0,exame,15.6,83.52,70.84,73.7,1,0,226.46
+1260,E01261,P061,Remus Lupin,Transfiguracao,Reparifarge,3,1,5,0,treino,14.32,78.0,67.1,77.05,0,0,215.82999999999998
+1261,E01262,P062,Remus Lupin,Transfiguracao,Vera Verto,3,2,6,0,treino,13.09,72.73,72.55,80.12,1,0,222.31
+1262,E01263,P063,Remus Lupin,Transfiguracao,Duro,4,3,9,0,treino,16.32,74.34,78.96,74.76,0,0,224.74
+1263,E01264,P064,Remus Lupin,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,15.23,79.12,72.02,71.34,1,0,215.25
+1264,E01265,P065,Remus Lupin,Transfiguracao,Reparifarge,2,7,10,0,missao,14.66,74.43,71.76,69.8,0,0,213.33
+1265,E01266,P066,Remus Lupin,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,13.64,84.11,71.09,79.73,1,0,226.29000000000002
+1266,E01267,P067,Remus Lupin,Transfiguracao,Duro,4,9,9,1,duelo_real,15.29,78.72,81.74,73.98,1,0,233.15
+1267,E01268,P068,Remus Lupin,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,13.75,77.96,66.99,78.38,0,0,216.57999999999998
+1268,E01269,P069,Remus Lupin,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,14.27,88.07,72.31,74.43,1,0,229.54
+1269,E01270,P070,Remus Lupin,Transfiguracao,Vera Verto,3,2,7,1,treino,14.46,68.76,69.25,78.85,1,0,213.39999999999998
+1270,E01271,P071,Remus Lupin,Transfiguracao,Duro,4,10,2,1,duelo_real,13.72,80.38,66.39,78.53,1,0,218.57999999999998
+1271,E01272,P072,Remus Lupin,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,15.36,81.37,72.36,80.41,1,0,231.78000000000003
+1272,E01273,P073,Remus Lupin,Transfiguracao,Reparifarge,2,7,2,1,missao,13.07,69.24,69.54,83.37,0,0,213.08
+1273,E01274,P074,Remus Lupin,Transfiguracao,Vera Verto,3,2,4,0,treino,11.68,80.57,83.9,83.42,1,0,244.20999999999998
+1274,E01275,P075,Remus Lupin,Transfiguracao,Duro,4,8,6,1,missao,17.1,71.91,68.27,72.54,0,0,205.62000000000003
+1275,E01276,P076,Remus Lupin,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,16.38,73.93,71.35,76.26,0,0,218.16000000000003
+1276,E01277,P077,Remus Lupin,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,13.95,77.98,65.74,71.11,0,0,206.88
+1277,E01278,P078,Remus Lupin,Transfiguracao,Vera Verto,3,8,4,1,missao,13.93,88.66,68.2,79.6,1,0,230.53
+1278,E01279,P079,Remus Lupin,Transfiguracao,Duro,3,7,9,0,missao,14.42,74.52,70.0,77.68,0,0,219.78
+1279,E01280,P080,Remus Lupin,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,15.71,78.32,66.75,68.42,0,0,206.78
+1280,E01281,P081,Remus Lupin,Pocoes,Antidoto simples,1,4,4,0,exame,13.37,78.63,76.45,76.76,1,0,224.46999999999997
+1281,E01282,P082,Remus Lupin,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,13.21,75.1,70.96,79.74,0,0,218.59
+1282,E01283,P083,Remus Lupin,Pocoes,Pocao Polissuco,4,6,2,1,exame,15.3,74.42,70.93,71.36,0,0,207.41000000000003
+1283,E01284,P084,Remus Lupin,Pocoes,Veritaserum,5,9,5,0,duelo_real,16.0,76.43,66.28,73.86,0,0,210.57
+1284,E01285,P085,Remus Lupin,Pocoes,Antidoto simples,1,10,3,1,duelo_real,13.38,75.74,77.42,81.27,0,0,225.05
+1285,E01286,P086,Remus Lupin,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,13.42,67.46,71.03,82.14,1,0,219.21
+1286,E01287,P087,Remus Lupin,Pocoes,Pocao Polissuco,4,4,8,0,exame,15.73,71.55,71.76,69.22,0,0,208.8
+1287,E01288,P088,Remus Lupin,Pocoes,Veritaserum,5,3,4,0,treino,15.95,76.13,73.26,67.09,1,0,210.53
+1288,E01289,P089,Remus Lupin,Pocoes,Antidoto simples,1,1,8,0,treino,13.42,73.45,71.45,78.14,0,0,218.62000000000003
+1289,E01290,P090,Remus Lupin,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,14.23,78.56,68.42,74.6,1,0,218.35000000000002
+1290,E01291,P091,Remus Lupin,Pocoes,Pocao Polissuco,4,7,10,0,missao,14.4,84.8,73.99,75.25,0,0,233.64
+1291,E01292,P092,Remus Lupin,Pocoes,Veritaserum,5,9,3,1,duelo_real,15.23,78.27,74.16,76.22,0,0,221.42000000000002
+1292,E01293,P093,Remus Lupin,Pocoes,Antidoto simples,1,2,3,0,treino,12.12,78.26,78.51,77.86,1,0,227.51
+1293,E01294,P094,Remus Lupin,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,14.23,76.49,77.61,80.79,0,0,227.66
+1294,E01295,P095,Remus Lupin,Pocoes,Pocao Polissuco,4,5,5,1,exame,15.49,78.18,72.26,71.42,1,0,216.37
+1295,E01296,P096,Remus Lupin,Pocoes,Veritaserum,5,7,2,0,missao,14.9,71.99,69.24,81.53,0,1,213.85999999999999
+1296,E01297,P097,Remus Lupin,Pocoes,Antidoto simples,1,7,1,1,missao,11.86,83.72,73.39,77.02,1,0,225.26999999999998
+1297,E01298,P098,Remus Lupin,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,14.59,64.62,71.64,78.2,0,0,211.86999999999998
+1298,E01299,P099,Remus Lupin,Pocoes,Pocao Polissuco,4,6,6,0,exame,14.31,66.35,78.95,76.45,0,0,217.44
+1299,E01300,P100,Remus Lupin,Pocoes,Veritaserum,5,2,4,1,treino,16.65,83.27,78.2,76.6,1,0,231.42
+1300,E01301,P101,Remus Lupin,Cura,Episkey,2,6,6,1,exame,13.64,83.24,78.58,81.8,1,0,238.98000000000002
+1301,E01302,P102,Remus Lupin,Cura,Ferula,2,10,9,0,duelo_real,13.01,79.87,82.89,83.41,1,0,245.15999999999997
+1302,E01303,P103,Remus Lupin,Cura,Rennervate,3,5,2,0,exame,13.15,82.81,77.91,83.09,1,0,236.66
+1303,E01304,P104,Remus Lupin,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,15.86,75.09,70.86,79.27,0,0,221.35999999999996
+1304,E01305,P105,Remus Lupin,Cura,Episkey,2,8,7,0,missao,12.28,86.29,83.75,85.35,1,1,252.10999999999999
+1305,E01306,P106,Remus Lupin,Cura,Ferula,2,6,2,1,exame,13.74,76.21,76.77,81.97,0,0,225.20999999999998
+1306,E01307,P107,Remus Lupin,Cura,Rennervate,2,5,9,0,exame,13.72,78.78,77.13,83.04,1,0,237.23
+1307,E01308,P108,Remus Lupin,Cura,Vulnera Sanentur,5,2,8,0,treino,16.68,79.35,68.49,81.54,0,0,225.7
+1308,E01309,P109,Remus Lupin,Cura,Episkey,1,10,9,1,duelo_real,11.76,73.78,74.95,86.32,0,0,233.29000000000002
+1309,E01310,P110,Remus Lupin,Cura,Ferula,2,2,8,0,treino,13.36,79.67,80.29,77.54,1,0,235.14
+1310,E01311,P111,Remus Lupin,Cura,Rennervate,3,10,8,0,duelo_real,13.02,75.46,83.4,91.2,1,0,249.04
+1311,E01312,P112,Remus Lupin,Cura,Vulnera Sanentur,5,8,9,1,missao,16.96,72.27,74.07,73.66,0,0,217.03999999999996
+1312,E01313,P113,Remus Lupin,Cura,Episkey,1,9,9,1,duelo_real,13.26,80.64,81.46,79.24,1,0,239.07999999999998
+1313,E01314,P114,Remus Lupin,Cura,Ferula,2,7,2,0,missao,12.75,90.78,75.42,81.58,1,0,240.02999999999997
+1314,E01315,P115,Remus Lupin,Cura,Rennervate,3,4,3,1,exame,14.86,83.22,84.69,77.83,1,0,237.88
+1315,E01316,P116,Remus Lupin,Cura,Vulnera Sanentur,5,6,1,0,exame,15.12,75.67,67.23,79.49,0,0,213.26999999999998
+1316,E01317,P117,Remus Lupin,Cura,Episkey,2,10,4,0,duelo_real,12.57,82.89,76.36,77.99,0,0,230.67000000000002
+1317,E01318,P118,Remus Lupin,Cura,Ferula,1,4,4,1,exame,12.48,78.6,77.82,87.48,1,0,237.42
+1318,E01319,P119,Remus Lupin,Cura,Rennervate,2,5,8,0,exame,13.36,82.67,75.82,78.49,0,0,233.62
+1319,E01320,P120,Remus Lupin,Cura,Vulnera Sanentur,5,1,6,1,treino,16.88,76.96,73.95,78.17,0,0,223.2
+1320,E01321,P001,Nymphadora Tonks,Ataque,Expelliarmus,1,10,1,0,duelo_real,9.39,89.04,81.82,83.65,1,0,248.12
+1321,E01322,P002,Nymphadora Tonks,Ataque,Estupefaca,3,7,9,0,missao,11.95,83.28,80.12,84.53,1,0,248.98000000000002
+1322,E01323,P003,Nymphadora Tonks,Ataque,Bombarda,4,3,4,0,treino,13.36,81.4,71.74,74.09,0,0,221.87
+1323,E01324,P004,Nymphadora Tonks,Ataque,Confringo,4,9,8,0,duelo_real,12.98,74.45,88.86,76.57,0,0,238.9
+1324,E01325,P005,Nymphadora Tonks,Ataque,Expelliarmus,2,4,9,1,exame,12.46,83.84,74.03,77.75,0,0,234.16
+1325,E01326,P006,Nymphadora Tonks,Ataque,Estupefaca,3,10,4,1,duelo_real,12.26,81.44,70.17,75.27,1,0,222.62
+1326,E01327,P007,Nymphadora Tonks,Ataque,Bombarda,4,6,9,1,exame,15.0,70.54,79.94,73.84,0,0,222.32000000000002
+1327,E01328,P008,Nymphadora Tonks,Ataque,Confringo,5,10,7,0,duelo_real,15.4,78.85,67.95,72.93,1,0,217.33
+1328,E01329,P009,Nymphadora Tonks,Ataque,Expelliarmus,2,4,7,0,exame,11.69,77.48,80.73,76.16,1,0,232.68
+1329,E01330,P010,Nymphadora Tonks,Ataque,Estupefaca,3,4,3,0,exame,10.74,76.42,84.31,78.65,1,0,235.64000000000001
+1330,E01331,P011,Nymphadora Tonks,Ataque,Bombarda,4,7,10,0,missao,14.07,72.55,73.33,73.79,0,0,219.60000000000002
+1331,E01332,P012,Nymphadora Tonks,Ataque,Confringo,4,4,4,1,exame,12.91,73.25,69.96,71.06,0,0,209.35999999999999
+1332,E01333,P013,Nymphadora Tonks,Ataque,Expelliarmus,2,5,2,0,exame,12.29,74.49,81.21,81.11,1,0,229.52
+1333,E01334,P014,Nymphadora Tonks,Ataque,Estupefaca,3,2,2,0,treino,11.03,74.82,83.74,70.68,1,1,223.21
+1334,E01335,P015,Nymphadora Tonks,Ataque,Bombarda,3,9,10,0,duelo_real,13.14,77.73,74.6,79.34,0,0,231.52999999999997
+1335,E01336,P016,Nymphadora Tonks,Ataque,Confringo,5,2,4,0,treino,14.19,68.22,66.94,71.4,0,0,201.37
+1336,E01337,P017,Nymphadora Tonks,Ataque,Expelliarmus,2,7,9,1,missao,12.02,81.17,75.44,71.43,1,1,227.02
+1337,E01338,P018,Nymphadora Tonks,Ataque,Estupefaca,3,7,1,1,missao,12.6,81.22,69.1,83.18,0,0,224.9
+1338,E01339,P019,Nymphadora Tonks,Ataque,Bombarda,4,9,6,0,duelo_real,13.41,72.43,72.24,76.36,0,0,217.62000000000003
+1339,E01340,P020,Nymphadora Tonks,Ataque,Confringo,5,10,7,1,duelo_real,14.98,73.74,66.71,75.25,0,0,212.72
+1340,E01341,P021,Nymphadora Tonks,Defesa,Protego,2,4,3,0,exame,11.29,70.99,77.92,76.58,1,1,219.20000000000002
+1341,E01342,P022,Nymphadora Tonks,Defesa,Finite Incantatem,4,6,5,1,exame,13.88,73.32,77.28,78.96,0,0,224.68
+1342,E01343,P023,Nymphadora Tonks,Defesa,Protego Maxima,4,6,9,1,exame,14.22,85.73,72.07,68.09,0,1,223.67000000000002
+1343,E01344,P024,Nymphadora Tonks,Defesa,Expecto Patronum,5,6,7,0,exame,13.24,77.17,79.01,73.52,0,0,228.45999999999998
+1344,E01345,P025,Nymphadora Tonks,Defesa,Protego,2,9,9,1,duelo_real,11.06,78.98,79.57,76.23,1,0,235.72000000000003
+1345,E01346,P026,Nymphadora Tonks,Defesa,Finite Incantatem,2,7,4,0,missao,11.17,74.33,84.18,78.0,1,1,231.34
+1346,E01347,P027,Nymphadora Tonks,Defesa,Protego Maxima,4,9,10,0,duelo_real,13.73,69.88,80.61,76.21,1,0,227.97
+1347,E01348,P028,Nymphadora Tonks,Defesa,Expecto Patronum,5,4,6,1,exame,14.64,71.68,77.72,72.47,0,0,218.23000000000002
+1348,E01349,P029,Nymphadora Tonks,Defesa,Protego,2,2,1,0,treino,12.92,78.52,73.71,68.56,0,0,210.87
+1349,E01350,P030,Nymphadora Tonks,Defesa,Finite Incantatem,3,8,8,1,missao,12.5,73.36,77.45,76.48,0,0,225.79000000000002
+1350,E01351,P031,Nymphadora Tonks,Defesa,Protego Maxima,3,7,4,1,missao,11.13,79.03,65.58,78.19,1,0,219.67000000000002
+1351,E01352,P032,Nymphadora Tonks,Defesa,Expecto Patronum,5,8,9,0,missao,13.65,68.08,76.21,78.58,0,0,223.22
+1352,E01353,P033,Nymphadora Tonks,Defesa,Protego,2,9,2,0,duelo_real,10.86,78.59,81.41,78.73,0,0,231.87
+1353,E01354,P034,Nymphadora Tonks,Defesa,Finite Incantatem,3,4,9,1,exame,13.06,73.6,74.15,76.4,1,0,224.09
+1354,E01355,P035,Nymphadora Tonks,Defesa,Protego Maxima,4,5,1,0,exame,12.61,76.36,80.15,74.99,1,0,224.89
+1355,E01356,P036,Nymphadora Tonks,Defesa,Expecto Patronum,4,9,9,1,duelo_real,12.68,75.41,78.66,77.46,0,0,231.84999999999997
+1356,E01357,P037,Nymphadora Tonks,Defesa,Protego,2,7,1,0,missao,10.55,82.71,80.17,72.49,1,0,228.82
+1357,E01358,P038,Nymphadora Tonks,Defesa,Finite Incantatem,3,6,5,0,exame,12.21,69.84,80.89,72.89,0,1,218.41
+1358,E01359,P039,Nymphadora Tonks,Defesa,Protego Maxima,4,3,4,1,treino,11.74,81.88,72.28,79.61,1,0,231.02999999999997
+1359,E01360,P040,Nymphadora Tonks,Defesa,Expecto Patronum,5,3,8,1,treino,15.5,69.25,77.45,74.36,0,0,218.56
+1360,E01361,P041,Nymphadora Tonks,Encantamento,Wingardium Leviosa,1,8,1,0,missao,10.62,69.95,80.47,78.34,1,0,221.14000000000001
+1361,E01362,P042,Nymphadora Tonks,Encantamento,Accio,2,7,3,0,missao,11.58,81.27,69.21,72.64,0,0,216.54
+1362,E01363,P043,Nymphadora Tonks,Encantamento,Muffliato,3,1,3,0,treino,13.53,77.72,71.08,74.29,0,0,215.56000000000003
+1363,E01364,P044,Nymphadora Tonks,Encantamento,Feitico de Desilusao,4,9,2,0,duelo_real,12.28,74.16,88.13,73.09,0,0,229.1
+1364,E01365,P045,Nymphadora Tonks,Encantamento,Wingardium Leviosa,1,4,8,1,exame,11.64,80.57,81.03,78.52,1,0,238.48000000000002
+1365,E01366,P046,Nymphadora Tonks,Encantamento,Accio,2,9,6,1,duelo_real,11.95,77.48,76.04,68.97,1,0,219.54000000000002
+1366,E01367,P047,Nymphadora Tonks,Encantamento,Muffliato,3,3,1,1,treino,13.93,80.58,83.88,77.42,1,0,232.95
+1367,E01368,P048,Nymphadora Tonks,Encantamento,Feitico de Desilusao,5,9,10,0,duelo_real,14.23,71.18,70.27,69.35,0,0,211.57
+1368,E01369,P049,Nymphadora Tonks,Encantamento,Wingardium Leviosa,1,4,8,0,exame,11.26,77.83,77.04,84.51,1,0,238.12
+1369,E01370,P050,Nymphadora Tonks,Encantamento,Accio,2,2,2,0,treino,11.86,78.13,69.51,72.69,1,0,213.46999999999997
+1370,E01371,P051,Nymphadora Tonks,Encantamento,Muffliato,3,5,10,1,exame,13.72,76.06,79.22,75.55,0,0,230.10999999999999
+1371,E01372,P052,Nymphadora Tonks,Encantamento,Feitico de Desilusao,4,10,7,1,duelo_real,14.73,69.74,74.07,74.16,0,0,214.24
+1372,E01373,P053,Nymphadora Tonks,Encantamento,Wingardium Leviosa,1,5,3,0,exame,10.69,75.57,70.46,74.2,1,1,213.53999999999996
+1373,E01374,P054,Nymphadora Tonks,Encantamento,Accio,2,1,7,1,treino,12.5,69.53,73.04,78.51,0,0,217.57999999999998
+1374,E01375,P055,Nymphadora Tonks,Encantamento,Muffliato,3,1,7,0,treino,12.96,75.41,73.78,76.84,0,0,223.07
+1375,E01376,P056,Nymphadora Tonks,Encantamento,Feitico de Desilusao,4,5,10,1,exame,15.07,80.01,79.57,71.64,1,0,231.14999999999998
+1376,E01377,P057,Nymphadora Tonks,Encantamento,Wingardium Leviosa,1,2,2,1,treino,10.49,80.33,72.28,79.27,1,0,225.39
+1377,E01378,P058,Nymphadora Tonks,Encantamento,Accio,2,4,2,0,exame,12.62,85.28,77.39,69.97,1,0,225.02
+1378,E01379,P059,Nymphadora Tonks,Encantamento,Muffliato,4,4,10,0,exame,14.16,67.87,67.91,66.93,0,0,202.55
+1379,E01380,P060,Nymphadora Tonks,Encantamento,Feitico de Desilusao,4,6,9,0,exame,12.9,71.17,73.35,70.4,0,0,215.01999999999998
+1380,E01381,P061,Nymphadora Tonks,Transfiguracao,Reparifarge,3,1,5,0,treino,13.23,75.95,71.95,71.63,1,0,215.3
+1381,E01382,P062,Nymphadora Tonks,Transfiguracao,Vera Verto,3,2,6,0,treino,11.62,76.17,76.19,81.1,1,1,230.84
+1382,E01383,P063,Nymphadora Tonks,Transfiguracao,Duro,4,3,9,0,treino,13.71,77.53,72.84,73.79,0,0,223.45000000000002
+1383,E01384,P064,Nymphadora Tonks,Transfiguracao,Piertotum Locomotor,5,6,2,1,exame,13.96,81.47,76.77,78.37,1,0,230.65
+1384,E01385,P065,Nymphadora Tonks,Transfiguracao,Reparifarge,2,7,10,0,missao,11.81,79.38,78.48,73.72,0,0,231.77
+1385,E01386,P066,Nymphadora Tonks,Transfiguracao,Vera Verto,3,9,1,0,duelo_real,10.64,81.66,83.55,82.61,1,0,242.18
+1386,E01387,P067,Nymphadora Tonks,Transfiguracao,Duro,4,9,9,1,duelo_real,13.3,78.45,80.99,80.48,1,0,240.62
+1387,E01388,P068,Nymphadora Tonks,Transfiguracao,Piertotum Locomotor,5,9,2,1,duelo_real,13.2,74.24,75.18,79.27,0,0,222.49
+1388,E01389,P069,Nymphadora Tonks,Transfiguracao,Reparifarge,2,10,6,1,duelo_real,9.85,77.07,80.7,78.84,0,0,234.76
+1389,E01390,P070,Nymphadora Tonks,Transfiguracao,Vera Verto,3,2,7,1,treino,13.9,76.47,74.26,78.4,1,0,226.23000000000002
+1390,E01391,P071,Nymphadora Tonks,Transfiguracao,Duro,4,10,2,1,duelo_real,12.43,85.94,76.98,78.03,1,0,235.52
+1391,E01392,P072,Nymphadora Tonks,Transfiguracao,Piertotum Locomotor,4,8,8,1,missao,15.34,73.63,79.45,79.71,1,0,230.44999999999996
+1392,E01393,P073,Nymphadora Tonks,Transfiguracao,Reparifarge,2,7,2,1,missao,12.89,83.55,81.18,85.1,1,0,241.94
+1393,E01394,P074,Nymphadora Tonks,Transfiguracao,Vera Verto,3,2,4,0,treino,12.26,79.13,78.04,79.38,1,0,232.29000000000002
+1394,E01395,P075,Nymphadora Tonks,Transfiguracao,Duro,4,8,6,1,missao,12.47,73.23,80.87,80.47,1,0,233.10000000000002
+1395,E01396,P076,Nymphadora Tonks,Transfiguracao,Piertotum Locomotor,5,7,8,1,missao,15.1,71.82,67.76,71.01,0,0,208.48999999999998
+1396,E01397,P077,Nymphadora Tonks,Transfiguracao,Reparifarge,2,10,4,0,duelo_real,9.01,83.44,87.22,74.16,1,0,242.81
+1397,E01398,P078,Nymphadora Tonks,Transfiguracao,Vera Verto,3,8,4,1,missao,12.9,79.82,80.43,79.57,0,1,232.92
+1398,E01399,P079,Nymphadora Tonks,Transfiguracao,Duro,3,7,9,0,missao,13.67,73.03,77.88,74.31,1,0,224.55
+1399,E01400,P080,Nymphadora Tonks,Transfiguracao,Piertotum Locomotor,5,8,4,0,missao,12.81,74.4,82.24,79.48,1,1,232.31
+1400,E01401,P081,Nymphadora Tonks,Pocoes,Antidoto simples,1,4,4,0,exame,11.86,68.59,74.24,64.81,0,0,200.77999999999997
+1401,E01402,P082,Nymphadora Tonks,Pocoes,Pocao Wiggenweld,3,8,3,0,missao,11.7,71.14,68.8,72.89,0,0,207.13
+1402,E01403,P083,Nymphadora Tonks,Pocoes,Pocao Polissuco,4,6,2,1,exame,13.31,65.04,72.39,68.75,0,0,198.87
+1403,E01404,P084,Nymphadora Tonks,Pocoes,Veritaserum,5,9,5,0,duelo_real,14.53,61.73,70.04,63.72,0,0,190.96
+1404,E01405,P085,Nymphadora Tonks,Pocoes,Antidoto simples,1,10,3,1,duelo_real,12.48,69.47,72.85,70.69,1,0,205.53
+1405,E01406,P086,Nymphadora Tonks,Pocoes,Pocao Wiggenweld,2,9,9,1,duelo_real,13.75,75.2,79.67,73.53,1,0,226.65
+1406,E01407,P087,Nymphadora Tonks,Pocoes,Pocao Polissuco,4,4,8,0,exame,15.13,63.53,63.1,66.3,0,0,189.8
+1407,E01408,P088,Nymphadora Tonks,Pocoes,Veritaserum,5,3,4,0,treino,13.17,78.87,76.63,78.73,1,0,231.06000000000003
+1408,E01409,P089,Nymphadora Tonks,Pocoes,Antidoto simples,1,1,8,0,treino,13.91,71.32,63.58,68.73,0,0,198.72
+1409,E01410,P090,Nymphadora Tonks,Pocoes,Pocao Wiggenweld,2,3,8,0,treino,12.97,67.81,70.37,64.81,0,0,200.02
+1410,E01411,P091,Nymphadora Tonks,Pocoes,Pocao Polissuco,4,7,10,0,missao,15.07,74.66,68.98,62.49,0,0,205.06
+1411,E01412,P092,Nymphadora Tonks,Pocoes,Veritaserum,5,9,3,1,duelo_real,14.47,68.45,71.29,72.19,0,0,205.46
+1412,E01413,P093,Nymphadora Tonks,Pocoes,Antidoto simples,1,2,3,0,treino,11.54,73.04,65.92,73.83,1,0,206.25000000000003
+1413,E01414,P094,Nymphadora Tonks,Pocoes,Pocao Wiggenweld,2,3,5,1,treino,13.62,74.57,67.5,69.86,0,0,205.31
+1414,E01415,P095,Nymphadora Tonks,Pocoes,Pocao Polissuco,4,5,5,1,exame,15.98,70.58,65.96,72.55,0,0,202.10999999999999
+1415,E01416,P096,Nymphadora Tonks,Pocoes,Veritaserum,5,7,2,0,missao,13.97,66.72,66.84,67.29,0,0,193.88000000000002
+1416,E01417,P097,Nymphadora Tonks,Pocoes,Antidoto simples,1,7,1,1,missao,11.22,76.77,76.67,68.59,1,0,213.81
+1417,E01418,P098,Nymphadora Tonks,Pocoes,Pocao Wiggenweld,2,4,10,0,exame,12.13,61.78,76.18,74.26,0,0,212.09000000000003
+1418,E01419,P099,Nymphadora Tonks,Pocoes,Pocao Polissuco,4,6,6,0,exame,14.79,72.3,66.08,68.21,1,0,202.79999999999998
+1419,E01420,P100,Nymphadora Tonks,Pocoes,Veritaserum,5,2,4,1,treino,15.17,76.16,70.75,59.3,0,0,200.04
+1420,E01421,P101,Nymphadora Tonks,Cura,Episkey,2,6,6,1,exame,12.67,64.37,75.47,71.63,0,0,206.8
+1421,E01422,P102,Nymphadora Tonks,Cura,Ferula,2,10,9,0,duelo_real,12.9,74.83,71.64,69.19,0,0,213.76
+1422,E01423,P103,Nymphadora Tonks,Cura,Rennervate,3,5,2,0,exame,13.77,79.38,67.54,70.76,0,0,208.91
+1423,E01424,P104,Nymphadora Tonks,Cura,Vulnera Sanentur,5,10,7,1,duelo_real,16.28,73.21,74.06,64.96,0,0,207.94999999999996
+1424,E01425,P105,Nymphadora Tonks,Cura,Episkey,2,8,7,0,missao,12.25,76.38,75.72,61.69,0,0,210.54
+1425,E01426,P106,Nymphadora Tonks,Cura,Ferula,2,6,2,1,exame,11.17,72.69,71.44,72.54,0,1,208.50000000000003
+1426,E01427,P107,Nymphadora Tonks,Cura,Rennervate,2,5,9,0,exame,13.66,72.86,77.13,77.37,0,0,224.70000000000002
+1427,E01428,P108,Nymphadora Tonks,Cura,Vulnera Sanentur,5,2,8,0,treino,17.4,67.0,65.2,70.66,0,0,198.45999999999998
+1428,E01429,P109,Nymphadora Tonks,Cura,Episkey,1,10,9,1,duelo_real,11.95,76.47,79.72,77.41,1,0,232.65
+1429,E01430,P110,Nymphadora Tonks,Cura,Ferula,2,2,8,0,treino,12.99,73.78,67.97,67.42,0,0,206.18
+1430,E01431,P111,Nymphadora Tonks,Cura,Rennervate,3,10,8,0,duelo_real,12.82,73.42,72.38,65.47,0,1,208.45000000000002
+1431,E01432,P112,Nymphadora Tonks,Cura,Vulnera Sanentur,5,8,9,1,missao,16.01,74.61,72.41,71.27,0,0,216.27999999999997
+1432,E01433,P113,Nymphadora Tonks,Cura,Episkey,1,9,9,1,duelo_real,12.26,78.33,82.4,69.33,1,0,228.8
+1433,E01434,P114,Nymphadora Tonks,Cura,Ferula,2,7,2,0,missao,11.37,80.24,74.83,71.65,0,1,218.35
+1434,E01435,P115,Nymphadora Tonks,Cura,Rennervate,3,4,3,1,exame,14.43,78.62,64.36,69.83,0,0,204.38
+1435,E01436,P116,Nymphadora Tonks,Cura,Vulnera Sanentur,5,6,1,0,exame,13.74,72.22,74.74,63.63,0,0,202.84999999999997
+1436,E01437,P117,Nymphadora Tonks,Cura,Episkey,2,10,4,0,duelo_real,12.88,78.24,71.15,66.42,1,0,209.93
+1437,E01438,P118,Nymphadora Tonks,Cura,Ferula,1,4,4,1,exame,11.28,75.23,73.22,79.13,1,0,222.29999999999998
+1438,E01439,P119,Nymphadora Tonks,Cura,Rennervate,2,5,8,0,exame,14.09,72.08,68.88,65.46,0,0,202.32999999999996
+1439,E01440,P120,Nymphadora Tonks,Cura,Vulnera Sanentur,5,1,6,1,treino,16.9,75.11,80.45,66.78,1,0,217.44
